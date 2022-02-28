@@ -1,0 +1,2057 @@
+timestamp,company,level,title,totalyearlycompensation,yearsofexperience,yearsatcompany,stockgrantvalue,bonus,city,state,country
+2018-06-05 14:06:30,LinkedIn,5.0,Data Scientist,233.0,4.0,0.0,220.0,10.0,San Francisco,CA,US
+2018-06-08 00:29:47,Amazon,4.0,Data Scientist,140.0,2.0,2.0,48000.0,0.0,Seattle,WA,US
+2018-06-08 09:49:25,Microsoft,64.0,Data Scientist,218.0,11.0,11.0,28.0,23.0,Seattle,WA,US
+2018-06-08 17:55:09,ebay,26.0,Data Scientist,180.0,10.0,5.0,0.0,0.0,San Jose,CA,US
+2018-06-10 19:39:35,Twitter,4.0,Data Scientist,500.0,4.0,4.0,280.0,20.0,San Francisco,CA,US
+2018-06-12 20:54:06,Google,6.0,Data Scientist,685.0,22.0,2.0,296000.0,55000.0,Kirkland,WA,US
+2018-06-17 11:39:38,Facebook,5.0,Data Scientist,370.0,8.0,3.0,140.0,40.0,Seattle,WA,US
+2018-06-17 19:02:50,Amazon,5.0,Data Scientist,200.0,3.0,0.0,105.0,81.0,Seattle,WA,US
+2018-06-20 00:47:43,Microsoft,65.0,Data Scientist,340.0,11.0,11.0,80.0,60.0,Bellevue,WA,US
+2018-06-20 00:49:11,Google,6.0,Data Scientist,690.0,10.0,0.0,298.0,72.0,Kirkland,WA,US
+2018-06-21 10:54:35,Netflix,5.0,Data Scientist,600.0,3.0,1.0,0.0,0.0,Los Gatos,CA,US
+2018-06-26 21:37:46,GrubHub,5.0,Data Scientist,187.0,4.0,1.0,145.0,10.0,New York,NY,US
+2018-07-05 13:43:39,Facebook,5.0,Data Scientist,225.0,11.0,6.0,0.0,0.0,Menlo Park,CA,US
+2018-07-16 20:11:40,ADP,4.0,Data Scientist,185.0,8.0,2.0,20000.0,15000.0,Roseland,NJ,US
+2018-08-04 20:22:00,Amazon,4.0,Data Scientist,130.0,7.0,1.0,0.0,0.0,Seattle,WA,US
+2018-08-10 19:51:56,Capital One,4.0,Data Scientist,112.0,4.0,1.0,0.0,5.0,Mc Lean,VA,US
+2018-08-15 12:23:35,Microsoft,67.0,Data Scientist,500.0,20.0,3.0,0.0,0.0,Seattle,WA,US
+2018-08-15 15:38:02,Microsoft,62.0,Data Scientist,220.0,2.0,2.0,67.0,15.0,Redmond,WA,US
+2018-08-15 20:38:36,Workday,2.0,Data Scientist,147.0,1.0,0.0,23.0,0.0,San Francisco,CA,US
+2018-08-17 01:25:50,Microsoft,65.0,Data Scientist,340.0,9.0,2.0,96.0,41.0,Redmond,WA,US
+2018-08-17 22:47:11,Uber,4.0,Data Scientist,235.0,2.0,2.0,90.0,13.0,San Francisco,CA,US
+2018-08-17 23:13:35,Intuit,6.0,Data Scientist,206.0,9.0,1.0,40.0,22.0,Mountain View,CA,US
+2018-08-22 12:28:01,Airbnb,3.0,Data Scientist,233.0,3.0,0.0,50.0,22.0,San Francisco,CA,US
+2018-08-23 23:06:29,Intuit,4.0,Data Scientist,250.0,5.0,3.0,40.0,20.0,Mountain View,CA,US
+2018-08-27 12:34:51,Microsoft,62.0,Data Scientist,149.0,9.0,1.0,0.0,0.0,Redmond,WA,US
+2018-09-03 16:18:09,Microsoft,65.0,Data Scientist,356.0,9.0,1.0,111.0,40.0,Redmond,WA,US
+2018-09-05 18:55:36,eBay,1.0,Data Scientist,305.0,5.0,0.7,75.0,41.0,Seattle,WA,US
+2018-09-06 00:50:18,Facebook,4.0,Data Scientist,200.0,5.0,0.25,35.0,15.0,Menlo Park,CA,US
+2018-09-07 00:23:35,Apple,3.0,Data Scientist,215.0,0.0,0.0,38.0,52.0,Cupertino,CA,US
+2018-09-14 00:29:43,Google,6.0,Data Scientist,700.0,6.0,2.0,300.0,44.0,Seattle,WA,US
+2018-09-16 07:42:01,Microsoft,63.0,Data Scientist,243.0,2.0,1.0,78.0,11.0,Redmond,WA,US
+2018-09-16 14:00:08,Amazon,5.0,Data Scientist,260.0,3.0,1.0,100.0,0.0,Palo Alto,CA,US
+2018-09-17 15:37:28,Facebook,5.0,Data Scientist,240.0,10.0,1.0,45.0,24.0,Seattle,WA,US
+2018-09-23 12:10:49,Oath,3.0,Data Scientist,160.0,1.0,1.0,10.0,20.0,New York,NY,US
+2018-09-23 13:26:28,PayPal,5.0,Data Scientist,220.0,7.0,2.5,50.0,20.0,San Jose,CA,US
+2018-09-26 22:14:28,Google,4.0,Data Scientist,210.0,1.0,1.0,42.0,36.0,Mountain View,CA,US
+2018-09-26 22:15:36,Google,4.0,Data Scientist,210.0,1.0,1.0,42.0,36.0,Mountain View,CA,US
+2018-09-27 02:58:43,Amazon,5.0,Data Scientist,115.0,6.0,2.0,0.0,0.0,Seattle,WA,US
+2018-09-27 02:58:46,Amazon,5.0,Data Scientist,115.0,6.0,2.0,0.0,0.0,Seattle,WA,US
+2018-09-28 00:58:15,Apple,3.0,Data Scientist,188.0,6.0,1.0,50.0,14.0,Cupertino,CA,US
+2018-09-28 10:01:06,Microsoft,63.0,Data Scientist,215.0,10.0,10.0,35.0,20.0,Redmond,WA,US
+2018-09-28 21:57:57,Uber,4.0,Data Scientist,240.0,2.0,0.0,60.0,40.0,San Francisco,CA,US
+2018-09-29 15:19:07,Twitter,2.0,Data Scientist,230.0,2.0,1.0,0.0,0.0,San Francisco,CA,US
+2018-10-04 13:10:39,Microsoft,64.0,Data Scientist,216.0,15.0,1.0,25.0,25.0,Redmond,WA,US
+2018-10-04 23:19:23,Amazon,6.0,Data Scientist,250.0,8.0,5.0,90000.0,0.0,Palo Alto,CA,US
+2018-10-08 22:55:54,Amazon,5.0,Data Scientist,155.0,6.0,2.0,35.0,0.0,Seattle,WA,US
+2018-10-09 21:09:44,Amazon,4.0,Data Scientist,125.0,3.0,1.0,0.0,0.0,Seattle,WA,US
+2018-10-10 01:30:48,Apple,4.0,Data Scientist,322.0,6.0,2.0,0.0,0.0,Cupertino,CA,US
+2018-10-13 06:05:30,Netflix,5.0,Data Scientist,400.0,2.0,2.0,0.0,0.0,Los Gatos,CA,US
+2018-10-13 10:54:47,Amazon,5.0,Data Scientist,157.0,2.0,1.0,17.0,22.0,Seattle,WA,US
+2018-10-15 05:17:36,Johnson and Johnson,1.0,Data Scientist,120.0,6.0,6.0,0.0,0.0,Boston,MA,US
+2018-10-16 14:21:06,Indeed,1.0,Data Scientist,100.0,1.0,1.0,0.0,15.0,Austin,TX,US
+2018-10-16 14:22:24,Indeed,1.0,Data Scientist,114.0,2.0,2.0,0.0,17.0,New York,NY,US
+2018-10-16 14:23:44,Indeed,2.0,Data Scientist,119.0,2.0,2.0,0.0,15.0,New York,NY,US
+2018-10-16 23:51:39,Lyft,3.0,Data Scientist,250.0,0.0,0.0,70.0,50.0,San Francisco,CA,US
+2018-10-17 05:41:01,Microsoft,62.0,Data Scientist,182.0,10.0,3.0,10.0,16.0,Boston,MA,US
+2018-10-17 05:43:41,Amazon,5.0,Data Scientist,185.0,7.0,2.0,60000.0,0.0,Seattle,WA,US
+2018-10-18 09:52:41,Google,2.0,Data Scientist,120.0,1.0,0.0,0.0,0.0,Santa Monica,CA,US
+2018-10-21 12:39:03,Intuit,6.0,Data Scientist,318.0,3.0,0.0,78.0,40.0,Mountain View,CA,US
+2018-10-23 13:50:27,JPMorgan Chase,8.0,Data Scientist,135.0,3.0,2.0,0.0,0.0,New York,NY,US
+2018-10-23 15:06:25,Amazon,5.0,Data Scientist,228.0,5.0,5.0,101.0,0.0,Seattle,WA,US
+2018-10-27 12:49:19,IBM,7.0,Data Scientist,137.0,2.0,1.0,0.0,2.0,San Jose,CA,US
+2018-10-28 16:36:57,Facebook,3.0,Data Scientist,193.0,1.0,0.0,0.0,0.0,San Francisco,CA,US
+2018-10-31 17:22:31,Apple,5.0,Data Scientist,425.0,9.0,1.0,150.0,75.0,Sunnyvale,CA,US
+2018-10-31 19:25:05,Facebook,6.0,Data Scientist,385.0,6.0,3.0,135.0,50.0,Menlo Park,CA,US
+2018-10-31 19:57:37,JPMorgan Chase,603.0,Data Scientist,150.0,5.0,5.0,0.0,25.0,Dallas,TX,US
+2018-10-31 20:06:46,Facebook,5.0,Data Scientist,280.0,3.0,0.0,67.0,28.0,San Francisco,CA,US
+2018-10-31 20:30:31,Microsoft,62.0,Data Scientist,180.0,2.0,2.0,24.0,20.0,Redmond,WA,US
+2018-10-31 21:20:22,DigitalOcean,2.0,Data Scientist,160.0,4.0,1.0,0.0,5.0,New York,NY,US
+2018-10-31 21:24:09,Amazon,4.0,Data Scientist,125.0,1.0,1.0,4.0,15.0,Seattle,WA,US
+2018-11-01 15:55:10,Microsoft,62.0,Data Scientist,180.0,9.0,3.0,15.0,22.0,Redmond,WA,US
+2018-11-01 15:56:36,Microsoft,62.0,Data Scientist,180.0,9.0,3.0,15.0,22.0,Redmond,WA,US
+2018-11-02 05:38:06,Other,5.0,Data Scientist,115.0,4.0,4.0,0.0,10.0,Boston,MA,US
+2018-11-02 14:56:24,Microsoft,62.0,Data Scientist,190.0,4.0,3.0,22.0,18.0,Redmond,WA,US
+2018-11-03 17:08:00,Microsoft,63.0,Data Scientist,225.0,2.0,1.0,55.0,15.0,Redmond,WA,US
+2018-11-05 15:34:19,Microsoft,60.0,Data Scientist,145.0,4.0,3.0,0.0,0.0,Sunnyvale,CA,US
+2018-11-06 13:53:06,Facebook,4.0,Data Scientist,230.0,0.0,0.0,0.0,0.0,Menlo Park,CA,US
+2018-11-12 17:40:41,Cisco,11.0,Data Scientist,200.0,8.0,3.0,30.0,18.0,Bellevue,WA,US
+2018-11-17 10:23:36,Airbnb,3.0,Data Scientist,284.0,3.0,0.0,68.0,50.0,San Francisco,CA,US
+2018-11-27 13:11:29,Amazon,5.0,Data Scientist,400.0,10.0,3.0,50.0,50.0,Seattle,WA,US
+2018-11-29 23:09:00,Facebook,5.0,Data Scientist,237.0,5.0,0.0,0.0,0.0,Menlo Park,CA,US
+2018-11-30 11:41:07,Microsoft,60.0,Data Scientist,145.0,2.0,1.0,12.0,6.0,Seattle,WA,US
+2018-11-30 21:17:24,SAS,3.0,Data Scientist,112.0,9.0,7.0,0.0,12.0,Cary,NC,US
+2018-12-01 13:38:49,Microsoft,59.0,Data Scientist,160.0,0.0,0.0,30.0,21.0,Redmond,WA,US
+2018-12-02 17:40:08,Feedzai,3.0,Data Scientist,140.0,4.0,3.0,20.0,20.0,Atlanta,GA,US
+2018-12-03 06:28:09,Tesla,4.0,Data Scientist,169.0,2.0,2.0,37.0,12.0,San Francisco,CA,US
+2018-12-04 06:58:24,Microsoft,62.0,Data Scientist,183.0,8.0,3.0,11.0,15.0,Cambridge,MA,US
+2018-12-04 20:28:46,Affirm,5.0,Data Scientist,220.0,5.0,0.0,0.0,0.0,San Francisco,CA,US
+2018-12-05 00:34:01,Bank of America Merrill Lynch,4.0,Data Scientist,145.0,2.0,1.0,0.0,0.0,New York,NY,US
+2018-12-05 23:26:52,The Climate Corporation,2.0,Data Scientist,145.0,5.0,0.0,0.0,20.0,Seattle,WA,US
+2018-12-07 09:28:24,Walmart,6.0,Data Scientist,195.0,10.0,4.0,35.0,30.0,Bentonville,AR,US
+2018-12-07 19:35:55,Airbnb,5.0,Data Scientist,430.0,7.0,0.0,180.0,40.0,San Francisco,CA,US
+2018-12-08 19:58:07,Amazon,5.0,Data Scientist,169.0,6.0,0.0,20.0,14.0,Seattle,WA,US
+2018-12-12 11:49:26,Walmart Labs,6.0,Data Scientist,320.0,10.0,2.0,90.0,40.0,San Francisco,CA,US
+2018-12-12 22:21:31,Google,5.0,Data Scientist,250.0,6.0,6.0,0.0,0.0,Mountain View,CA,US
+2018-12-12 22:21:31,Google,5.0,Data Scientist,250.0,6.0,6.0,0.0,0.0,Mountain View,CA,US
+2018-12-12 23:24:14,Amazon,5.0,Data Scientist,230.0,5.0,3.0,80000.0,0.0,Seattle,WA,US
+2018-12-13 20:37:34,PayPal,24.0,Data Scientist,182.0,5.0,2.0,28.0,14.0,San Jose,CA,US
+2018-12-20 13:50:39,Quantcast,4.0,Data Scientist,180.0,20.0,2.5,0.0,0.0,San Francisco,CA,US
+2018-12-20 14:48:29,Amazon,5.0,Data Scientist,196.0,4.0,1.0,0.0,0.0,Irvine,CA,US
+2018-12-21 06:47:06,Electronic Arts,5.0,Data Scientist,100.0,2.0,2.0,5.0,12.0,Austin,TX,US
+2018-12-21 06:47:06,Electronic Arts,5.0,Data Scientist,100.0,2.0,2.0,5.0,12.0,Austin,TX,US
+2018-12-21 14:29:13,Apple,4.0,Data Scientist,300.0,6.0,2.0,100.0,20.0,Cupertino,CA,US
+2018-12-22 14:58:23,Startup,4.0,Data Scientist,110.0,3.0,2.0,0.0,0.0,Los Angeles,CA,US
+2018-12-23 08:54:03,Lyft,3.0,Data Scientist,145.0,2.0,1.0,0.0,0.0,San Francisco,CA,US
+2018-12-25 20:06:22,Facebook,3.0,Data Scientist,150.0,0.0,0.0,25.0,10.0,Menlo Park,CA,US
+2018-12-26 09:35:59,Twitter,1.0,Data Scientist,187.0,0.0,0.5,43.0,7.0,San Francisco,CA,US
+2018-12-28 06:53:55,Capital One,4.0,Data Scientist,125.0,1.0,0.0,0.0,4.0,Washington,DC,US
+2018-12-28 09:09:43,Reddit,5.0,Data Scientist,185.0,5.0,4.0,0.0,0.0,Chicago,IL,US
+2018-12-28 14:33:18,LinkedIn,5.0,Data Scientist,281.0,3.0,2.0,100.0,16.0,Sunnyvale,CA,US
+2019-01-02 20:16:52,LinkedIn,5.0,Data Scientist,250.0,4.0,3.0,0.0,0.0,Mountain View,CA,US
+2019-01-08 19:26:59,Amazon,5.0,Data Scientist,154.0,4.0,1.0,7.0,22.0,Seattle,WA,US
+2019-01-09 12:46:17,Microsoft,61.0,Data Scientist,226.0,0.0,0.0,45.0,39.0,Bellevue,WA,US
+2019-01-15 16:47:08,Juniper Networks,7.0,Data Scientist,118.0,3.0,3.0,5.0,10.0,Boston,MA,US
+2019-01-15 20:54:51,Microsoft,66.0,Data Scientist,365.0,18.0,1.0,100.0,45.0,Redmond,WA,US
+2019-01-15 22:21:19,Microsoft,60.0,Data Scientist,192.0,0.0,0.2,38.0,37.0,Redmond,WA,US
+2019-01-17 00:47:44,Amazon,5.0,Data Scientist,260.0,10.0,3.0,105000.0,0.0,Palo Alto,CA,US
+2019-01-17 17:51:37,Oracle,2.0,Data Scientist,120.0,3.0,3.0,0.0,0.0,Broomfield,CO,US
+2019-01-18 13:33:23,Amazon,5.0,Data Scientist,187.0,4.0,1.0,0.0,0.0,Seattle,WA,US
+2019-01-21 20:37:46,Airbnb,3.0,Data Scientist,283.0,4.0,0.0,93.0,25.0,San Francisco,CA,US
+2019-01-22 13:51:01,Cisco,5.0,Data Scientist,240.0,8.0,2.0,90.0,0.0,San Francisco,CA,US
+2019-01-24 07:19:15,Toyota Research Institute,4.0,Data Scientist,265.0,6.0,2.0,0.0,80.0,Mountain View,CA,US
+2019-01-24 17:01:47,Intuit,5.0,Data Scientist,220.0,5.0,1.0,50.0,22.0,Mountain View,CA,US
+2019-01-28 09:47:43,Amazon,4.0,Data Scientist,209.0,3.0,2.0,57.0,15.0,Palo Alto,CA,US
+2019-01-30 20:29:25,Facebook,5.0,Data Scientist,350.0,4.0,4.0,0.0,0.0,San Francisco,CA,US
+2019-02-02 00:32:11,Goldman Sachs,4.0,Data Scientist,120.0,2.0,2.0,0.0,0.0,New York,NY,US
+2019-02-02 22:23:50,Affirm,3.0,Data Scientist,165.0,0.0,1.0,35.0,0.0,San Francisco,CA,US
+2019-02-03 10:25:05,Intel,6.0,Data Scientist,137.0,4.0,0.0,2.0,15.0,Hillsboro,OR,US
+2019-02-05 08:46:34,eBay,25.0,Data Scientist,176.0,2.0,2.0,20.0,14.0,San Jose,CA,US
+2019-02-05 15:49:06,Applied Materials,4.0,Data Scientist,165.0,13.0,13.0,15.0,20.0,Santa Clara,CA,US
+2019-02-06 15:51:14,S&P GLOBAL,13.0,Data Scientist,135.0,1.0,1.0,0.0,0.0,New York,NY,US
+2019-02-06 19:58:24,Amazon,5.0,Data Scientist,181.0,4.0,1.0,6.0,30.0,Palo Alto,CA,US
+2019-02-06 22:54:47,Capital One,4.0,Data Scientist,132.0,1.0,2.0,0.0,8.0,San Francisco,CA,US
+2019-02-09 10:33:51,Pinterest,4.0,Data Scientist,310.0,2.0,1.0,135.0,15.0,San Francisco,CA,US
+2019-02-10 20:59:46,GE Digital,5.0,Data Scientist,178.0,1.0,1.0,0.0,0.0,San Francisco,CA,US
+2019-02-10 22:46:28,Deloitte,5.0,Data Scientist,190.0,3.0,0.0,0.0,30000.0,Chicago,IL,US
+2019-02-11 14:19:48,Apple,3.0,Data Scientist,230.0,1.0,4.0,80.0,16.0,Cupertino,CA,US
+2019-02-11 23:06:23,PayPal,24.0,Data Scientist,195.0,3.0,1.0,0.0,0.0,San Jose,CA,US
+2019-02-13 20:10:40,Uber,3.0,Data Scientist,195.0,3.0,2.0,50.0,15.0,San Francisco,CA,US
+2019-02-14 20:02:20,Intuit,5.0,Data Scientist,185.0,5.0,1.0,21.0,21.0,Mountain View,CA,US
+2019-02-15 20:38:59,Netflix,5.0,Data Scientist,655.0,5.0,2.0,0.0,0.0,Los Gatos,CA,US
+2019-02-16 12:13:46,Microsoft,61.0,Data Scientist,150.0,0.0,0.0,20.0,10.0,Redmond,WA,US
+2019-02-16 12:15:55,Microsoft,61.0,Data Scientist,150.0,0.0,0.0,0.0,0.0,Redmond,WA,US
+2019-02-17 22:47:17,airbnb,4.0,Data Scientist,195.0,8.0,0.0,0.0,0.0,San Francisco,CA,US
+2019-02-17 23:42:41,Microsoft,62.0,Data Scientist,150.0,7.0,1.0,60.0,0.0,Redmond,WA,US
+2019-02-18 18:51:12,eBay,1.0,Data Scientist,315.0,10.0,3.0,85.0,40.0,Seattle,WA,US
+2019-02-19 03:47:42,Walmart Labs,5.0,Data Scientist,252.0,6.0,2.0,30.0,37.0,Sunnyvale,CA,US
+2019-02-19 07:53:30,eBay,5.0,Data Scientist,235.0,10.0,3.0,35.0,25.0,San Jose,CA,US
+2019-02-22 15:28:02,LinkedIn,5.0,Data Scientist,200.0,5.0,2.0,20.0,20.0,San Francisco,CA,US
+2019-02-22 15:30:47,LinkedIn,5.0,Data Scientist,200.0,5.0,1.0,20.0,20.0,San Francisco,CA,US
+2019-02-23 10:04:59,Liberty Mutual,15.0,Data Scientist,118.0,1.0,1.0,0.0,8.0,Boston,MA,US
+2019-02-23 13:26:09,Zillow,3.0,Data Scientist,170.0,3.0,0.0,28.0,22.0,Seattle,WA,US
+2019-02-25 11:59:04,Capital One,6.0,Data Scientist,200.0,9.0,4.0,0.0,0.0,Plano,TX,US
+2019-02-25 21:24:21,JPMorgan Chase,4.0,Data Scientist,120.0,2.0,1.5,0.0,12.0,Columbus,OH,US
+2019-02-26 11:59:09,Oracle,3.0,Data Scientist,117.0,7.0,3.0,7.0,0.0,Colorado Springs,CO,US
+2019-02-28 10:14:46,Amazon,3.0,Data Scientist,123.0,0.0,1.0,8.0,10.0,Seattle,WA,US
+2019-03-02 23:53:35,Microsoft,65.0,Data Scientist,270.0,10.0,2.0,36.0,39.0,Bellevue,WA,US
+2019-03-06 07:46:49,Microsoft,60.0,Data Scientist,150.0,0.0,0.0,25.0,8.0,Redmond,WA,US
+2019-03-07 21:54:04,Google,6.0,Data Scientist,634.0,8.0,3.0,353.0,53.0,Mountain View,CA,US
+2019-03-08 14:55:01,Microsoft,59.0,Data Scientist,164.0,0.0,0.0,30.0,25.0,Cambridge,MA,US
+2019-03-11 12:44:24,AMAZON,4.0,Data Scientist,178.0,2.0,0.0,70.0,5.0,San Francisco,CA,US
+2019-03-11 12:57:57,Uber,2.0,Data Scientist,225.0,0.0,0.0,60.0,30.0,San Francisco,CA,US
+2019-03-13 14:36:37,Microsoft,62.0,Data Scientist,245.0,3.0,1.0,69.0,16.0,Berkeley,CA,US
+2019-03-15 19:14:27,Microsoft,63.0,Data Scientist,222.0,10.0,4.0,23.0,32.0,Bellevue,WA,US
+2019-03-17 09:43:02,Facebook,4.0,Data Scientist,201.0,2.0,1.0,35.0,15.0,Seattle,WA,US
+2019-03-17 19:13:52,Cisco,6.0,Data Scientist,70.0,3.0,3.0,0.0,0.0,Morrisville,NC,US
+2019-03-18 14:19:21,Twitter,5.0,Data Scientist,211.0,3.0,2.0,55.0,20.0,Boulder,CO,US
+2019-03-19 11:39:48,Medtronic,6.0,Data Scientist,150.0,2.0,2.0,0.0,0.0,New York,NY,US
+2019-03-19 13:09:54,Capital One,5.0,Data Scientist,144.0,13.0,7.0,0.0,12.0,Richmond,VA,US
+2019-03-21 17:07:57,Microsoft,62.0,Data Scientist,250.0,3.0,1.0,100.0,14.0,Seattle,WA,US
+2019-03-22 11:48:47,Dropbox,3.0,Data Scientist,215.0,4.0,2.0,0.0,0.0,San Francisco,CA,US
+2019-03-23 00:32:33,Microsoft,59.0,Data Scientist,108.0,1.0,1.0,0.0,0.0,Redmond,WA,US
+2019-03-23 06:19:34,Microsoft,62.0,Data Scientist,230.0,2.0,1.0,80.0,10.0,Seattle,WA,US
+2019-03-23 23:16:07,Yahoo,1.0,Data Scientist,160.0,2.0,0.5,0.0,0.0,Sunnyvale,CA,US
+2019-03-24 00:43:43,Microsoft,62.0,Data Scientist,240.0,0.0,2.0,0.0,0.0,Mountain View,CA,US
+2019-03-24 15:03:17,Google,4.0,Data Scientist,200.0,0.0,0.0,0.0,0.0,Mountain View,CA,US
+2019-03-24 22:18:53,Microsoft,60.0,Data Scientist,158.0,1.0,0.0,20.0,20.0,Sunnyvale,CA,US
+2019-03-25 17:39:01,Amazon,5.0,Data Scientist,165.0,6.0,2.0,0.0,0.0,Seattle,WA,US
+2019-03-25 20:15:41,Google,4.0,Data Scientist,225.0,4.0,4.0,58.0,23.0,Mountain View,CA,US
+2019-03-26 17:25:02,IBM,8.0,Data Scientist,155.0,5.0,2.0,0.0,14000.0,Washington,DC,US
+2019-03-26 17:26:33,IBM,8.0,Data Scientist,155.0,5.0,2.0,0.0,14.0,Washington,DC,US
+2019-03-27 09:32:50,Amazon,6.0,Data Scientist,304.0,5.0,4.0,0.0,0.0,Seattle,WA,US
+2019-03-27 12:10:50,Amazon,4.0,Data Scientist,133.0,3.0,1.0,16.0,20.0,Seattle,WA,US
+2019-03-27 20:33:08,Uber,4.0,Data Scientist,312.0,4.0,2.5,0.0,17.0,San Francisco,CA,US
+2019-03-29 18:39:33,Uber,3.0,Data Scientist,166.0,0.0,0.3,26.0,12.0,San Francisco,CA,US
+2019-03-30 13:32:46,ASML,9.0,Data Scientist,190.0,4.0,1.0,15.0,25.0,San Jose,CA,US
+2019-03-30 19:03:05,google,5.0,Data Scientist,300.0,10.0,4.0,100.0,35.0,Mountain View,CA,US
+2019-03-31 16:58:35,Amazon,5.0,Data Scientist,332.0,1.0,0.0,17.0,130.0,Palo Alto,CA,US
+2019-04-01 14:24:11,Intuit,5.0,Data Scientist,194.0,2.0,0.0,25.0,23.0,Mountain View,CA,US
+2019-04-02 08:06:21,Amazon,4.0,Data Scientist,120.0,3.0,1.0,0.0,0.0,Seattle,WA,US
+2019-04-02 18:22:16,Microsoft,62.0,Data Scientist,130.0,5.0,5.0,0.0,0.0,Redmond,WA,US
+2019-04-03 20:37:10,Starbucks,4.0,Data Scientist,118.0,2.0,2.0,5.0,5.0,Seattle,WA,US
+2019-04-04 08:30:07,Amazon,5.0,Data Scientist,210.0,4.0,4.0,38.0,40.0,Seattle,WA,US
+2019-04-04 20:50:21,Lyft,1.0,Data Scientist,150.0,0.0,0.0,0.0,0.0,New York,NY,US
+2019-04-04 22:07:01,Google,4.0,Data Scientist,207.0,10.0,1.0,43.0,27.0,Mountain View,CA,US
+2019-04-05 08:49:41,Amazon,5.0,Data Scientist,220.0,5.0,3.0,70.0,0.0,Seattle,WA,US
+2019-04-06 22:38:28,Amazon,5.0,Data Scientist,294.0,1.0,0.0,87.0,47.0,Seattle,WA,US
+2019-04-06 22:40:06,Amazon,5.0,Data Scientist,294.0,1.0,0.0,87.0,47.0,Seattle,WA,US
+2019-04-07 08:22:54,Amazon,5.0,Data Scientist,294.0,1.0,0.0,87.0,47.0,Seattle,WA,US
+2019-04-07 20:28:47,Uber,4.0,Data Scientist,250.0,1.0,1.0,0.0,0.0,Seattle,WA,US
+2019-04-08 06:39:21,Amazon,5.0,Data Scientist,185.0,4.0,2.0,20.0,13.0,Palo Alto,CA,US
+2019-04-08 09:43:37,Facebook,4.0,Data Scientist,190.0,2.0,1.0,16.0,29.0,Menlo Park,CA,US
+2019-04-10 13:17:52,Oracle,3.0,Data Scientist,152.0,4.0,1.0,15.0,0.0,Reston,VA,US
+2019-04-10 17:55:25,Facebook,4.0,Data Scientist,225.0,0.0,0.0,60.0,15.0,Menlo Park,CA,US
+2019-04-11 16:33:48,Nike,5.0,Data Scientist,155.0,7.0,2.0,5.0,10.0,Portland,OR,US
+2019-04-12 09:06:41,Microsoft,63.0,Data Scientist,225.0,5.0,1.0,0.0,0.0,Redmond,WA,US
+2019-04-12 11:00:50,Intel,7.0,Data Scientist,140.0,2.0,2.0,8.0,9.0,Hillsboro,OR,US
+2019-04-14 15:58:32,Facebook,6.0,Data Scientist,395.0,15.0,3.5,135.0,52.0,Seattle,WA,US
+2019-04-14 17:17:24,LinkedIn,4.0,Data Scientist,242.0,1.0,0.0,37.0,50.0,Sunnyvale,CA,US
+2019-04-14 20:50:55,Apple,4.0,Data Scientist,350.0,5.0,1.0,160.0,15.0,Sunnyvale,CA,US
+2019-04-15 13:58:30,JPMorgan Chase,4.0,Data Scientist,70.0,0.0,0.0,0.0,0.0,Wilmington,DE,US
+2019-04-15 22:07:10,Apple,3.0,Data Scientist,150.0,4.0,4.0,30.0,6.0,Cupertino,CA,US
+2019-04-16 13:38:33,Microsoft,65.0,Data Scientist,427.0,10.0,2.0,181.0,41.0,Redmond,WA,US
+2019-04-16 19:12:30,Oath,3.0,Data Scientist,140.0,2.0,1.0,0.0,0.0,New York,NY,US
+2019-04-16 23:07:13,Amazon,5.0,Data Scientist,204.0,3.0,2.5,57.0,0.0,Seattle,WA,US
+2019-04-17 11:33:28,Microsoft,62.0,Data Scientist,175.0,5.0,2.0,15.0,15.0,Redmond,WA,US
+2019-04-17 13:35:19,Uber,4.0,Data Scientist,310.0,4.0,0.0,120.0,30.0,San Francisco,CA,US
+2019-04-18 07:54:57,Fractal Analytics,5.0,Data Scientist,130.0,5.0,3.0,0.0,30.0,New York,NY,US
+2019-04-18 12:05:43,Amazon,5.0,Data Scientist,250.0,3.0,3.0,0.0,0.0,Seattle,WA,US
+2019-04-21 20:45:36,Facebook,4.0,Data Scientist,195.0,9.0,1.0,35.0,15.0,Menlo Park,CA,US
+2019-04-22 08:45:56,Schlumberger,10.0,Data Scientist,103.0,0.0,1.0,0.0,10.0,Houston,TX,US
+2019-04-25 23:01:22,Salesforce,5.0,Data Scientist,345.0,7.0,5.0,122.0,30.0,San Francisco,CA,US
+2019-04-26 18:10:28,Facebook,4.0,Data Scientist,206.0,4.0,1.0,41.0,15.0,Menlo Park,CA,US
+2019-04-28 02:38:51,Amazon,5.0,Data Scientist,300.0,1.0,0.0,93.0,47.0,Seattle,WA,US
+2019-04-28 17:40:33,LinkedIn,5.0,Data Scientist,250.0,3.0,1.0,72.0,17.0,San Francisco,CA,US
+2019-04-28 22:35:45,Facebook,4.0,Data Scientist,220.0,6.0,1.5,50.0,15.0,San Francisco,CA,US
+2019-04-30 06:52:32,Amazon,6.0,Data Scientist,274.0,7.0,2.0,110.0,0.0,San Francisco,CA,US
+2019-04-30 12:55:26,AT&T,2.0,Data Scientist,165.0,3.0,2.0,0.0,15.0,New York,NY,US
+2019-04-30 17:32:26,Microsoft,61.0,Data Scientist,178.0,3.0,1.5,45.0,7.0,Redmond,WA,US
+2019-05-02 20:09:09,Uber,4.0,Data Scientist,255.0,1.0,1.0,99.0,15.0,San Francisco,CA,US
+2019-05-03 02:01:59,Uber,4.0,Data Scientist,220.0,1.0,1.0,60.0,10.0,San Francisco,CA,US
+2019-05-03 06:59:39,LinkedIn,6.0,Data Scientist,330.0,4.0,2.0,91.0,31.0,San Francisco,CA,US
+2019-05-03 20:10:20,Salesforce,6.0,Data Scientist,278.0,7.0,2.0,60.0,28.0,San Francisco,CA,US
+2019-05-04 01:39:54,Microsoft,63.0,Data Scientist,216.0,5.0,0.0,51.0,13.0,Bellevue,WA,US
+2019-05-04 15:02:37,LinkedIn,2.0,Data Scientist,200.0,3.0,1.5,45.0,17.0,Sunnyvale,CA,US
+2019-05-08 16:02:06,Uber,5.0,Data Scientist,300.0,1.0,2.0,0.0,0.0,San Francisco,CA,US
+2019-05-09 15:08:45,Google,4.0,Data Scientist,220.0,1.0,0.0,59.0,21.0,Redwood City,CA,US
+2019-05-09 22:35:47,Microsoft,63.0,Data Scientist,222.0,10.0,4.0,23.0,32.0,Seattle,WA,US
+2019-05-11 22:12:32,Microsoft,63.0,Data Scientist,270.0,4.0,0.0,50.0,55.0,Redmond,WA,US
+2019-05-12 17:22:03,Google,4.0,Data Scientist,230.0,3.0,2.0,63.0,25.0,Seattle,WA,US
+2019-05-12 17:40:16,Amazon,5.0,Data Scientist,197.0,5.0,1.0,5.0,42.0,Pittsburgh,PA,US
+2019-05-15 14:49:57,Oracle,3.0,Data Scientist,119.0,4.0,2.0,13.0,0.0,Denver,CO,US
+2019-05-16 12:46:56,Facebook,4.0,Data Scientist,190.0,1.0,0.0,40.0,0.0,Menlo Park,CA,US
+2019-05-17 00:33:59,Facebook,6.0,Data Scientist,350.0,12.0,2.0,110.0,40.0,Menlo Park,CA,US
+2019-05-19 15:33:35,Amazon,5.0,Data Scientist,204.0,4.0,2.0,13.0,29.0,New York,NY,US
+2019-05-20 15:03:59,Google,4.0,Data Scientist,248.0,10.0,2.0,0.0,0.0,Sunnyvale,CA,US
+2019-05-20 22:31:17,Netflix,5.0,Data Scientist,368.0,0.0,0.0,18.0,0.0,Los Gatos,CA,US
+2019-05-22 15:17:55,Amazon,4.0,Data Scientist,144.0,1.0,0.5,4.0,20.0,San Francisco,CA,US
+2019-05-22 15:18:29,Amazon,5.0,Data Scientist,228.0,3.0,1.0,50.0,0.0,New York,NY,US
+2019-05-24 15:32:10,HBO,1.0,Data Scientist,108.0,2.0,5.0,0.0,3.0,New York,NY,US
+2019-05-27 20:48:43,Twitch,6.0,Data Scientist,297.0,8.0,2.0,137.0,0.0,San Francisco,CA,US
+2019-05-27 22:17:59,Amazon,5.0,Data Scientist,181.0,4.0,2.0,21.0,9.0,New York,NY,US
+2019-06-03 17:12:13,JPMorgan Chase,4.0,Data Scientist,100.0,1.0,1.0,0.0,15.0,New York,NY,US
+2019-06-05 08:42:03,Facebook,4.0,Data Scientist,210.0,4.0,1.0,30.0,30.0,Menlo Park,CA,US
+2019-06-06 08:00:39,Amazon,5.0,Data Scientist,197.0,5.0,1.0,0.0,0.0,Pittsburgh,PA,US
+2019-06-06 15:52:24,Cloudera,5.0,Data Scientist,230.0,5.0,2.0,30.0,25.0,Walnut Creek,CA,US
+2019-06-07 07:44:06,Google,5.0,Data Scientist,265.0,10.0,7.0,73.0,32.0,Mountain View,CA,US
+2019-06-07 08:46:42,Procter & Gamble,2.0,Data Scientist,135.0,5.0,1.0,5000.0,0.0,Cincinnati,OH,US
+2019-06-07 10:52:42,Facebook,4.0,Data Scientist,190.0,3.0,0.0,35.0,15.0,Menlo Park,CA,US
+2019-06-08 05:59:23,Amazon,5.0,Data Scientist,265.0,5.0,1.0,0.0,0.0,San Francisco,CA,US
+2019-06-08 18:28:12,Microsoft,62.0,Data Scientist,199.0,0.0,0.0,37.0,40.0,Redmond,WA,US
+2019-06-09 22:31:28,Microsoft,61.0,Data Scientist,173.0,2.0,1.5,30.0,15.0,Bellevue,WA,US
+2019-06-10 13:00:32,Facebook,4.0,Data Scientist,189.0,0.0,0.0,35.0,14.0,Menlo Park,CA,US
+2019-06-10 21:00:14,Goldman Sachs,8.0,Data Scientist,210.0,12.0,3.0,2.0,40.0,New York,NY,US
+2019-06-11 21:33:08,Groupon,2.0,Data Scientist,136.0,5.0,4.0,15.0,11.0,Chicago,IL,US
+2019-06-12 14:17:11,Google,6.0,Data Scientist,430.0,6.0,3.0,0.0,0.0,San Francisco,CA,US
+2019-06-13 15:05:32,Microsoft,62.0,Data Scientist,199.0,0.0,0.0,37.0,40.0,Redmond,WA,US
+2019-06-13 21:50:46,JPMorgan Chase,4.0,Data Scientist,150.0,1.0,1.0,0.0,20.0,New York,NY,US
+2019-06-15 12:40:49,Microsoft,62.0,Data Scientist,152.0,8.0,4.0,10.0,4.0,Redmond,WA,US
+2019-06-15 14:17:56,Facebook,5.0,Data Scientist,340.0,10.0,4.0,0.0,0.0,Menlo Park,CA,US
+2019-06-15 14:35:37,GE Digital,7.0,Data Scientist,270.0,10.0,6.0,0.0,60.0,San Francisco,CA,US
+2019-06-15 22:08:30,Pluralsight,3.0,Data Scientist,177.0,3.0,2.0,50.0,12.0,Farmington,UT,US
+2019-06-16 01:26:10,Broadcom,2.0,Data Scientist,163.0,3.0,3.0,20.0,13.0,San Diego,CA,US
+2019-06-17 08:59:12,Apple,3.0,Data Scientist,212.0,4.0,4.0,60.0,16.0,Cupertino,CA,US
+2019-06-17 10:18:33,Google,5.0,Data Scientist,257.0,12.0,11.0,66.0,35.0,Mountain View,CA,US
+2019-06-17 18:26:40,Microsoft,62.0,Data Scientist,185.0,10.0,2.0,20.0,20.0,Redmond,WA,US
+2019-06-18 05:58:47,Apple,3.0,Data Scientist,214.0,5.0,0.0,27.0,17.0,Cupertino,CA,US
+2019-06-18 13:47:19,Google,4.0,Data Scientist,195.0,0.0,0.0,21.0,35.0,Mountain View,CA,US
+2019-06-18 16:47:23,Electronic Arts,21.0,Data Scientist,160.0,2.0,2.0,20.0,20.0,Redwood City,CA,US
+2019-06-18 22:24:22,Walmart Labs,4.0,Data Scientist,245.0,2.0,0.5,0.0,0.0,Sunnyvale,CA,US
+2019-06-19 12:22:53,Amazon,5.0,Data Scientist,210.0,3.0,0.0,5.0,55.0,Pittsburgh,PA,US
+2019-06-19 15:28:37,Netflix,5.0,Data Scientist,380.0,8.0,1.0,0.0,0.0,San Francisco,CA,US
+2019-06-20 12:59:48,Nerdwallet,2.0,Data Scientist,136.0,2.0,0.0,9.0,10.0,San Francisco,CA,US
+2019-06-22 09:25:59,Huawei,19.0,Data Scientist,400.0,6.0,1.0,0.0,170.0,Santa Clara,CA,US
+2019-06-22 17:08:46,Microsoft,66.0,Data Scientist,350.0,15.0,3.0,90.0,50.0,Redmond,WA,US
+2019-06-23 08:40:14,Grab,4.0,Data Scientist,224.0,3.0,1.0,40.0,24.0,Seattle,WA,US
+2019-06-25 00:11:59,Lyft,4.0,Data Scientist,280.0,4.0,2.0,130.0,0.0,San Francisco,CA,US
+2019-06-25 09:06:29,Procter & Gamble,2.0,Data Scientist,137.0,5.0,1.0,7.0,0.0,Cincinnati,OH,US
+2019-06-25 17:20:54,Microsoft,63.0,Data Scientist,285.0,7.0,3.0,100.0,30.0,Redmond,WA,US
+2019-06-26 10:42:32,Microsoft,62.0,Data Scientist,165.0,4.0,4.0,12.0,14.0,Redmond,WA,US
+2019-06-26 21:45:02,Zillow,4.0,Data Scientist,200.0,5.0,1.0,30.0,10.0,Seattle,WA,US
+2019-06-28 11:30:51,AMAZON,4.0,Data Scientist,70.0,0.0,0.0,0.0,0.0,Seattle,WA,US
+2019-07-02 23:58:44,Microsoft,63.0,Data Scientist,232.0,3.0,2.0,55.0,22.0,Redmond,WA,US
+2019-07-09 15:20:41,Amazon,5.0,Data Scientist,180.0,4.0,0.0,0.0,0.0,Seattle,WA,US
+2019-07-09 16:07:47,Amazon,5.0,Data Scientist,185.0,6.0,4.0,50.0,0.0,Seattle,WA,US
+2019-07-10 21:42:21,Amazon,5.0,Data Scientist,160.0,5.0,1.5,0.0,0.0,Seattle,WA,US
+2019-07-11 15:04:44,Charter Communications,5.0,Data Scientist,176.0,6.0,1.0,0.0,0.0,Denver,CO,US
+2019-07-11 20:31:47,Capital One,4.0,Data Scientist,110.0,0.0,0.0,10.0,10.0,Plano,TX,US
+2019-07-12 16:07:21,Microsoft,63.0,Data Scientist,250.0,5.0,5.0,65.0,25.0,Redmond,WA,US
+2019-07-13 17:52:36,Facebook,5.0,Data Scientist,280.0,8.0,2.0,70.0,25.0,New York,NY,US
+2019-07-14 18:54:58,Capital One,4.0,Data Scientist,95.0,2.0,2.0,0.0,5.0,Dallas,TX,US
+2019-07-15 07:05:24,Microsoft,61.0,Data Scientist,120.0,3.0,3.0,0.0,0.0,Redmond,WA,US
+2019-07-16 07:38:00,Spotify,2.0,Data Scientist,140.0,1.0,0.0,5.0,10.0,New York,NY,US
+2019-07-16 10:45:48,IBM,7.0,Data Scientist,157.0,2.0,2.0,0.0,2.0,San Jose,CA,US
+2019-07-16 22:59:32,Guidewire,2.0,Data Scientist,135.0,3.0,1.0,0.0,0.0,San Francisco,CA,US
+2019-07-17 13:09:23,LinkedIn,5.0,Data Scientist,240.0,5.0,1.0,65.0,15.0,San Francisco,CA,US
+2019-07-17 16:21:43,Microsoft,63.0,Data Scientist,260.0,5.0,5.0,90.0,20.0,Redmond,WA,US
+2019-07-19 17:27:48,American Express,5.0,Data Scientist,130.0,2.0,2.0,0.0,0.0,New York,NY,US
+2019-07-19 23:40:54,Intel,8.0,Data Scientist,193.0,6.0,6.0,17.0,30.0,Phoenix,AZ,US
+2019-07-21 09:41:33,Genentech,3.0,Data Scientist,180.0,2.0,2.0,5.0,25.0,South San Francisco,CA,US
+2019-07-22 18:44:21,Target,6.0,Data Scientist,138.0,0.0,0.0,0.0,13.0,Minneapolis,MN,US
+2019-07-23 16:12:10,IQVIA,2.0,Data Scientist,115.0,4.0,0.0,0.0,10.0,Philadelphia,PA,US
+2019-07-24 06:42:57,PayPal,22.0,Data Scientist,89.0,0.0,0.0,0.0,0.0,Tel Aviv,Israel,US
+2019-07-26 10:14:54,Honeywell,3.0,Data Scientist,110.0,7.0,2.5,0.0,0.0,Atlanta,GA,US
+2019-07-26 10:38:26,Uber,3.0,Data Scientist,177.0,2.0,0.25,37.0,20.0,San Francisco,CA,US
+2019-07-26 15:39:16,Cruise,2.0,Data Scientist,210.0,1.0,1.0,25.0,22.0,San Francisco,CA,US
+2019-07-26 22:21:10,Netflix,5.0,Data Scientist,525.0,15.0,4.0,0.0,0.0,Los Angeles,CA,US
+2019-07-27 09:48:55,Google,4.0,Data Scientist,270.0,5.0,1.0,100.0,20.0,Sunnyvale,CA,US
+2019-07-27 11:04:14,Microsoft,61.0,Data Scientist,162.0,4.0,4.0,12.0,20.0,Bellevue,WA,US
+2019-07-29 16:58:28,Zillow,4.0,Data Scientist,144.0,3.0,3.0,4.0,10.0,New York,NY,US
+2019-07-29 22:42:03,IBM,7.0,Data Scientist,130.0,5.0,2.0,0.0,0.0,San Jose,CA,US
+2019-08-01 07:26:15,Uber,6.0,Data Scientist,387.0,12.0,1.0,0.0,0.0,San Francisco,CA,US
+2019-08-02 09:40:28,Quora,45.0,Data Scientist,210.0,2.0,0.0,55.0,0.0,Mountain View,CA,US
+2019-08-02 16:28:55,Instacart,5.0,Data Scientist,360.0,5.0,1.0,150.0,0.0,San Francisco,CA,US
+2019-08-02 19:40:02,Instacart,5.0,Data Scientist,242.0,6.0,1.0,95.0,0.0,San Francisco,CA,US
+2019-08-02 23:44:01,Uber,4.0,Data Scientist,265.0,3.0,3.0,100.0,15.0,San Francisco,CA,US
+2019-08-05 11:29:45,Everquote,1.0,Data Scientist,90.0,2.0,0.0,0.0,0.0,Boston,MA,US
+2019-08-05 16:36:42,Kohl's,5.0,Data Scientist,240.0,7.0,3.0,20.0,20.0,Milpitas,CA,US
+2019-08-06 10:34:57,Amazon,5.0,Data Scientist,168.0,6.0,2.0,0.0,0.0,New York,NY,US
+2019-08-07 22:46:35,Intuit,4.0,Data Scientist,318.0,4.0,0.0,78.0,40.0,Mountain View,CA,US
+2019-08-11 17:51:34,T-Mobile,7.0,Data Scientist,190.0,4.0,1.0,15.0,30.0,Bellevue,WA,US
+2019-08-13 09:35:24,Amazon,6.0,Data Scientist,310.0,7.0,2.0,0.0,0.0,Seattle,WA,US
+2019-08-13 12:32:44,Microsoft,64.0,Data Scientist,250.0,13.0,12.0,57.0,28.0,Seattle,WA,US
+2019-08-13 20:03:25,Microsoft,63.0,Data Scientist,228.0,5.0,5.0,40.0,28.0,Redmond,WA,US
+2019-08-15 00:05:18,Goldman Sachs,8.0,Data Scientist,210.0,12.0,3.0,2.0,40.0,Jersey City,NJ,US
+2019-08-15 16:54:05,Amazon,5.0,Data Scientist,170.0,5.0,2.0,0.0,0.0,New York,NY,US
+2019-08-16 18:18:27,MSFT,63.0,Data Scientist,290.0,2.0,2.0,0.0,0.0,Seattle,WA,US
+2019-08-16 18:22:13,Microsoft,63.0,Data Scientist,290.0,2.0,2.0,0.0,0.0,Seattle,WA,US
+2019-08-16 20:43:41,SAP,4.0,Data Scientist,190.0,13.0,13.0,25.0,30.0,Newtown Square,PA,US
+2019-08-16 21:32:52,LinkedIn,5.0,Data Scientist,270.0,7.0,1.0,78.0,17.0,Sunnyvale,CA,US
+2019-08-17 19:58:42,Microsoft,61.0,Data Scientist,180.0,2.0,2.0,30.0,20.0,Redmond,WA,US
+2019-08-18 03:04:46,Amazon,5.0,Data Scientist,294.0,1.0,0.0,87.0,47.0,Seattle,WA,US
+2019-08-19 15:51:40,SAP,2.0,Data Scientist,120.0,3.0,2.0,0.0,12.0,Palo Alto,CA,US
+2019-08-19 22:05:41,Amazon ,5.0,Data Scientist,192.0,10.0,1.0,25.0,17.0,Seattle,WA,US
+2019-08-20 11:19:32,Microsoft,63.0,Data Scientist,288.0,6.0,3.0,55.0,68.0,Redmond,WA,US
+2019-08-20 15:11:01,Microsoft,63.0,Data Scientist,220.0,8.0,2.0,40.0,18.0,Redmond,WA,US
+2019-08-20 16:08:16,Adobe,3.0,Data Scientist,213.0,1.0,1.0,50.0,15.0,San Jose,CA,US
+2019-08-21 11:57:33,Microsoft,61.0,Data Scientist,171.0,7.0,6.0,14.0,11.0,Sunnyvale,CA,US
+2019-08-21 12:29:10,Microsoft,62.0,Data Scientist,186.0,6.0,6.0,18.0,13.0,Seattle,WA,US
+2019-08-22 21:42:16,Amazon,5.0,Data Scientist,250.0,7.0,1.0,30.0,40.0,Palo Alto,CA,US
+2019-08-24 08:21:22,Microsoft,59.0,Data Scientist,146.0,1.0,0.0,18.0,20.0,Redmond,WA,US
+2019-08-24 08:24:03,Microsoft,60.0,Data Scientist,155.0,2.0,1.0,23.0,12.0,Redmond,WA,US
+2019-08-24 19:19:38,AT&T,1.0,Data Scientist,100.0,0.0,0.0,0.0,8.0,Plano,TX,US
+2019-08-25 15:17:01,Amazon,7.0,Data Scientist,740.0,12.0,7.0,430000.0,0.0,Seattle,WA,US
+2019-08-28 09:53:04,PlayStation,5.0,Data Scientist,260.0,9.0,3.0,0.0,60.0,San Mateo,CA,US
+2019-08-28 13:36:35,Dropbox,3.0,Data Scientist,190.0,5.0,1.0,0.0,0.0,San Francisco,CA,US
+2019-08-29 02:56:21,Grab,4.0,Data Scientist,226.0,3.0,1.0,42.0,24.0,Bellevue,WA,US
+2019-08-29 04:11:20,Facebook,4.0,Data Scientist,240.0,3.0,0.0,75.0,15.0,Menlo Park,CA,US
+2019-08-29 12:14:04,IBM,7.0,Data Scientist,165.0,5.0,2.0,0.0,0.0,San Jose,CA,US
+2019-08-29 12:21:38,Amazon,5.0,Data Scientist,190.0,5.0,3.0,70.0,0.0,Seattle,WA,US
+2019-08-29 15:36:21,Microsoft,63.0,Data Scientist,266.0,6.0,1.0,45.0,50.0,Seattle,WA,US
+2019-09-02 09:49:08,Wayfair,2.0,Data Scientist,150.0,1.0,1.0,12.0,19.0,Boston,MA,US
+2019-09-03 20:05:55,Spotify,6.0,Data Scientist,315.0,8.0,0.0,75.0,40.0,New York,NY,US
+2019-09-04 01:00:15,Amazon Web Services,5.0,Data Scientist,300.0,4.0,1.0,50.0,100.0,Seattle,WA,US
+2019-09-04 17:05:36,Microsoft,64.0,Data Scientist,213.0,4.0,19.0,24.0,21.0,Seattle,WA,US
+2019-09-06 20:19:56,Walmart Labs,3.0,Data Scientist,188.0,0.0,0.0,20.0,23.0,Sunnyvale,CA,US
+2019-09-07 18:34:27,target,6.0,Data Scientist,200.0,7.0,3.0,0.0,0.0,Sunnyvale,CA,US
+2019-09-08 11:37:29,Microsoft,63.0,Data Scientist,185.0,8.0,4.0,13.0,19.0,Redmond,WA,US
+2019-09-09 13:52:40,Electronic Arts,5.0,Data Scientist,160.0,5.0,2.0,0.0,0.0,Redwood City,CA,US
+2019-09-09 14:56:15,Reddit,3.0,Data Scientist,142.0,3.0,2.0,0.0,0.0,San Francisco,CA,US
+2019-09-10 18:00:35,Bank of America Merrill Lynch,4.0,Data Scientist,110.0,4.0,2.0,0.0,10.0,New York,NY,US
+2019-09-11 10:16:24,Uber,3.0,Data Scientist,268.0,2.0,2.0,100.0,20.0,New York,NY,US
+2019-09-11 14:02:46,Apple,4.0,Data Scientist,258.0,4.0,4.0,80.0,20.0,Cupertino,CA,US
+2019-09-11 18:32:48,Netflix,5.0,Data Scientist,450.0,4.0,2.0,25.0,0.0,Los Angeles,CA,US
+2019-09-11 22:05:43,Google,4.0,Data Scientist,189.0,0.0,0.0,30.0,22.0,Sunnyvale,CA,US
+2019-09-13 16:07:03,Microsoft,61.0,Data Scientist,165.0,0.0,0.0,30.0,5.0,Redmond,WA,US
+2019-09-14 02:01:10,Autodesk,2.0,Data Scientist,149.0,1.0,0.5,0.0,0.0,San Francisco,CA,US
+2019-09-15 11:30:25,american airlines,4.0,Data Scientist,92.0,6.0,6.0,0.0,2.0,Fort Worth,TX,US
+2019-09-15 15:59:24,Facebook,4.0,Data Scientist,202.0,0.0,0.25,37.0,15.0,Menlo Park,CA,US
+2019-09-15 22:41:17,Nielsen,5.0,Data Scientist,65.0,2.0,2.0,0.0,0.0,Tampa,FL,US
+2019-09-16 06:29:06,Fifth Third Bank,15.0,Data Scientist,147.0,5.0,2.5,0.0,29.0,Cincinnati,OH,US
+2019-09-16 19:56:01,Microsoft,61.0,Data Scientist,240.0,0.0,0.0,60.0,37.0,Redmond,WA,US
+2019-09-17 09:49:44,Microsoft,64.0,Data Scientist,304.0,8.0,7.0,60.0,45.0,Seattle,WA,US
+2019-09-17 14:17:24,Microsoft,62.0,Data Scientist,232.0,0.0,0.0,61.0,30.0,Seattle,WA,US
+2019-09-17 19:18:42,Boeing,5.0,Data Scientist,170.0,15.0,3.0,0.0,10.0,Seattle,WA,US
+2019-09-17 20:49:29,Microsoft,63.0,Data Scientist,309.0,3.0,3.0,95.0,27.0,Berkeley,CA,US
+2019-09-18 09:42:00,Google,5.0,Data Scientist,273.0,13.0,12.0,73.0,31.0,Mountain View,CA,US
+2019-09-20 10:50:18,Microsoft,64.0,Data Scientist,269.0,15.0,7.0,24.0,31.0,San Jose,CA,US
+2019-09-21 11:56:39,Facebook,3.0,Data Scientist,144.0,1.0,1.0,20.0,11.0,Menlo Park,CA,US
+2019-09-21 18:26:11,Amazon,5.0,Data Scientist,225.0,3.0,0.0,30.0,20.0,Palo Alto,CA,US
+2019-09-23 18:19:49,Microsoft,61.0,Data Scientist,280.0,0.0,0.0,65.0,60.0,Sunnyvale,CA,US
+2019-09-24 15:34:41,Microsoft,63.0,Data Scientist,208.0,8.0,4.0,30.0,22.0,Redmond,WA,US
+2019-09-29 08:41:03,Apple,4.0,Data Scientist,340.0,8.0,4.0,135.0,25.0,Cupertino,CA,US
+2019-09-30 21:00:29,eBay,2.0,Data Scientist,263.0,6.0,2.0,50.0,28.0,San Francisco,CA,US
+2019-10-01 08:46:08,Microsoft,62.0,Data Scientist,170.0,10.0,7.0,14.0,14.0,Seattle,WA,US
+2019-10-03 11:29:05,Shutterstock,1.0,Data Scientist,159.0,2.0,0.0,10.0,14.0,New York,NY,US
+2019-10-03 23:09:01,Apple,4.0,Data Scientist,290.0,4.0,2.0,90.0,20.0,Cupertino,CA,US
+2019-10-04 20:02:19,Facebook,4.0,Data Scientist,253.0,5.0,3.0,80.0,16.0,Menlo Park,CA,US
+2019-10-05 12:05:26,IBM,7.0,Data Scientist,156.0,2.0,2.0,0.0,1.0,San Jose,CA,US
+2019-10-09 03:19:36,ADP,2.0,Data Scientist,72.0,2.0,2.0,0.0,1.0,Norfolk,VA,US
+2019-10-09 19:11:49,General Motors,7.0,Data Scientist,158.0,5.0,1.5,0.0,18.0,Warren,MI,US
+2019-10-10 13:21:03,Walmart Labs,73.0,Data Scientist,117.0,3.0,0.5,7.0,22.0,Bentonville,AR,US
+2019-10-11 11:10:49,Capital One,5.0,Data Scientist,222.0,15.0,0.0,50.0,12.0,New York,NY,US
+2019-10-11 16:50:12,Uber,3.0,Data Scientist,154.0,2.0,1.0,30.0,7.0,San Francisco,CA,US
+2019-10-12 08:07:33,Target,6.0,Data Scientist,250.0,4.0,2.0,50.0,15.0,Sunnyvale,CA,US
+2019-10-12 10:17:02,Amazon,6.0,Data Scientist,257.0,10.0,4.0,100.0,0.0,Palo Alto,CA,US
+2019-10-15 06:52:13,Microsoft,61.0,Data Scientist,223.0,2.0,0.0,50.0,38.0,Redmond,WA,US
+2019-10-15 13:52:12,Apple,4.0,Data Scientist,306.0,5.0,4.0,89.0,20.0,Cupertino,CA,US
+2019-10-16 21:07:26,Aetna,3.0,Data Scientist,98.0,6.0,3.0,0.0,9.0,Phoenix,AZ,US
+2019-10-20 00:02:36,Microsoft,64.0,Data Scientist,262.0,14.0,8.0,50.0,30.0,Redmond,WA,US
+2019-10-20 19:30:52,LinkedIn,4.0,Data Scientist,210.0,3.0,0.0,40.0,15.0,Sunnyvale,CA,US
+2019-10-21 17:12:54,Cisco,8.0,Data Scientist,164.0,3.0,3.0,7.0,17.0,Ann Arbor,MI,US
+2019-10-23 12:36:24,IBM,7.0,Data Scientist,158.0,3.0,3.0,0.0,2.0,San Jose,CA,US
+2019-10-23 16:25:38,Microsoft,60.0,Data Scientist,180.0,0.0,0.0,33.0,20.0,Bellevue,WA,US
+2019-10-23 21:15:16,Airbnb,5.0,Data Scientist,440.0,11.0,0.0,160.0,80.0,Seattle,WA,US
+2019-10-24 16:38:35,Facebook,5.0,Data Scientist,274.0,5.0,0.0,65.0,27.0,Menlo Park,CA,US
+2019-10-24 16:48:56,Walmart Labs,4.0,Data Scientist,280.0,8.0,1.0,60.0,40.0,Sunnyvale,CA,US
+2019-10-25 08:00:52,Google,4.0,Data Scientist,207.0,0.0,0.0,50.0,20.0,Sunnyvale,CA,US
+2019-10-25 17:04:13,Amazon,5.0,Data Scientist,247.0,2.0,0.0,47.0,55.0,Seattle,WA,US
+2019-10-29 08:31:09,Apple,5.0,Data Scientist,505.0,6.0,4.0,288.0,30.0,Cupertino,CA,US
+2019-10-29 09:57:27,Microsoft,60.0,Data Scientist,212.0,1.0,0.0,44.0,50.0,Bellevue,WA,US
+2019-10-31 19:15:53,Johnson and Johnson,1.0,Data Scientist,300.0,19.0,13.0,50.0,50.0,Raritan,NJ,US
+2019-11-01 18:16:36,Amazon,5.0,Data Scientist,168.0,1.0,1.0,20.0,22.0,Seattle,WA,US
+2019-11-02 10:29:47,Iterable,4.0,Data Scientist,150.0,0.0,0.0,0.0,0.0,San Francisco,CA,US
+2019-11-02 10:45:47,Lyft,4.0,Data Scientist,230.0,3.0,0.0,75.0,0.0,San Francisco,CA,US
+2019-11-02 13:01:50,Walmart Labs,7.0,Data Scientist,265.0,10.0,5.0,65.0,45.0,Bentonville,AR,US
+2019-11-03 16:49:29,Facebook,5.0,Data Scientist,253.0,8.0,0.0,55.0,26.0,New York,NY,US
+2019-11-03 16:49:29,Facebook,5.0,Data Scientist,253.0,8.0,0.0,55.0,26.0,New York,NY,US
+2019-11-04 05:30:38,Goldman Sachs,5.0,Data Scientist,510.0,8.0,2.0,50.0,10.0,Illinois City,IL,US
+2019-11-05 14:34:07,Amazon,5.0,Data Scientist,150.0,3.0,1.0,25.0,10.0,Seattle,WA,US
+2019-11-05 16:13:47,LinkedIn,5.0,Data Scientist,256.0,4.0,1.0,86.0,0.0,San Francisco,CA,US
+2019-11-05 19:11:10,Facebook,5.0,Data Scientist,210.0,10.0,0.0,25.0,25.0,Washington,DC,US
+2019-11-06 10:36:25,Zillow,3.0,Data Scientist,191.0,3.0,0.0,31.0,35.0,Seattle,WA,US
+2019-11-07 07:17:21,Amazon,4.0,Data Scientist,149.0,0.0,0.0,4.0,35.0,Seattle,WA,US
+2019-11-08 18:30:29,Zillow,3.0,Data Scientist,180.0,2.0,0.0,29.0,20.0,Seattle,WA,US
+2019-11-10 10:42:08,Epic Systems,3.0,Data Scientist,85.0,2.0,2.0,0.0,5.0,Madison,WI,US
+2019-11-11 07:45:20,Cerner,4.0,Data Scientist,100.0,3.0,1.0,0.0,0.0,Kansas City,MO,US
+2019-11-11 19:53:19,Microsoft,60.0,Data Scientist,262.0,0.0,0.0,44.0,100.0,Redmond,WA,US
+2019-11-12 15:25:11,Uber,5.0,Data Scientist,450.0,8.0,2.0,180.0,50.0,San Francisco,CA,US
+2019-11-13 11:22:07,Blink Health,3.0,Data Scientist,160.0,2.0,1.0,20.0,0.0,New York,NY,US
+2019-11-13 20:51:52,Netflix,5.0,Data Scientist,465.0,6.0,3.0,0.0,0.0,Los Gatos,CA,US
+2019-11-14 02:41:27,LinkedIn,6.0,Data Scientist,260.0,4.0,1.0,62.0,18.0,Sunnyvale,CA,US
+2019-11-14 11:59:07,Microsoft,60.0,Data Scientist,225.0,0.0,0.0,44.0,50.0,Sunnyvale,CA,US
+2019-11-14 16:04:59,Groupon,4.0,Data Scientist,230.0,8.0,6.0,40.0,30.0,Santa Clara,CA,US
+2019-11-15 19:52:24,IBM,7.0,Data Scientist,111.0,1.0,1.0,0.0,0.0,Durham,NC,US
+2019-11-16 19:06:43,Workday,2.0,Data Scientist,122.0,2.0,4.0,15.0,0.0,Pleasanton,CA,US
+2019-11-20 20:55:00,Facebook,5.0,Data Scientist,245.0,8.0,1.0,50.0,25.0,Menlo Park,CA,US
+2019-11-21 18:27:45,Bank of America Merrill Lynch,4.0,Data Scientist,135.0,5.0,1.0,0.0,5.0,Boston,MA,US
+2019-11-22 17:14:15,Amazon,6.0,Data Scientist,295.0,6.0,4.0,122.0,0.0,Sunnyvale,CA,US
+2019-11-25 17:52:45,Amazon,6.0,Data Scientist,230.0,25.0,3.0,86.0,0.0,Seattle,WA,US
+2019-11-26 10:53:42,Microsoft,60.0,Data Scientist,213.0,0.0,0.0,45.0,50.0,Bellevue,WA,US
+2019-11-26 16:23:59,American Express,30.0,Data Scientist,147.0,3.0,1.0,0.0,7.0,New York,NY,US
+2019-11-27 09:10:16,Capital One,4.0,Data Scientist,138.0,3.0,1.0,0.0,5.0,New York,NY,US
+2019-11-27 10:41:15,Accenture,4.0,Data Scientist,165.0,8.0,0.0,5.0,20.0,Arlington,VA,US
+2019-11-28 08:07:21,Deloitte,4.0,Data Scientist,104.0,4.0,1.0,0.0,5.0,Washington,DC,US
+2019-11-29 01:58:30,Stripe,2.0,Data Scientist,246.0,3.0,1.0,73.0,16.0,San Francisco,CA,US
+2019-11-29 19:05:41,GE Digital,5.0,Data Scientist,142.0,4.0,0.0,0.0,12.0,San Ramon,CA,US
+2019-11-30 12:55:12,Disney,4.0,Data Scientist,205.0,8.0,1.0,0.0,25.0,New York,NY,US
+2019-12-03 21:56:01,Facebook,3.0,Data Scientist,177.0,0.0,0.0,25.0,32.0,Menlo Park,CA,US
+2019-12-04 06:31:46,Liberty Mutual,18.0,Data Scientist,184.0,7.0,6.0,0.0,24.0,Seattle,WA,US
+2019-12-04 22:15:17,Facebook,4.0,Data Scientist,211.0,2.0,0.0,41.0,15.0,Menlo Park,CA,US
+2019-12-06 10:46:42,Snap,3.0,Data Scientist,187.0,0.0,0.0,38.0,19.0,Los Angeles,CA,US
+2019-12-06 17:14:42,Facebook,4.0,Data Scientist,203.0,0.0,0.0,38.0,15.0,Menlo Park,CA,US
+2019-12-08 00:30:24,Facebook,6.0,Data Scientist,570.0,15.0,2.0,300.0,45.0,Menlo Park,CA,US
+2019-12-10 00:25:42,Stripe,2.0,Data Scientist,250.0,4.0,1.5,77.0,15.0,San Francisco,CA,US
+2019-12-10 21:54:34,Microsoft,61.0,Data Scientist,144.0,1.0,1.0,7.0,13.0,Redmond,WA,US
+2019-12-11 11:53:26,SAP,3.0,Data Scientist,165.0,5.0,1.0,0.0,25.0,Bellevue,WA,US
+2019-12-11 15:42:36,Uber,4.0,Data Scientist,180.0,6.0,1.0,40.0,13.0,San Francisco,CA,US
+2019-12-11 21:53:44,Genentech,4.0,Data Scientist,190.0,6.0,2.0,15.0,15.0,South San Francisco,CA,US
+2019-12-14 07:47:38,Microsoft,62.0,Data Scientist,170.0,6.0,2.0,8.0,15.0,Seattle,WA,US
+2019-12-14 17:26:47,Intuit,6.0,Data Scientist,300.0,7.0,0.0,75.0,35.0,Mountain View,CA,US
+2019-12-14 17:27:10,Uber,5.0,Data Scientist,360.0,16.0,0.0,135.0,30.0,San Francisco,CA,US
+2019-12-16 10:10:22,Acorns,4.0,Data Scientist,125.0,1.0,0.0,5.0,0.0,Irvine,CA,US
+2019-12-16 11:24:47,Amazon,5.0,Data Scientist,180.0,5.0,2.7,60.0,0.0,Seattle,WA,US
+2019-12-18 20:52:09,Netflix,5.0,Data Scientist,420.0,2.0,1.0,20.0,0.0,Los Angeles,CA,US
+2019-12-19 14:34:16,Feedzai,3.0,Data Scientist,165.0,6.0,0.0,0.0,30.0,Atlanta,GA,US
+2019-12-20 06:11:30,Netflix,5.0,Data Scientist,525.0,9.0,3.0,0.0,0.0,Los Gatos,CA,US
+2019-12-21 13:58:32,Facebook,6.0,Data Scientist,450.0,11.0,3.7,200.0,42.0,San Francisco,CA,US
+2019-12-27 12:52:10,Wayfair,1.0,Data Scientist,110.0,0.0,0.0,0.0,10.0,Boston,MA,US
+2019-12-28 11:45:43,Apple,4.0,Data Scientist,230.0,10.0,0.0,40.0,20.0,Cupertino,CA,US
+2019-12-29 17:48:54,Cisco,10.0,Data Scientist,280.0,5.0,0.0,50.0,30.0,San Francisco,CA,US
+2019-12-29 18:08:03,Netflix,6.0,Data Scientist,700.0,7.0,4.0,0.0,0.0,Los Angeles,CA,US
+2019-12-31 05:30:00,LivePerson,7.0,Data Scientist,556.0,3.0,3.0,354.0,25.0,Boston,MA,US
+2019-12-31 13:29:37,Uber,4.0,Data Scientist,253.0,3.0,1.0,66.0,32.0,San Francisco,CA,US
+2020-01-01 17:30:42,Amazon,7.0,Data Scientist,500.0,9.0,5.0,200.0,120.0,Seattle,WA,US
+2020-01-02 00:15:10,Apple,4.0,Data Scientist,350.0,11.0,4.0,145.0,15.0,Cupertino,CA,US
+2020-01-02 08:00:26,Amazon,6.0,Data Scientist,340.0,12.0,0.0,110.0,70.0,Seattle,WA,US
+2020-01-02 16:52:29,LinkedIn,5.0,Data Scientist,270.0,4.0,0.0,72.0,18.0,San Francisco,CA,US
+2020-01-06 05:26:59,Uber,5.0,Data Scientist,366.0,10.0,2.5,150.0,20.0,San Francisco,CA,US
+2020-01-08 18:34:33,Oracle,3.0,Data Scientist,163.0,5.0,5.0,43.0,0.0,Broomfield,CO,US
+2020-01-08 20:14:17,Airbnb,5.0,Data Scientist,580.0,9.0,2.0,318.0,38.0,San Francisco,CA,US
+2020-01-11 21:36:13,Facebook,5.0,Data Scientist,230.0,10.0,1.0,40.0,25.0,Seattle,WA,US
+2020-01-12 14:48:01,Atlassian,5.0,Data Scientist,230.0,4.0,0.0,37.0,25.0,Mountain View,CA,US
+2020-01-13 12:04:34,Microsoft,60.0,Data Scientist,173.0,0.0,0.0,33.0,13.0,Bellevue,WA,US
+2020-01-13 15:17:45,3m,9.0,Data Scientist,86.0,0.0,0.0,0.0,4.0,Saint Paul,MN,US
+2020-01-14 20:55:58,Stitch Fix,3.0,Data Scientist,235.0,1.0,1.0,45.0,0.0,San Francisco,CA,US
+2020-01-15 09:02:22,Apple,3.0,Data Scientist,208.0,0.0,0.0,35.0,23.0,Cupertino,CA,US
+2020-01-15 10:28:44,Dell Technologies,7.0,Data Scientist,113.0,1.0,0.0,0.0,8.0,Austin,TX,US
+2020-01-15 10:43:27,Capital One,4.0,Data Scientist,148.0,1.0,0.0,0.0,24.0,New York,NY,US
+2020-01-16 11:09:13,Microsoft,62.0,Data Scientist,203.0,3.0,2.0,45.0,15.0,Redmond,WA,US
+2020-01-17 10:58:21,PayPal,25.0,Data Scientist,190.0,5.0,1.0,35.0,0.0,Chicago,IL,US
+2020-01-18 01:36:08,Intuit,5.0,Data Scientist,215.0,5.0,2.0,40.0,23.0,Mountain View,CA,US
+2020-01-18 14:01:46,Visa,3.0,Data Scientist,139.0,1.0,0.0,7.0,12.0,Foster City,CA,US
+2020-01-19 22:15:23,Amobee,2.0,Data Scientist,220.0,4.0,2.0,0.0,35.0,San Francisco,CA,US
+2020-01-20 13:46:59,Microsoft,65.0,Data Scientist,281.0,15.0,6.0,36.0,41.0,Redmond,WA,US
+2020-01-20 17:54:42,Square,5.0,Data Scientist,200.0,1.0,1.0,45.0,0.0,San Francisco,CA,US
+2020-01-20 18:40:28,Walmart Labs,6.0,Data Scientist,370.0,4.0,4.0,90.0,55.0,Sunnyvale,CA,US
+2020-01-20 19:22:47,Moody's Analytics,3.0,Data Scientist,135.0,1.0,1.0,0.0,15.0,San Francisco,CA,US
+2020-01-20 21:35:16,Apple,4.0,Data Scientist,231.0,10.0,10.0,55.0,24.0,Cupertino,CA,US
+2020-01-21 13:13:45,Apple,4.0,Data Scientist,210.0,6.0,0.5,32.0,18.0,Cupertino,CA,US
+2020-01-21 14:48:05,Amazon,5.0,Data Scientist,215.0,12.0,0.0,50.0,15.0,Seattle,WA,US
+2020-01-21 20:15:07,Uber,4.0,Data Scientist,235.0,5.0,3.0,80.0,15.0,San Francisco,CA,US
+2020-01-22 09:01:39,Amazon,4.0,Data Scientist,123.0,2.0,2.0,1.0,20.0,Seattle,WA,US
+2020-01-23 04:33:19,IBM,8.0,Data Scientist,140.0,3.0,3.0,0.0,3.0,Atlanta,GA,US
+2020-01-23 15:32:10,Microsoft,62.0,Data Scientist,215.0,2.0,0.0,19.0,51.0,Seattle,WA,US
+2020-01-23 20:18:15,Amazon,5.0,Data Scientist,270.0,4.0,0.0,95.0,0.0,New York,NY,US
+2020-01-24 15:44:59,Uber,3.0,Data Scientist,149.0,2.0,2.0,29.0,10.0,San Francisco,CA,US
+2020-01-25 12:12:34,Dropbox,2.0,Data Scientist,158.0,2.0,1.0,15.0,13.0,San Francisco,CA,US
+2020-01-25 15:40:39,Wayfair,2.0,Data Scientist,156.0,4.0,1.0,13.0,13.0,Boston,MA,US
+2020-01-26 09:48:45,Google,5.0,Data Scientist,365.0,10.0,1.0,140.0,40.0,New York,NY,US
+2020-01-26 10:43:22,Amazon,6.0,Data Scientist,215.0,7.0,7.0,74.0,10.0,Seattle,WA,US
+2020-01-27 10:39:27,Workday,4.0,Data Scientist,318.0,5.0,2.0,68.0,50.0,San Francisco,CA,US
+2020-01-27 11:34:45,Dell Technologies,7.0,Data Scientist,136.0,0.0,0.0,0.0,10.0,Round Rock,TX,US
+2020-01-27 23:08:35,Microsoft,62.0,Data Scientist,187.0,2.0,2.0,30.0,14.0,Seattle,WA,US
+2020-01-28 22:36:31,Uber,5.0,Data Scientist,464.0,20.0,1.0,220.0,30.0,Palo Alto,CA,US
+2020-01-28 22:41:37,Pinterest,5.0,Data Scientist,350.0,8.0,2.0,160.0,0.0,San Francisco,CA,US
+2020-01-29 17:50:20,Microsoft,62.0,Data Scientist,194.0,2.0,0.0,23.0,26.0,Redmond,WA,US
+2020-01-30 11:31:02,Google,4.0,Data Scientist,210.0,7.0,2.0,59.0,23.0,Seattle,WA,US
+2020-01-30 14:29:20,Facebook,4.0,Data Scientist,231.0,5.0,0.0,50.0,16.0,San Francisco,CA,US
+2020-01-30 20:42:21,Amazon,7.0,Data Scientist,540.0,10.0,3.0,380.0,0.0,Seattle,WA,US
+2020-02-03 19:04:00,Microsoft,64.0,Data Scientist,265.0,10.0,1.0,58.0,30.0,Boston,MA,US
+2020-02-03 19:06:08,WeWork,5.0,Data Scientist,270.0,3.0,1.0,40.0,30.0,New York,NY,US
+2020-02-03 21:37:00,LinkedIn,5.0,Data Scientist,260.0,5.0,1.5,62.0,18.0,Sunnyvale,CA,US
+2020-02-05 09:53:26,Twitter,5.0,Data Scientist,192.0,2.0,2.0,25.0,22.0,San Francisco,CA,US
+2020-02-07 17:33:15,Capital One,5.0,Data Scientist,194.0,5.0,3.0,17.0,17.0,Arlington,VA,US
+2020-02-07 22:07:13,Adobe,5.0,Data Scientist,350.0,13.0,1.0,110.0,27.0,San Jose,CA,US
+2020-02-08 04:55:33,Facebook,4.0,Data Scientist,205.0,2.0,1.0,40.0,15.0,New York,NY,US
+2020-02-08 22:59:31,paypal,27.0,Data Scientist,420.0,15.0,6.0,160.0,55.0,San Jose,CA,US
+2020-02-09 01:29:26,PayPal,25.0,Data Scientist,205.0,4.0,2.0,20.0,10.0,San Jose,CA,US
+2020-02-10 21:14:33,Zillow,3.0,Data Scientist,185.0,3.0,1.0,40.0,5.0,Seattle,WA,US
+2020-02-11 19:09:09,Amazon,5.0,Data Scientist,210.0,3.0,0.5,60.0,0.0,Boston,MA,US
+2020-02-12 10:20:36,Elastic,7.0,Data Scientist,247.0,10.0,1.0,35.0,0.0,Washington,DC,US
+2020-02-12 22:25:04,Google,5.0,Data Scientist,346.0,12.0,0.0,150.0,26.0,Seattle,WA,US
+2020-02-13 07:48:01,DoorDash,6.0,Data Scientist,412.0,13.0,0.0,212.0,0.0,San Francisco,CA,US
+2020-02-13 17:08:49,Amazon,5.0,Data Scientist,236.0,2.0,1.0,6.0,50.0,New York,NY,US
+2020-02-13 22:09:32,Uber,2.0,Data Scientist,210.0,0.0,0.0,50.0,20.0,San Francisco,CA,US
+2020-02-15 08:19:11,Mckesson,3.0,Data Scientist,120.0,3.0,1.0,0.0,15.0,Phoenix,AZ,US
+2020-02-15 22:13:17,Facebook,5.0,Data Scientist,324.0,6.0,0.0,100.0,29.0,San Francisco,CA,US
+2020-02-16 16:06:40,JPMorgan Chase,4.0,Data Scientist,135.0,1.0,0.0,0.0,15.0,New York,NY,US
+2020-02-16 17:22:29,IQVIA,5.0,Data Scientist,140.0,0.0,0.0,0.0,10.0,Plymouth Meeting,PA,US
+2020-02-16 18:30:00,Apple,4.0,Data Scientist,300.0,10.0,3.0,90.0,18.0,Cupertino,CA,US
+2020-02-17 13:55:03,Feedzai,4.0,Data Scientist,145.0,4.0,2.0,10.0,20.0,Atlanta,GA,US
+2020-02-18 09:01:24,Spotify,4.0,Data Scientist,173.0,5.0,1.0,28.0,0.0,New York,NY,US
+2020-02-18 18:43:37,Microsoft,60.0,Data Scientist,141.0,2.0,2.0,6.0,14.0,Cambridge,MA,US
+2020-02-19 08:30:39,Google,3.0,Data Scientist,175.0,0.0,0.0,40.0,20.0,Sunnyvale,CA,US
+2020-02-19 10:12:04,JPMorgan Chase,4.0,Data Scientist,190.0,4.0,1.0,0.0,50.0,New York,NY,US
+2020-02-20 13:06:16,Amazon,5.0,Data Scientist,228.0,2.0,1.0,50.0,0.0,New York,NY,US
+2020-02-23 12:40:26,UBS,7.0,Data Scientist,170.0,5.0,4.0,0.0,55.0,New York,NY,US
+2020-02-23 23:48:05,SoFi,4.0,Data Scientist,260.0,5.0,1.0,60.0,30.0,San Francisco,CA,US
+2020-02-24 12:51:37,Genentech,4.0,Data Scientist,180.0,8.0,1.0,0.0,0.0,South San Francisco,CA,US
+2020-02-24 18:55:12,Microsoft,62.0,Data Scientist,211.0,0.0,0.0,45.0,12.0,Sunnyvale,CA,US
+2020-02-24 20:50:27,Facebook,5.0,Data Scientist,250.0,5.0,2.0,50.0,20.0,Menlo Park,CA,US
+2020-02-24 21:22:58,Intuit,6.0,Data Scientist,315.0,18.0,4.0,100.0,42.0,Dallas,TX,US
+2020-02-24 22:40:56,Yahoo,5.0,Data Scientist,179.0,11.0,6.0,28.0,21.0,Sunnyvale,CA,US
+2020-02-25 12:55:13,Lyft,4.0,Data Scientist,256.0,4.0,2.0,100.0,0.0,San Francisco,CA,US
+2020-02-26 00:45:55,Amazon,4.0,Data Scientist,185.0,0.0,0.0,17.0,40.0,Seattle,WA,US
+2020-02-26 13:41:01,Airbnb,5.0,Data Scientist,405.0,6.0,1.0,170.0,35.0,San Francisco,CA,US
+2020-02-26 16:44:15,Genentech,4.0,Data Scientist,200.0,7.0,2.0,20.0,25.0,South San Francisco,CA,US
+2020-02-27 06:19:07,Microsoft,61.0,Data Scientist,155.0,2.0,0.0,12.0,15.0,Seattle,WA,US
+2020-02-27 16:24:01,Cisco,8.0,Data Scientist,145.0,12.0,0.0,0.0,15.0,San Jose,CA,US
+2020-02-27 16:37:16,Twitter,4.0,Data Scientist,168.0,1.0,1.0,25.0,13.0,San Francisco,CA,US
+2020-02-27 21:04:18,Microsoft,64.0,Data Scientist,221.0,8.0,4.0,30.0,20.0,Seattle,WA,US
+2020-02-29 15:00:15,Capital One,4.0,Data Scientist,130.0,2.0,0.0,0.0,5.0,New York,NY,US
+2020-03-01 10:13:37,Amazon,5.0,Data Scientist,175.0,3.0,1.0,35.0,12.0,Seattle,WA,US
+2020-03-02 11:20:10,Oracle,3.0,Data Scientist,156.0,7.0,3.0,21.0,0.0,Broomfield,CO,US
+2020-03-03 20:10:18,Capital One,7.0,Data Scientist,280.0,10.0,7.0,40.0,40.0,Washington,DC,US
+2020-03-04 15:37:50,Google,3.0,Data Scientist,175.0,1.0,0.0,40.0,20.0,San Francisco,CA,US
+2020-03-04 20:58:18,Microsoft,62.0,Data Scientist,205.0,0.0,0.0,50.0,14.0,Redmond,WA,US
+2020-03-04 22:25:20,Lyft,4.0,Data Scientist,302.0,3.0,1.0,152.0,0.0,San Francisco,CA,US
+2020-03-06 00:08:44,LinkedIn,6.0,Data Scientist,203.0,8.0,4.0,5.0,20.0,Mountain View,CA,US
+2020-03-06 11:11:10,Nike,5.0,Data Scientist,180.0,5.0,2.0,8.0,22.0,Portland,OR,US
+2020-03-06 20:22:00,Google,7.0,Data Scientist,460.0,10.0,4.0,165.0,60.0,Mountain View,CA,US
+2020-03-07 21:54:27,Google,4.0,Data Scientist,282.0,9.0,1.0,112.0,25.0,San Francisco,CA,US
+2020-03-07 22:45:37,Microsoft,61.0,Data Scientist,200.0,2.0,2.0,60.0,20.0,New York,NY,US
+2020-03-08 10:22:49,Visa,5.0,Data Scientist,185.0,9.0,5.0,18.0,8.0,Foster City,CA,US
+2020-03-08 21:21:08,Microsoft,61.0,Data Scientist,191.0,0.0,0.0,35.0,25.0,Redmond,WA,US
+2020-03-09 18:50:27,KPMG,4.0,Data Scientist,100.0,1.0,0.0,0.0,0.0,Irvine,CA,US
+2020-03-10 17:21:00,Instacart,1.0,Data Scientist,240.0,5.0,1.0,60.0,0.0,San Francisco,CA,US
+2020-03-11 00:24:31,Amazon,6.0,Data Scientist,380.0,17.0,2.0,90.0,115.0,San Francisco,CA,US
+2020-03-11 07:42:01,Facebook,5.0,Data Scientist,260.0,8.0,3.0,90.0,10.0,New York,NY,US
+2020-03-11 11:35:44,Amazon,5.0,Data Scientist,200.0,8.0,1.0,65.0,3.0,Seattle,WA,US
+2020-03-11 13:45:11,Facebook,6.0,Data Scientist,315.0,11.0,4.0,50.0,44.0,Menlo Park,CA,US
+2020-03-11 14:16:48,Schlumberger,5.0,Data Scientist,150.0,3.0,5.0,0.0,0.0,Houston,TX,US
+2020-03-11 16:15:36,Twitter,2.0,Data Scientist,197.0,5.0,2.5,35.0,20.0,San Francisco,CA,US
+2020-03-12 11:11:37,Apple,4.0,Data Scientist,252.0,6.0,0.0,45.0,27.0,Cupertino,CA,US
+2020-03-12 11:39:49,Amazon,6.0,Data Scientist,250.0,6.0,3.0,90.0,10.0,Seattle,WA,US
+2020-03-15 21:05:59,Goldman Sachs,8.0,Data Scientist,300.0,3.0,3.0,10.0,110.0,New York,NY,US
+2020-03-15 22:21:15,Twitter,5.0,Data Scientist,279.0,4.0,2.0,90.0,25.0,San Francisco,CA,US
+2020-03-16 13:35:54,Facebook,3.0,Data Scientist,157.0,0.0,0.0,25.0,12.0,Menlo Park,CA,US
+2020-03-17 12:24:52,Microsoft,61.0,Data Scientist,142.0,2.0,2.0,6.0,12.0,Redmond,WA,US
+2020-03-17 12:52:27,Microsoft,61.0,Data Scientist,162.0,3.0,3.0,27.0,12.0,Redmond,WA,US
+2020-03-18 09:44:18,Amazon,4.0,Data Scientist,162.0,1.0,0.0,24.0,16.0,Seattle,WA,US
+2020-03-18 19:12:47,Netflix,5.0,Data Scientist,467.0,2.0,1.0,22.0,0.0,Los Gatos,CA,US
+2020-03-19 12:52:20,Microsoft,60.0,Data Scientist,132.0,15.0,1.0,3.0,10.0,Cambridge,MA,US
+2020-03-19 19:01:45,IBM,6.0,Data Scientist,120.0,0.0,0.0,0.0,0.0,Armonk,NY,US
+2020-03-20 15:37:23,Facebook,5.0,Data Scientist,295.0,5.0,2.0,80.0,28.0,San Francisco,CA,US
+2020-03-25 12:19:15,Intel,7.0,Data Scientist,143.0,4.0,3.0,11.0,14.0,Chandler,AZ,US
+2020-03-25 13:57:05,Facebook,4.0,Data Scientist,221.0,10.0,2.0,45.0,16.0,Menlo Park,CA,US
+2020-03-26 07:38:17,Amazon,5.0,Data Scientist,275.0,10.0,5.0,80.0,10.0,San Francisco,CA,US
+2020-03-26 19:26:41,Uber,5.0,Data Scientist,330.0,2.0,2.0,120.0,40.0,San Francisco,CA,US
+2020-03-27 17:53:14,Walmart Labs,5.0,Data Scientist,330.0,5.0,3.0,60.0,60.0,Sunnyvale,CA,US
+2020-03-27 23:44:24,Microsoft,60.0,Data Scientist,180.0,2.0,1.0,45.0,15.0,Redmond,WA,US
+2020-03-28 11:45:33,Two Sigma,1.0,Data Scientist,330.0,0.0,0.0,0.0,165.0,New York,NY,US
+2020-03-28 12:31:08,Mastercard,5.0,Data Scientist,220.0,6.0,3.0,15.0,43.0,San Francisco,CA,US
+2020-03-28 14:35:00,Stitch Fix,4.0,Data Scientist,325.0,2.0,0.0,100.0,0.0,San Francisco,CA,US
+2020-03-28 14:57:18,Uber,5.0,Data Scientist,270.0,5.0,3.0,80.0,20.0,San Francisco,CA,US
+2020-03-28 16:47:03,Airbnb,4.0,Data Scientist,295.0,5.0,2.0,100.0,20.0,San Francisco,CA,US
+2020-03-30 05:20:58,Liberty Mutual,15.0,Data Scientist,110.0,5.0,2.5,0.0,5.0,Boston,MA,US
+2020-03-30 19:19:14,Feedzai ,4.0,Data Scientist,140.0,6.0,3.0,0.0,20.0,Atlanta,GA,US
+2020-03-31 00:50:16,IBM,8.0,Data Scientist,179.0,3.0,3.0,0.0,1.0,San Jose,CA,US
+2020-04-01 10:00:26,Microsoft,64.0,Data Scientist,220.0,10.0,7.0,20.0,20.0,Redmond,WA,US
+2020-04-02 23:42:01,Zillow,4.0,Data Scientist,275.0,8.0,2.0,50.0,50.0,San Francisco,CA,US
+2020-04-04 00:22:41,Facebook,3.0,Data Scientist,185.0,3.0,1.0,25.0,35.0,New York,NY,US
+2020-04-05 15:41:07,Netflix,5.0,Data Scientist,400.0,6.0,2.0,20.0,0.0,Los Gatos,CA,US
+2020-04-05 20:40:16,Nvidia,2.0,Data Scientist,140.0,2.0,2.0,10.0,0.0,Santa Clara,CA,US
+2020-04-06 13:08:08,Zillow,3.0,Data Scientist,165.0,9.0,0.0,30.0,0.0,Seattle,WA,US
+2020-04-06 13:45:37,Twitter,6.0,Data Scientist,266.0,4.0,3.0,85.0,30.0,Boulder,CO,US
+2020-04-06 15:38:27,Apple,4.0,Data Scientist,252.0,5.0,0.0,45.0,27.0,Cupertino,CA,US
+2020-04-06 16:26:52,Microsoft,65.0,Data Scientist,245.0,11.0,2.0,25.0,30.0,Seattle,WA,US
+2020-04-07 00:06:01,Amazon,4.0,Data Scientist,154.0,0.0,0.0,4.0,30.0,Seattle,WA,US
+2020-04-09 13:18:53,Amazon,6.0,Data Scientist,320.0,8.0,3.0,160.0,0.0,Seattle,WA,US
+2020-04-09 18:35:42,Wayfair,3.0,Data Scientist,207.0,4.0,1.0,48.0,14.0,Boston,MA,US
+2020-04-12 09:50:19,Deloitte,5.0,Data Scientist,144.0,26.0,1.0,0.0,24.0,Washington,DC,US
+2020-04-12 12:37:15,Walmart,4.0,Data Scientist,189.0,3.0,2.0,20.0,25.0,San Bruno,CA,US
+2020-04-13 08:26:23,Facebook ,4.0,Data Scientist,200.0,3.0,0.0,37.0,10.0,Menlo Park,CA,US
+2020-04-13 12:27:59,Lyft,5.0,Data Scientist,450.0,4.0,4.0,260.0,0.0,San Francisco,CA,US
+2020-04-13 13:21:59,Capital One,5.0,Data Scientist,191.0,10.0,3.0,10.0,14.0,New York,NY,US
+2020-04-13 15:26:07,Lyft,5.0,Data Scientist,400.0,5.0,0.0,200.0,0.0,San Francisco,CA,US
+2020-04-13 17:48:04,Amazon,5.0,Data Scientist,191.0,4.0,3.0,47.0,0.0,Palo Alto,CA,US
+2020-04-13 20:32:40,Airbnb,4.0,Data Scientist,296.0,4.0,2.0,120.0,0.0,San Francisco,CA,US
+2020-04-14 18:43:35,Humana,5.0,Data Scientist,140.0,0.0,0.0,0.0,10.0,Boston,MA,US
+2020-04-14 21:17:19,Amazon,5.0,Data Scientist,300.0,3.0,1.0,75.0,70.0,Seattle,WA,US
+2020-04-15 12:07:25,Uber,5.0,Data Scientist,451.0,12.0,5.0,207.0,32.0,Palo Alto,CA,US
+2020-04-15 15:20:57,Chan Zuckerberg Initiative,6.0,Data Scientist,321.0,5.0,0.0,0.0,76.0,Redwood City,CA,US
+2020-04-15 19:52:08,Citibank,5.0,Data Scientist,200.0,7.0,1.0,0.0,25.0,San Francisco,CA,US
+2020-04-16 15:24:32,Uber,5.0,Data Scientist,332.0,7.0,4.0,123.0,34.0,San Francisco,CA,US
+2020-04-16 15:39:01,PayPal,24.0,Data Scientist,170.0,2.0,1.0,30.0,16.0,San Jose,CA,US
+2020-04-17 15:10:44,WeWork,4.0,Data Scientist,192.0,4.0,1.0,0.0,17.0,New York,NY,US
+2020-04-17 18:52:54,Facebook,5.0,Data Scientist,325.0,7.0,0.0,100.0,30.0,San Francisco,CA,US
+2020-04-18 00:18:40,Convoy,6.0,Data Scientist,190.0,15.0,0.0,30.0,10.0,Seattle,WA,US
+2020-04-18 02:04:31,Microsoft,61.0,Data Scientist,211.0,0.0,0.0,45.0,15.0,Sunnyvale,CA,US
+2020-04-18 12:03:47,JPMorgan Chase,4.0,Data Scientist,128.0,2.0,0.0,0.0,8.0,New York,NY,US
+2020-04-18 23:20:14,Target,6.0,Data Scientist,150.0,1.0,1.0,5.0,13.0,Minneapolis,MN,US
+2020-04-19 16:33:34,Bird ,5.0,Data Scientist,165.0,4.0,1.0,0.0,0.0,Los Angeles,CA,US
+2020-04-21 07:42:18,AWS,5.0,Data Scientist,230.0,2.0,1.0,55.0,0.0,New York,NY,US
+2020-04-21 12:34:23,Capital One,5.0,Data Scientist,141.0,3.0,2.0,0.0,5.0,Washington,DC,US
+2020-04-21 15:35:26,Amazon,4.0,Data Scientist,158.0,6.0,0.0,5.0,30.0,Seattle,WA,US
+2020-04-21 17:07:22,Lyft,7.0,Data Scientist,730.0,12.0,2.0,470.0,0.0,San Francisco,CA,US
+2020-04-22 07:55:21,Booz Allen Hamilton,4.0,Data Scientist,110.0,5.0,2.0,0.0,0.0,Washington,DC,US
+2020-04-23 08:45:55,Amazon,4.0,Data Scientist,167.0,2.0,0.0,12.0,7.0,Seattle,WA,US
+2020-04-23 12:23:26,Lyft,4.0,Data Scientist,300.0,0.0,0.0,134.0,0.0,New York,NY,US
+2020-04-24 15:33:37,eBay,1.0,Data Scientist,230.0,6.0,6.0,45.0,17.0,Bellevue,WA,US
+2020-04-24 16:32:15,Amazon,5.0,Data Scientist,370.0,5.0,2.0,185.0,0.0,New York,NY,US
+2020-04-24 18:10:30,ICF,3.0,Data Scientist,75.0,1.0,1.0,0.0,0.0,Fairfax,VA,US
+2020-04-24 23:54:11,Postmates,5.0,Data Scientist,280.0,2.0,1.0,100.0,0.0,San Francisco,CA,US
+2020-04-25 01:25:31,Microsoft,62.0,Data Scientist,190.0,2.0,2.0,40.0,10.0,Redmond,WA,US
+2020-04-25 07:34:14,Accenture,5.0,Data Scientist,160.0,7.0,5.0,0.0,10.0,Boston,MA,US
+2020-04-25 11:22:02,Delta Air Lines,9.0,Data Scientist,155.0,4.0,0.0,0.0,15.0,Atlanta,GA,US
+2020-04-25 15:11:11,Apple,6.0,Data Scientist,645.0,7.0,2.0,180.0,90.0,Redmond,WA,US
+2020-04-25 17:28:09,Nordstrom,4.0,Data Scientist,170.0,6.0,2.0,0.0,33.0,Seattle,WA,US
+2020-04-25 17:49:36,Walmart Labs,7.0,Data Scientist,263.0,11.0,5.0,65.0,43.0,Bentonville,AR,US
+2020-04-25 22:23:35,Thumbtack,3.0,Data Scientist,125.0,1.0,1.0,10.0,10.0,San Francisco,CA,US
+2020-04-26 12:23:27,Dell Technologies,8.0,Data Scientist,134.0,2.0,2.0,15.0,9.0,Austin,TX,US
+2020-04-27 14:21:38,Adobe,3.0,Data Scientist,250.0,4.0,3.0,90.0,15.0,Emeryville,CA,US
+2020-04-27 23:03:39,intel,5.0,Data Scientist,300.0,5.0,5.0,50.0,50.0,Portland,OR,US
+2020-04-28 17:19:29,Zulily,5.0,Data Scientist,206.0,4.0,1.5,21.0,15.0,Seattle,WA,US
+2020-04-28 17:57:31,Airbnb,4.0,Data Scientist,213.0,2.0,2.0,50.0,0.0,San Francisco,CA,US
+2020-04-29 15:43:15,Microsoft,62.0,Data Scientist,172.0,0.0,0.0,23.0,14.0,Atlanta,GA,US
+2020-04-29 19:50:22,Nike,4.0,Data Scientist,245.0,5.0,3.0,45.0,34.0,Portland,OR,US
+2020-04-30 06:57:38,Microsoft,63.0,Data Scientist,156.0,16.0,6.0,21.0,20.0,San Juan Bautista,CA,US
+2020-04-30 06:57:38,Microsoft,63.0,Data Scientist,156.0,16.0,6.0,21.0,20.0,San Juan Bautista,CA,US
+2020-04-30 17:08:29,Morgan Stanley,4.0,Data Scientist,190.0,4.0,4.0,0.0,40.0,New York,NY,US
+2020-05-02 17:45:33,Uber,4.0,Data Scientist,215.0,2.0,0.0,65.0,15.0,San Francisco,CA,US
+2020-05-02 21:24:03,Amazon,5.0,Data Scientist,222.0,2.0,0.0,10.0,62.0,Charlotte,NC,US
+2020-05-03 03:09:36,Salesforce,6.0,Data Scientist,236.0,2.0,2.0,41.0,25.0,San Francisco,CA,US
+2020-05-03 06:03:13,Aetna,3.0,Data Scientist,180.0,5.0,2.0,0.0,10.0,New York,NY,US
+2020-05-04 12:44:00,Uber,3.0,Data Scientist,169.0,3.0,1.0,30.0,12.0,Los Angeles,CA,US
+2020-05-04 15:32:04,Capital One,4.0,Data Scientist,140.0,1.0,1.0,0.0,10.0,Washington,DC,US
+2020-05-04 15:47:36,PayPal,24.0,Data Scientist,146.0,3.0,0.0,16.0,10.0,San Jose,CA,US
+2020-05-04 18:00:18,Allstate,5.0,Data Scientist,140.0,7.0,2.0,0.0,10.0,Redwood City,CA,US
+2020-05-04 19:22:08,Snap,4.0,Data Scientist,380.0,2.0,2.0,220.0,0.0,Santa Monica,CA,US
+2020-05-05 03:36:17,Visa,5.0,Data Scientist,175.0,3.0,2.0,6.0,15.0,Foster City,CA,US
+2020-05-05 10:07:46,Opendoor,2.0,Data Scientist,230.0,7.0,3.0,70.0,0.0,San Francisco,CA,US
+2020-05-05 15:12:33,Microsoft,63.0,Data Scientist,195.0,5.0,1.0,20.0,15.0,Redmond,WA,US
+2020-05-05 23:32:07,Uber,5.0,Data Scientist,311.0,8.0,5.0,100.0,33.0,San Francisco,CA,US
+2020-05-06 08:16:34,IHS Markit,1.0,Data Scientist,75.0,0.0,0.0,0.0,0.0,Naperville,IL,US
+2020-05-06 10:50:31,Intuit,4.0,Data Scientist,300.0,10.0,10.0,100.0,40.0,Sunnyvale,CA,US
+2020-05-07 08:31:38,Walmart Labs,3.0,Data Scientist,131.0,6.0,1.0,6.0,25.0,Bentonville,AR,US
+2020-05-07 18:12:14,Amazon,5.0,Data Scientist,220.0,3.0,1.0,50.0,20.0,New York,NY,US
+2020-05-07 18:19:06,Amazon,4.0,Data Scientist,167.0,2.0,0.0,10.0,7.0,Seattle,WA,US
+2020-05-07 22:15:33,Facebook,4.0,Data Scientist,225.0,2.0,1.0,45.0,20.0,Menlo Park,CA,US
+2020-05-08 08:09:49,Salesforce,5.0,Data Scientist,350.0,6.0,3.0,100.0,32.0,Cambridge,MA,US
+2020-05-08 16:51:05,Numerator,2.0,Data Scientist,136.0,4.0,1.0,1.0,5.0,Chicago,IL,US
+2020-05-09 00:41:46,Travelers,4.0,Data Scientist,108.0,0.0,0.0,0.0,8.0,Hartford,CT,US
+2020-05-10 08:39:41,Booz Allen Hamilton ,5.0,Data Scientist,115.0,4.0,1.0,0.0,0.0,Washington,DC,US
+2020-05-10 09:49:29,Amazon,5.0,Data Scientist,228.0,3.0,1.0,30.0,20.0,New York,NY,US
+2020-05-10 17:38:03,Uber,3.0,Data Scientist,162.0,1.0,1.0,28.0,7.0,San Francisco,CA,US
+2020-05-11 12:38:35,Netflix,5.0,Data Scientist,375.0,0.0,0.0,20.0,100.0,Los Gatos,CA,US
+2020-05-11 22:00:17,KPMG,4.0,Data Scientist,90.0,2.0,0.0,0.0,0.0,Irvine,CA,US
+2020-05-12 13:02:16,Amazon,5.0,Data Scientist,262.0,2.0,0.0,42.0,50.0,New York,NY,US
+2020-05-15 15:40:06,Atlassian,6.0,Data Scientist,340.0,10.0,1.0,110.0,30.0,San Francisco,CA,US
+2020-05-15 18:29:01,Red Hat,3.0,Data Scientist,110.0,2.0,2.0,0.0,10.0,Raleigh,NC,US
+2020-05-15 21:56:06,Facebook,3.0,Data Scientist,170.0,3.0,2.0,30.0,10.0,San Francisco,CA,US
+2020-05-16 11:46:12,Intel,7.0,Data Scientist,173.0,7.0,7.0,21.0,25.0,Hillsboro,OR,US
+2020-05-16 11:48:08,PayPal,26.0,Data Scientist,220.0,7.0,0.0,25.0,15.0,San Jose,CA,US
+2020-05-18 20:29:53,Wells Fargo,1.0,Data Scientist,180.0,5.0,4.0,3.0,40.0,Charlotte,NC,US
+2020-05-18 20:33:36,Intuit,4.0,Data Scientist,213.0,3.0,3.0,20.0,32.0,San Diego,CA,US
+2020-05-19 22:45:05,Intuitive,2.0,Data Scientist,153.0,1.0,1.0,12.0,12.0,Sunnyvale,CA,US
+2020-05-19 23:30:43,Wells Fargo ,2.0,Data Scientist,165.0,0.0,0.0,0.0,15.0,San Francisco,CA,US
+2020-05-20 15:04:11,Nextdoor,4.0,Data Scientist,320.0,6.0,0.0,75.0,20.0,San Francisco,CA,US
+2020-05-20 23:44:31,Google,4.0,Data Scientist,220.0,4.0,0.0,60.0,21.0,San Francisco,CA,US
+2020-05-21 12:51:04,Zillow,3.0,Data Scientist,177.0,2.0,2.0,40.0,0.0,Seattle,WA,US
+2020-05-21 19:58:59,Google,1.0,Data Scientist,100.0,0.0,0.0,20.0,10.0,Atlanta,GA,US
+2020-05-21 23:07:14,Google,5.0,Data Scientist,270.0,3.0,3.0,70.0,30.0,Mountain View,CA,US
+2020-05-22 12:37:17,Workday,3.0,Data Scientist,244.0,5.0,1.0,60.0,30.0,Boulder,CO,US
+2020-05-22 12:42:04,Netflix,5.0,Data Scientist,450.0,5.0,2.0,30.0,20.0,San Francisco,CA,US
+2020-05-23 15:29:42,Red Hat,2.0,Data Scientist,100.0,2.0,2.0,0.0,9.0,Raleigh,NC,US
+2020-05-24 10:24:42,NVIDIA,3.0,Data Scientist,175.0,2.0,2.0,25.0,0.0,Santa Clara,CA,US
+2020-05-25 08:53:00,Microsoft,65.0,Data Scientist,550.0,7.0,7.0,270.0,50.0,Sunnyvale,CA,US
+2020-05-25 18:25:52,Atlassian,5.0,Data Scientist,237.0,4.0,1.0,47.0,25.0,San Francisco,CA,US
+2020-05-26 16:22:47,Boeing,4.0,Data Scientist,142.0,4.0,4.0,0.0,6.0,Seattle,WA,US
+2020-05-27 08:59:46,JPMorgan Chase,4.0,Data Scientist,150.0,1.0,1.0,0.0,25.0,New York,NY,US
+2020-05-27 12:44:43,Intuit,5.0,Data Scientist,190.0,5.0,2.0,27.0,21.0,Mountain View,CA,US
+2020-05-27 15:50:53,Facebook,6.0,Data Scientist,330.0,10.0,0.0,72.0,43.0,San Francisco,CA,US
+2020-05-27 15:57:49,Amazon,6.0,Data Scientist,314.0,7.0,3.0,139.0,0.0,Palo Alto,CA,US
+2020-05-27 16:13:31,Amadeus,5.0,Data Scientist,105.0,2.0,2.0,0.0,5.0,Gainesville,FL,US
+2020-05-27 18:06:54,Microsoft,61.0,Data Scientist,150.0,3.0,3.0,15.0,5.0,Redmond,WA,US
+2020-05-29 10:19:49,Booz Allen Hamilton,2.0,Data Scientist,98.0,4.0,2.0,0.0,0.0,Alexandria,VA,US
+2020-05-29 21:57:11,Apple,4.0,Data Scientist,270.0,5.0,2.0,80.0,15.0,Cupertino,CA,US
+2020-05-31 09:09:10,Shutterstock,1.0,Data Scientist,125.0,1.0,1.0,0.0,10.0,New York,NY,US
+2020-05-31 11:10:31,Capital One,5.0,Data Scientist,150.0,4.0,3.0,0.0,12.0,New York,NY,US
+2020-06-01 06:59:05,JP Morgan Chase ,4.0,Data Scientist,160.0,3.0,1.0,0.0,25.0,New York,NY,US
+2020-06-01 13:10:07,Airbnb,6.0,Data Scientist,318.0,6.0,1.0,200.0,18.0,Miami,FL,US
+2020-06-01 14:42:15,Amazon,5.0,Data Scientist,216.0,4.0,3.0,60.0,0.0,Palo Alto,CA,US
+2020-06-02 07:53:42,Microsoft,62.0,Data Scientist,170.0,5.0,1.0,12.0,14.0,Seattle,WA,US
+2020-06-02 10:58:36,Workday,3.0,Data Scientist,184.0,3.0,3.0,57.0,0.0,Pleasanton,CA,US
+2020-06-02 14:32:47,Microsoft,61.0,Data Scientist,191.0,1.0,1.0,45.0,15.0,Redmond,WA,US
+2020-06-03 17:14:23,Adobe,3.0,Data Scientist,200.0,4.0,1.0,15.0,17.0,San Francisco,CA,US
+2020-06-03 22:58:13,Google,4.0,Data Scientist,270.0,4.0,2.0,80.0,30.0,Sunnyvale,CA,US
+2020-06-04 17:19:47,Bird,5.0,Data Scientist,165.0,4.0,2.0,0.0,0.0,Santa Monica,CA,US
+2020-06-04 20:50:38,Amazon,5.0,Data Scientist,191.0,3.0,3.0,46.0,0.0,New York,NY,US
+2020-06-06 12:37:02,Capital One,5.0,Data Scientist,134.0,2.0,2.0,3.0,8.0,Richmond,VA,US
+2020-06-07 09:11:29,Apple,4.0,Data Scientist,144.0,2.0,0.0,0.0,0.0,Cupertino,CA,US
+2020-06-07 20:45:03,Amazon,4.0,Data Scientist,140.0,2.0,1.0,15.0,5.0,Seattle,WA,US
+2020-06-07 22:18:37,Oracle,4.0,Data Scientist,335.0,5.0,1.0,150.0,0.0,Seattle,WA,US
+2020-06-08 09:53:48,Amazon,5.0,Data Scientist,210.0,2.0,0.0,36.0,26.0,Seattle,WA,US
+2020-06-08 10:48:22,IBM,10.0,Data Scientist,270.0,13.0,12.0,0.0,0.0,Armonk,NY,US
+2020-06-08 11:55:51,SAP,2.0,Data Scientist,127.0,2.0,0.0,0.0,12.0,Chicago,IL,US
+2020-06-08 14:09:04,Booz Allen Hamilton,4.0,Data Scientist,128.0,2.0,1.0,0.0,0.0,Arlington,VA,US
+2020-06-09 00:23:33,PayPal,25.0,Data Scientist,230.0,10.0,3.0,65.0,15.0,San Jose,CA,US
+2020-06-09 00:34:09,Uber,5.0,Data Scientist,471.0,16.0,3.0,220.0,40.0,San Francisco,CA,US
+2020-06-09 13:12:46,IBM,5.0,Data Scientist,131.0,3.0,3.0,0.0,0.0,San Francisco,CA,US
+2020-06-10 00:21:52,Uber,5.0,Data Scientist,328.0,4.0,4.0,125.0,33.0,San Francisco,CA,US
+2020-06-10 04:04:59,PayPal,23.0,Data Scientist,153.0,1.0,1.0,10.0,25.0,San Jose,CA,US
+2020-06-10 07:21:53,Amazon,5.0,Data Scientist,230.0,5.0,0.0,38.0,27.0,Seattle,WA,US
+2020-06-10 08:21:00,Accenture,4.0,Data Scientist,150.0,4.0,1.0,0.0,0.0,San Francisco,CA,US
+2020-06-10 16:37:40,Adobe,3.0,Data Scientist,168.0,4.0,1.0,20.0,13.0,San Francisco,CA,US
+2020-06-10 18:23:04,Feedzai,4.0,Data Scientist,142.0,6.0,4.0,5.0,23.0,Atlanta,GA,US
+2020-06-10 18:39:01,Google,4.0,Data Scientist,213.0,0.0,0.0,50.0,21.0,Sunnyvale,CA,US
+2020-06-11 13:37:14,Walmart Labs,3.0,Data Scientist,175.0,1.0,1.0,20.0,15.0,Sunnyvale,CA,US
+2020-06-11 14:35:05,Microsoft,60.0,Data Scientist,184.0,1.0,1.0,50.0,14.0,Redmond,WA,US
+2020-06-11 17:21:26,MITRE,5.0,Data Scientist,170.0,23.0,14.0,0.0,0.0,Ann Arbor,MI,US
+2020-06-11 23:55:28,Facebook,5.0,Data Scientist,300.0,12.0,3.0,100.0,15.0,Seattle,WA,US
+2020-06-12 11:11:53,Google,5.0,Data Scientist,320.0,8.0,0.0,125.0,25.0,Seattle,WA,US
+2020-06-12 13:16:16,linkedin,3.0,Data Scientist,160.0,3.0,0.0,30.0,10.0,Sunnyvale,CA,US
+2020-06-12 13:58:37,Amazon,4.0,Data Scientist,210.0,4.0,1.0,30.0,30.0,Palo Alto,CA,US
+2020-06-12 22:40:03,Amazon,4.0,Data Scientist,250.0,4.0,0.0,48.0,50.0,Seattle,WA,US
+2020-06-13 22:50:55,Apple,4.0,Data Scientist,385.0,6.0,6.0,195.0,20.0,Cupertino,CA,US
+2020-06-15 21:03:13,Apple,4.0,Data Scientist,382.0,7.0,1.0,125.0,40.0,Cupertino,CA,US
+2020-06-16 15:41:41,Facebook,4.0,Data Scientist,200.0,2.0,2.0,40.0,10.0,San Francisco,CA,US
+2020-06-16 16:55:46,Amazon,5.0,Data Scientist,176.0,5.0,1.0,34.0,15.0,Seattle,WA,US
+2020-06-16 23:43:14,Amazon,5.0,Data Scientist,160.0,10.0,1.0,20.0,11.0,Seattle,WA,US
+2020-06-17 08:32:05,Twitter,5.0,Data Scientist,280.0,4.0,1.0,89.0,25.0,San Francisco,CA,US
+2020-06-17 19:20:30,Bosch,5.0,Data Scientist,180.0,3.0,3.0,0.0,10.0,Sunnyvale,CA,US
+2020-06-17 22:45:52,Google,5.0,Data Scientist,350.0,7.0,1.0,20.0,80.0,San Francisco,CA,US
+2020-06-18 14:57:25,Amazon,4.0,Data Scientist,220.0,4.0,0.0,45.0,20.0,New York,NY,US
+2020-06-18 18:05:34,Google,5.0,Data Scientist,284.0,11.0,1.0,100.0,24.0,Mountain View,CA,US
+2020-06-18 18:26:01,Facebook,4.0,Data Scientist,235.0,5.0,3.0,60.0,25.0,Menlo Park,CA,US
+2020-06-18 20:03:50,JPMorgan Chase,501.0,Data Scientist,135.0,1.0,0.0,0.0,15.0,New York,NY,US
+2020-06-18 22:37:55,Microsoft,64.0,Data Scientist,247.0,7.0,4.0,29.0,33.0,Seattle,WA,US
+2020-06-19 07:49:02,Booz Allen Hamilton,5.0,Data Scientist,160.0,5.0,2.0,0.0,0.0,Washington,DC,US
+2020-06-20 09:50:53,Deloitte,4.0,Data Scientist,127.0,2.0,2.0,0.0,10.0,Boston,MA,US
+2020-06-22 11:33:19,Facebook,5.0,Data Scientist,300.0,11.0,2.0,80.0,30.0,Fremont,CA,US
+2020-06-23 10:01:41,PayPal,26.0,Data Scientist,232.0,6.0,0.0,35.0,25.0,San Jose,CA,US
+2020-06-23 20:04:46,Uber,5.0,Data Scientist,256.0,5.0,0.0,86.0,16.0,San Francisco,CA,US
+2020-06-23 21:42:30,Goldman sachs,4.0,Data Scientist,110.0,5.0,3.0,0.0,10.0,New York,NY,US
+2020-06-24 18:43:41,Apple,3.0,Data Scientist,220.0,1.0,1.0,50.0,20.0,Cupertino,CA,US
+2020-06-25 09:36:02,MITRE,2.0,Data Scientist,109.0,2.0,2.0,0.0,3.0,Washington,DC,US
+2020-06-25 20:35:14,Google,4.0,Data Scientist,246.0,10.0,2.0,65.0,25.0,Sunnyvale,CA,US
+2020-06-26 15:31:59,Capital One,5.0,Data Scientist,194.0,3.0,3.0,10.0,17.0,New York,NY,US
+2020-06-28 07:38:34,Facebook,5.0,Data Scientist,300.0,20.0,3.0,90.0,20.0,San Jose,CA,US
+2020-06-28 09:22:48,ExxonMobil,24.0,Data Scientist,106.0,1.0,1.0,0.0,0.0,Houston,TX,US
+2020-06-28 17:10:44,Amazon,6.0,Data Scientist,212.0,10.0,3.0,80.0,0.0,Seattle,WA,US
+2020-06-28 22:27:55,Yahoo,3.0,Data Scientist,180.0,4.0,0.0,30.0,10.0,Sunnyvale,CA,US
+2020-06-29 13:53:11,Boeing,4.0,Data Scientist,143.0,10.0,6.0,0.0,13.0,Seattle,WA,US
+2020-06-30 00:54:25,GoDaddy,3.0,Data Scientist,150.0,2.0,2.0,26.0,12.0,Arizona City,AZ,US
+2020-06-30 22:17:28,Microsoft,66.0,Data Scientist,390.0,5.0,2.0,50.0,55.0,Berkeley,CA,US
+2020-07-01 09:55:02,Zillow,5.0,Data Scientist,222.0,4.0,1.0,53.0,20.0,Seattle,WA,US
+2020-07-01 16:36:36,Salesforce,6.0,Data Scientist,150.0,4.0,2.0,7.0,13.0,Bellevue,WA,US
+2020-07-02 02:19:54,Intuit,5.0,Data Scientist,238.0,6.0,2.0,63.0,23.0,Mountain View,CA,US
+2020-07-02 08:15:16,Apple,3.0,Data Scientist,480.0,20.0,4.0,0.0,0.0,Los Angeles,CA,US
+2020-07-02 12:41:01,Cruise,4.0,Data Scientist,310.0,9.0,2.0,100.0,0.0,San Francisco,CA,US
+2020-07-03 00:12:32,Target,5.0,Data Scientist,102.0,4.0,1.0,0.0,6.0,Minneapolis,MN,US
+2020-07-03 01:00:02,Apple,4.0,Data Scientist,175.0,10.0,5.0,15.0,19.0,San Jose,CA,US
+2020-07-05 17:13:15,Johnson and Johnson,2.0,Data Scientist,140.0,0.0,0.0,0.0,15.0,Titusville,NJ,US
+2020-07-05 21:40:50,Microsoft,61.0,Data Scientist,151.0,5.0,3.0,6.0,12.0,Seattle,WA,US
+2020-07-06 00:39:50,Amazon,5.0,Data Scientist,250.0,5.0,1.0,30.0,70.0,San Diego,CA,US
+2020-07-06 17:16:12,Google,3.0,Data Scientist,170.0,3.0,3.0,0.0,0.0,San Francisco,CA,US
+2020-07-06 18:03:05,Facebook,4.0,Data Scientist,205.0,0.0,0.0,40.0,15.0,Menlo Park,CA,US
+2020-07-06 22:10:39,Microsoft,62.0,Data Scientist,220.0,4.0,2.0,60.0,10.0,Bellevue,WA,US
+2020-07-06 22:31:17,PayPal,24.0,Data Scientist,216.0,2.0,0.0,40.0,16.0,San Jose,CA,US
+2020-07-07 07:46:44,Walmart Labs,6.0,Data Scientist,223.0,10.0,3.0,23.0,0.0,San Francisco,CA,US
+2020-07-07 08:03:56,Amazon,5.0,Data Scientist,185.0,25.0,0.0,5.0,0.0,Cambridge,MA,US
+2020-07-07 09:18:08,AT&T,1.0,Data Scientist,98.0,0.0,0.0,0.0,15.0,Dallas,TX,US
+2020-07-07 10:30:12,Facebook,5.0,Data Scientist,297.0,2.0,2.0,90.0,27.0,Seattle,WA,US
+2020-07-07 11:07:09,Intel,7.0,Data Scientist,147.0,1.0,1.0,11.0,15.0,Hillsboro,OR,US
+2020-07-07 13:59:11,Expedia,4.0,Data Scientist,131.0,1.0,1.0,3.0,14.0,Seattle,WA,US
+2020-07-07 16:11:10,Apple,3.0,Data Scientist,197.0,2.0,0.0,38.0,15.0,Sunnyvale,CA,US
+2020-07-07 19:06:25,PayPal,26.0,Data Scientist,297.0,13.0,2.0,60.0,30.0,San Jose,CA,US
+2020-07-08 11:55:44,Amazon,4.0,Data Scientist,140.0,3.0,1.0,10.0,5.0,Seattle,WA,US
+2020-07-08 22:32:01,GoDaddy,5.0,Data Scientist,152.0,5.0,1.0,25.0,12.0,Redmond,WA,US
+2020-07-09 18:10:54,Apple,4.0,Data Scientist,246.0,6.0,0.0,40.0,19.0,Cupertino,CA,US
+2020-07-09 18:15:23,Qualtrics,5.0,Data Scientist,220.0,8.0,1.0,35.0,25.0,Seattle,WA,US
+2020-07-09 19:41:43,Facebook,3.0,Data Scientist,156.0,0.0,0.0,25.0,12.0,New York,NY,US
+2020-07-10 14:47:06,Amazon,4.0,Data Scientist,185.0,4.0,0.0,40.0,5.0,Sunnyvale,CA,US
+2020-07-10 15:59:15,Google,6.0,Data Scientist,489.0,12.0,7.0,219.0,50.0,Mountain View,CA,US
+2020-07-10 17:22:53,Capital One,4.0,Data Scientist,102.0,0.0,0.0,0.0,10.0,Richmond,VA,US
+2020-07-10 22:28:31,Apple,5.0,Data Scientist,400.0,17.0,7.0,160.0,20.0,Cupertino,CA,US
+2020-07-11 04:02:57,capgemini,5.0,Data Scientist,40.0,16.0,12.0,0.0,1.0,Italy,TX,US
+2020-07-12 21:02:05,Google,4.0,Data Scientist,240.0,9.0,2.0,40.0,30.0,Mountain View,CA,US
+2020-07-12 23:53:14,Uber,3.0,Data Scientist,160.0,4.0,2.0,25.0,20.0,San Francisco,CA,US
+2020-07-13 09:16:25,Amazon,4.0,Data Scientist,220.0,4.0,1.0,50.0,20.0,New York,NY,US
+2020-07-13 15:31:52,Oracle,2.0,Data Scientist,134.0,1.0,1.0,14.0,0.0,Denver,CO,US
+2020-07-13 18:04:37,Asana,4.0,Data Scientist,170.0,4.0,0.0,23.0,0.0,San Francisco,CA,US
+2020-07-14 15:16:55,eBay,2.0,Data Scientist,220.0,4.0,0.0,30.0,20.0,San Jose,CA,US
+2020-07-15 17:36:42,Facebook,4.0,Data Scientist,210.0,0.0,0.0,35.0,25.0,Menlo Park,CA,US
+2020-07-16 02:19:54,Zalando,6.0,Data Scientist,74.0,3.0,1.0,0.0,0.0,Berlin Center,OH,US
+2020-07-16 16:14:07,JPMorgan Chase,602.0,Data Scientist,169.0,5.0,4.0,0.0,30.0,New York,NY,US
+2020-07-16 16:39:30,Dropbox,2.0,Data Scientist,147.0,3.0,2.0,15.0,12.0,San Francisco,CA,US
+2020-07-17 20:03:15,PwC,4.0,Data Scientist,120.0,3.0,3.0,0.0,6.0,New York,NY,US
+2020-07-18 21:40:47,IBM,7.0,Data Scientist,130.0,3.0,1.0,0.0,0.0,New York,NY,US
+2020-07-19 08:21:18,IBM,9.0,Data Scientist,200.0,9.0,4.0,0.0,20.0,Cleveland,OH,US
+2020-07-20 15:52:27,Google,6.0,Data Scientist,289.0,15.0,3.0,80.0,40.0,Austin,TX,US
+2020-07-21 06:21:50,Wayfair,2.0,Data Scientist,140.0,1.0,1.0,8.0,12.0,Boston,MA,US
+2020-07-21 13:20:02,Wells Fargo,2.0,Data Scientist,185.0,10.0,10.0,0.0,30.0,San Francisco,CA,US
+2020-07-21 16:39:38,Amazon,4.0,Data Scientist,165.0,1.0,0.0,10.0,15.0,Seattle,WA,US
+2020-07-21 17:10:38,Capgemini,5.0,Data Scientist,97.0,0.0,0.0,0.0,0.0,Los Angeles,CA,US
+2020-07-21 20:44:34,Facebook,6.0,Data Scientist,321.0,15.0,5.0,80.0,40.0,Menlo Park,CA,US
+2020-07-22 19:48:13,Facebook,4.0,Data Scientist,208.0,3.0,2.0,55.0,14.0,Menlo Park,CA,US
+2020-07-23 13:29:53,Apple,4.0,Data Scientist,220.0,7.0,1.0,60.0,15.0,Sunnyvale,CA,US
+2020-07-24 07:54:21,Ebay,1.0,Data Scientist,188.0,5.0,5.0,13.0,12.0,New York,NY,US
+2020-07-24 14:19:12,JUUL Labs,3.0,Data Scientist,160.0,4.0,1.0,0.0,0.0,San Francisco,CA,US
+2020-07-24 19:56:43,Nextdoor,2.0,Data Scientist,203.0,1.0,1.0,60.0,0.0,San Francisco,CA,US
+2020-07-25 10:28:43,Facebook,3.0,Data Scientist,177.0,0.0,0.0,25.0,32.0,Menlo Park,CA,US
+2020-07-25 18:14:57,Stripe,3.0,Data Scientist,385.0,4.0,0.0,158.0,33.0,San Francisco,CA,US
+2020-07-25 19:19:21,Palo Alto Networks,3.0,Data Scientist,204.0,0.0,0.0,25.0,19.0,Santa Clara,CA,US
+2020-07-28 15:11:31,Oracle,2.0,Data Scientist,117.0,2.0,2.0,1.0,0.0,Redwood City,CA,US
+2020-07-28 19:27:06,Ernst and Young,5.0,Data Scientist,104.0,2.0,2.0,0.0,6.0,San Francisco,CA,US
+2020-07-29 11:04:47,Microsoft,61.0,Data Scientist,238.0,2.0,2.0,70.0,15.0,Sunnyvale,CA,US
+2020-07-29 20:47:01,Morgan Stanley,4.0,Data Scientist,123.0,2.0,2.0,10.0,18.0,New York,NY,US
+2020-07-29 20:49:58,GoDaddy,3.0,Data Scientist,150.0,5.0,1.0,26.0,11.0,Arizona City,AZ,US
+2020-07-29 21:42:13,Ebay,2.0,Data Scientist,290.0,15.0,5.0,40.0,50.0,Campbell,CA,US
+2020-07-29 22:18:43,Intuit,2.0,Data Scientist,140.0,4.0,3.0,30.0,80.0,San Diego,CA,US
+2020-07-29 23:31:01,Facebook,4.0,Data Scientist,210.0,3.0,1.0,40.0,15.0,Menlo Park,CA,US
+2020-07-30 11:23:02,Intuit,5.0,Data Scientist,168.0,1.0,1.0,25.0,15.0,San Diego,CA,US
+2020-07-31 10:31:29,Square,5.0,Data Scientist,310.0,7.0,0.0,125.0,0.0,San Francisco,CA,US
+2020-07-31 17:07:57,T-Mobile,8.0,Data Scientist,195.0,4.0,2.0,10.0,30.0,Seattle,WA,US
+2020-08-01 00:14:34,Genentech,4.0,Data Scientist,196.0,3.0,0.0,5.0,21.0,South San Francisco,CA,US
+2020-08-01 06:33:45,Zillow,4.0,Data Scientist,270.0,4.0,2.0,100.0,0.0,San Francisco,CA,US
+2020-08-02 08:42:33,Amazon,5.0,Data Scientist,253.0,5.0,0.0,42.0,37.0,San Francisco,CA,US
+2020-08-02 14:35:38,Apple,3.0,Data Scientist,200.0,0.0,0.0,35.0,35.0,Cupertino,CA,US
+2020-08-02 16:26:49,ON Semiconductor,10.0,Data Scientist,77.0,3.0,3.0,0.0,0.0,Phoenix,AZ,US
+2020-08-02 16:48:38,eBay,27.0,Data Scientist,346.0,12.0,2.0,100.0,38.0,San Jose,CA,US
+2020-08-03 10:54:17,Google,3.0,Data Scientist,130.0,2.0,1.0,0.0,9.0,Sunnyvale,CA,US
+2020-08-03 15:09:58,Boeing,1.0,Data Scientist,85.0,1.0,1.0,0.0,0.0,Seattle,WA,US
+2020-08-03 16:54:01,Amazon,5.0,Data Scientist,325.0,5.0,0.0,100.0,25.0,San Francisco,CA,US
+2020-08-03 17:16:47,Nike,5.0,Data Scientist,200.0,25.0,4.0,10.0,25.0,Beaverton,OR,US
+2020-08-03 22:52:59,Playstation,5.0,Data Scientist,215.0,8.0,3.0,0.0,50.0,San Mateo,CA,US
+2020-08-04 07:39:02,Lowe's,10.0,Data Scientist,250.0,10.0,5.0,50.0,50.0,Charlotte,NC,US
+2020-08-04 16:41:51,Facebook,4.0,Data Scientist,212.0,3.0,0.0,41.0,16.0,Menlo Park,CA,US
+2020-08-04 20:38:22,Walmart,6.0,Data Scientist,300.0,10.0,4.0,80.0,40.0,San Bruno,CA,US
+2020-08-05 11:26:26,Workday,3.0,Data Scientist,194.0,3.0,3.0,57.0,10.0,Pleasanton,CA,US
+2020-08-05 14:02:55,Aetna,4.0,Data Scientist,176.0,4.0,3.0,0.0,16.0,San Francisco,CA,US
+2020-08-05 17:17:03,Apple,3.0,Data Scientist,215.0,2.0,1.0,27.0,17.0,Cupertino,CA,US
+2020-08-05 22:27:17,Walmart Labs,3.0,Data Scientist,125.0,3.0,1.0,10.0,20.0,Bentonville,AR,US
+2020-08-06 16:47:51,Amazon,5.0,Data Scientist,340.0,13.0,0.0,50.0,110.0,Palo Alto,CA,US
+2020-08-07 23:40:23,Apple,5.0,Data Scientist,292.0,15.0,2.0,67.0,30.0,Cupertino,CA,US
+2020-08-09 09:46:21,Netflix,5.0,Data Scientist,400.0,3.0,3.0,0.0,0.0,Los Gatos,CA,US
+2020-08-10 00:45:03,Microsoft ,60.0,Data Scientist,162.0,3.0,0.0,25.0,20.0,Redmond,WA,US
+2020-08-10 11:04:55,Adobe,2.0,Data Scientist,260.0,1.0,1.0,100.0,15.0,San Jose,CA,US
+2020-08-10 11:14:24,Microsoft,59.0,Data Scientist,150.0,1.0,1.0,30.0,10.0,Seattle,WA,US
+2020-08-10 18:22:08,Bird,2.0,Data Scientist,180.0,4.0,1.0,0.0,0.0,Santa Monica,CA,US
+2020-08-11 11:51:25,Ford,7.0,Data Scientist,115.0,1.0,1.0,0.0,10.0,Detroit,MI,US
+2020-08-13 19:47:28,Capital One,5.0,Data Scientist,155.0,3.0,1.0,0.0,15.0,Plano,TX,US
+2020-08-14 18:28:43,Deloitte,4.0,Data Scientist,93.0,4.0,4.0,0.0,9.0,Washington,DC,US
+2020-08-15 19:27:36,IBM,8.0,Data Scientist,154.0,6.0,2.0,0.0,0.0,Sunnyvale,CA,US
+2020-08-16 01:32:04,Google,4.0,Data Scientist,277.0,9.0,2.0,75.0,30.0,Mountain View,CA,US
+2020-08-16 11:54:54,Startup,6.0,Data Scientist,250.0,12.0,4.0,0.0,0.0,San Diego,CA,US
+2020-08-16 15:05:24,State Farm,2.0,Data Scientist,106.0,1.0,1.0,0.0,10.0,Atlanta,GA,US
+2020-08-16 19:36:10,PayPal,24.0,Data Scientist,182.0,3.0,1.0,22.0,20.0,San Jose,CA,US
+2020-08-17 07:11:53,Airbnb,3.0,Data Scientist,210.0,2.0,0.0,45.0,20.0,San Francisco,CA,US
+2020-08-17 11:11:02,Morgan Stanley,8.0,Data Scientist,350.0,4.0,4.0,0.0,150.0,New York,NY,US
+2020-08-17 15:33:45,PayPal,26.0,Data Scientist,280.0,5.0,3.0,75.0,20.0,San Jose,CA,US
+2020-08-17 20:30:53,Salesforce,6.0,Data Scientist,245.0,1.0,1.0,30.0,25.0,San Francisco,CA,US
+2020-08-18 11:53:15,Apple,4.0,Data Scientist,407.0,4.0,3.0,200.0,25.0,Cupertino,CA,US
+2020-08-18 12:46:47,Micron,4.0,Data Scientist,110.0,3.0,2.0,0.0,0.0,Boise,ID,US
+2020-08-18 15:51:41,Amazon,6.0,Data Scientist,212.0,12.0,4.0,0.0,82.0,Seattle,WA,US
+2020-08-18 16:37:02,Wish,5.0,Data Scientist,212.0,5.0,3.0,10.0,0.0,San Francisco,CA,US
+2020-08-18 19:46:06,Microsoft,61.0,Data Scientist,171.0,3.0,3.0,9.0,19.0,Redmond,WA,US
+2020-08-18 22:52:19,Apple,4.0,Data Scientist,330.0,8.0,0.0,100.0,50.0,Cupertino,CA,US
+2020-08-19 07:56:11,IBM,7.0,Data Scientist,60.0,2.0,2.0,0.0,0.0,Columbia,MO,US
+2020-08-19 09:50:34,Amazon,5.0,Data Scientist,280.0,7.0,7.0,130.0,0.0,Seattle,WA,US
+2020-08-19 19:08:42,IBM,7.0,Data Scientist,110.0,4.0,4.0,0.0,1.0,Denver,CO,US
+2020-08-20 09:56:33,Spotify,5.0,Data Scientist,245.0,5.0,0.0,60.0,10.0,New York,NY,US
+2020-08-20 10:35:44,Facebook,4.0,Data Scientist,228.0,3.0,3.0,56.0,16.0,Menlo Park,CA,US
+2020-08-20 23:25:30,Uber,5.0,Data Scientist,386.0,9.0,6.0,150.0,66.0,San Francisco,CA,US
+2020-08-20 23:57:06,Microsoft,63.0,Data Scientist,212.0,7.0,4.0,20.0,28.0,Seattle,WA,US
+2020-08-21 06:11:26,Zalando,7.0,Data Scientist,86.0,4.0,1.0,3.0,0.0,Berlin Center,OH,US
+2020-08-21 08:13:50,Facebook,3.0,Data Scientist,167.0,1.0,1.0,30.0,20.0,Menlo Park,CA,US
+2020-08-21 16:53:25,LinkedIn,2.0,Data Scientist,199.0,3.0,3.0,45.0,14.0,Sunnyvale,CA,US
+2020-08-22 11:19:26,Synchrony ,14.0,Data Scientist,240.0,15.0,2.0,10.0,30.0,Stamford,CT,US
+2020-08-22 13:47:23,McKinsey,4.0,Data Scientist,150.0,2.0,0.0,40.0,10.0,Waltham,MA,US
+2020-08-22 14:38:47,Tesla,3.0,Data Scientist,205.0,3.0,0.0,50.0,15.0,Palo Alto,CA,US
+2020-08-22 17:18:14,IBM,2.0,Data Scientist,105.0,4.0,2.0,0.0,0.0,Columbus,OH,US
+2020-08-22 20:46:32,Tinder,5.0,Data Scientist,175.0,2.0,2.0,60.0,0.0,Los Angeles,CA,US
+2020-08-23 14:56:36,Amazon,6.0,Data Scientist,400.0,6.0,6.0,240.0,0.0,Seattle,WA,US
+2020-08-23 20:49:33,Credit Suisse,4.0,Data Scientist,100.0,0.0,0.0,0.0,10.0,New York,NY,US
+2020-08-24 05:34:59,Chevron,21.0,Data Scientist,150.0,5.0,1.0,0.0,30.0,San Francisco,CA,US
+2020-08-24 09:32:06,Google,4.0,Data Scientist,210.0,8.0,3.0,20.0,20.0,Seattle,WA,US
+2020-08-24 11:40:10,WeWork,5.0,Data Scientist,220.0,8.0,1.0,0.0,29.0,New York,NY,US
+2020-08-25 09:38:37,SquareSpace,3.0,Data Scientist,178.0,6.0,2.0,10.0,0.0,New York,NY,US
+2020-08-25 12:09:49,Intel,4.0,Data Scientist,78.0,2.0,0.0,0.0,0.0,Arizona City,AZ,US
+2020-08-25 19:41:21,Slalom,5.0,Data Scientist,165.0,9.0,2.0,0.0,15.0,Dallas,TX,US
+2020-08-26 08:57:09,Nvidia,4.0,Data Scientist,354.0,7.0,0.0,90.0,15.0,Santa Clara,CA,US
+2020-08-26 16:22:57,Amazon,5.0,Data Scientist,153.0,5.0,0.0,24.0,14.0,Seattle,WA,US
+2020-08-26 22:42:16,Google,4.0,Data Scientist,195.0,1.0,1.0,30.0,22.0,San Francisco,CA,US
+2020-08-27 11:08:18,Microsoft,64.0,Data Scientist,257.0,15.0,9.0,33.0,37.0,Seattle,WA,US
+2020-08-27 14:38:21,Microsoft,64.0,Data Scientist,320.0,10.0,4.0,25.0,100.0,Seattle,WA,US
+2020-08-27 22:07:30,Lyft,3.0,Data Scientist,200.0,0.0,0.0,65.0,0.0,San Francisco,CA,US
+2020-08-27 23:35:36,Microsoft,63.0,Data Scientist,207.0,11.0,11.0,20.0,27.0,Redmond,WA,US
+2020-08-28 08:14:52,Google,4.0,Data Scientist,208.0,7.0,5.0,50.0,21.0,Sunnyvale,CA,US
+2020-08-28 11:24:04,IBM,4.0,Data Scientist,140.0,5.0,2.0,0.0,3.0,San Jose,CA,US
+2020-08-28 15:08:47,Facebook,4.0,Data Scientist,217.0,5.0,1.0,55.0,15.0,Menlo Park,CA,US
+2020-08-29 13:19:55,Asana,3.0,Data Scientist,192.0,0.0,0.0,48.0,0.0,San Francisco,CA,US
+2020-08-29 22:07:38,Microsoft,63.0,Data Scientist,205.0,10.0,3.0,20.0,26.0,Redmond,WA,US
+2020-08-31 00:41:00,C3.ai,5.0,Data Scientist,175.0,2.0,2.0,5.0,15.0,Redwood City,CA,US
+2020-08-31 09:07:26,Accenture,5.0,Data Scientist,160.0,12.0,1.0,0.0,15.0,Washington,DC,US
+2020-08-31 10:21:37,Hulu,4.0,Data Scientist,222.0,10.0,2.0,0.0,50.0,Seattle,WA,US
+2020-08-31 13:30:36,The Home Depot,2.0,Data Scientist,160.0,4.0,1.0,10.0,10.0,Atlanta,GA,US
+2020-08-31 15:55:04,Adobe,4.0,Data Scientist,210.0,4.0,1.0,18.0,18.0,San Francisco,CA,US
+2020-09-01 06:02:37,Amazon,1.0,Data Scientist,126.0,1.0,1.0,16.0,10.0,Antioch,TN,US
+2020-09-01 06:31:38,Facebook,5.0,Data Scientist,310.0,6.0,2.0,100.0,27.0,Seattle,WA,US
+2020-09-01 07:52:19,Microsoft ,63.0,Data Scientist,209.0,10.0,3.0,25.0,24.0,Redmond,WA,US
+2020-09-01 14:31:54,IBM,10.0,Data Scientist,260.0,15.0,2.0,0.0,0.0,San Francisco,CA,US
+2020-09-01 17:27:27,wish,5.0,Data Scientist,300.0,8.0,2.0,100.0,0.0,San Francisco,CA,US
+2020-09-02 10:44:34,Amazon,5.0,Data Scientist,260.0,5.0,0.0,70.0,38.0,Seattle,WA,US
+2020-09-02 13:34:09,Airbnb,5.0,Data Scientist,300.0,6.0,2.0,80.0,30.0,San Francisco,CA,US
+2020-09-02 13:43:14,Cisco,12.0,Data Scientist,325.0,15.0,1.0,80.0,50.0,San Francisco,CA,US
+2020-09-02 19:50:25,Uber,5.0,Data Scientist,217.0,3.0,3.0,40.0,10.0,San Francisco,CA,US
+2020-09-02 20:45:19,Microsoft,62.0,Data Scientist,209.0,2.0,2.0,44.0,13.0,Redmond,WA,US
+2020-09-02 20:54:55,Microsoft,62.0,Data Scientist,209.0,5.0,5.0,39.0,14.0,Redmond,WA,US
+2020-09-03 00:15:37,Lyft,5.0,Data Scientist,387.0,4.0,2.0,200.0,0.0,Seattle,WA,US
+2020-09-03 09:48:47,PNC,4.0,Data Scientist,97.0,2.0,2.0,0.0,15.0,Cleveland,OH,US
+2020-09-03 10:50:33,Microsoft,64.0,Data Scientist,248.0,15.0,5.0,34.0,35.0,Redmond,WA,US
+2020-09-03 13:13:13,LinkedIn,6.0,Data Scientist,276.0,8.0,3.0,75.0,20.0,San Francisco,CA,US
+2020-09-03 22:30:18,Clover Health,5.0,Data Scientist,220.0,5.0,5.0,25.0,0.0,San Francisco,CA,US
+2020-09-04 08:46:30,Netflix,5.0,Data Scientist,410.0,10.0,3.0,0.0,0.0,Los Gatos,CA,US
+2020-09-04 10:08:16,Sophos,3.0,Data Scientist,165.0,7.0,4.0,0.0,15.0,Portland,OR,US
+2020-09-04 10:49:04,IBM,7.0,Data Scientist,156.0,3.0,3.0,0.0,0.0,San Jose,CA,US
+2020-09-04 11:32:10,Amazon,5.0,Data Scientist,300.0,7.0,7.0,156.0,0.0,Seattle,WA,US
+2020-09-04 13:20:21,Instacart,5.0,Data Scientist,305.0,6.0,2.0,138.0,0.0,San Francisco,CA,US
+2020-09-04 14:40:10,Amazon,4.0,Data Scientist,170.0,5.0,0.0,6.0,48.0,Seattle,WA,US
+2020-09-04 14:48:16,Microsoft,64.0,Data Scientist,234.0,8.0,5.0,29.0,30.0,Seattle,WA,US
+2020-09-04 18:36:06,Microsoft,61.0,Data Scientist,201.0,0.0,0.0,38.0,27.0,Bellevue,WA,US
+2020-09-05 21:11:44,Microsoft,61.0,Data Scientist,194.0,3.0,3.0,40.0,18.0,Bellevue,WA,US
+2020-09-06 12:01:10,Wayfair,4.0,Data Scientist,180.0,4.0,2.0,35.0,10.0,Boston,MA,US
+2020-09-07 06:49:21,Microsoft,66.0,Data Scientist,400.0,16.0,4.0,120.0,60.0,Redmond,WA,US
+2020-09-08 10:34:21,Garmin,5.0,Data Scientist,255.0,23.0,13.0,75.0,10.0,Kansas City,KS,US
+2020-09-08 11:39:38,Apple,4.0,Data Scientist,350.0,2.0,1.0,130.0,20.0,Sunnyvale,CA,US
+2020-09-08 13:33:48,Better.com,4.0,Data Scientist,200.0,2.0,0.0,50.0,0.0,New York,NY,US
+2020-09-09 10:29:17,Zillow,4.0,Data Scientist,260.0,7.0,3.0,90.0,0.0,Seattle,WA,US
+2020-09-09 10:46:42,DoorDash,4.0,Data Scientist,245.0,5.0,3.0,75.0,0.0,San Francisco,CA,US
+2020-09-09 13:41:52,LinkedIn,2.0,Data Scientist,190.0,8.0,3.0,30.0,10.0,San Francisco,CA,US
+2020-09-09 14:09:33,Allstate,1.0,Data Scientist,75.0,3.0,3.0,0.0,0.0,Chicago,IL,US
+2020-09-09 14:44:35,Metlife,7.0,Data Scientist,194.0,15.0,10.0,0.0,38.0,New York,NY,US
+2020-09-09 18:31:26,Charter Communications,2.0,Data Scientist,105.0,9.0,5.0,0.0,10.0,Charlotte,NC,US
+2020-09-10 18:03:53,IQVIA,5.0,Data Scientist,134.0,5.0,4.0,0.0,10.0,Bridgewater,NJ,US
+2020-09-10 18:13:08,Facebook,4.0,Data Scientist,220.0,1.0,0.0,50.0,16.0,Seattle,WA,US
+2020-09-10 22:41:46,IBM,7.0,Data Scientist,145.0,5.0,0.0,0.0,0.0,Armonk,NY,US
+2020-09-11 10:48:00,Facebook,4.0,Data Scientist,170.0,3.0,1.0,25.0,13.0,Austin,TX,US
+2020-09-12 04:02:18,Samsung,3.0,Data Scientist,280.0,6.0,1.0,0.0,0.0,San Jose,CA,US
+2020-09-12 15:38:13,Merck,1.0,Data Scientist,81.0,0.0,0.0,0.0,6.0,Philadelphia,PA,US
+2020-09-13 11:09:41,Indeed,2.0,Data Scientist,138.0,4.0,4.0,0.0,17.0,Austin,TX,US
+2020-09-14 16:20:07,Apple,3.0,Data Scientist,228.0,0.0,0.0,50.0,13.0,Sunnyvale,CA,US
+2020-09-14 17:53:07,Morgan Stanley,8.0,Data Scientist,205.0,9.0,2.0,0.0,25.0,New York,NY,US
+2020-09-15 11:46:43,Spotify,3.0,Data Scientist,188.0,6.0,1.0,38.0,0.0,New York,NY,US
+2020-09-15 13:03:00,Microsoft,65.0,Data Scientist,320.0,9.0,4.0,60.0,61.0,Redmond,WA,US
+2020-09-15 14:28:25,Lockheed Martin,2.0,Data Scientist,103.0,1.0,1.0,0.0,5.0,Shelton,CT,US
+2020-09-15 17:10:02,Intel,9.0,Data Scientist,200.0,9.0,9.0,40.0,10.0,Hillsboro,OR,US
+2020-09-15 21:24:25,Microsoft,63.0,Data Scientist,194.0,5.0,5.0,17.0,22.0,Bellevue,WA,US
+2020-09-15 23:32:41,Travelers,3.0,Data Scientist,110.0,5.0,0.0,0.0,8.0,Hartford,CT,US
+2020-09-16 12:46:18,Deloitte,4.0,Data Scientist,122.0,5.0,3.0,0.0,0.0,Chicago,IL,US
+2020-09-16 16:17:52,Microsoft,61.0,Data Scientist,227.0,3.0,0.0,35.0,54.0,Redmond,WA,US
+2020-09-17 13:03:54,Microsoft,62.0,Data Scientist,168.0,5.0,5.0,11.0,14.0,Redmond,WA,US
+2020-09-17 13:10:04,Microsoft,61.0,Data Scientist,229.0,0.0,0.0,50.0,39.0,Bellevue,WA,US
+2020-09-17 16:06:13,Amazon,6.0,Data Scientist,250.0,8.0,4.0,105.0,0.0,Seattle,WA,US
+2020-09-17 16:15:25,ebay,3.0,Data Scientist,195.0,2.0,0.0,40.0,30.0,Bellevue,WA,US
+2020-09-17 21:46:58,Ernst & Young,1.0,Data Scientist,100.0,2.0,1.0,0.0,5.0,San Jose,CA,US
+2020-09-18 17:25:59,Amazon,4.0,Data Scientist,154.0,0.0,0.0,4.0,30.0,Seattle,WA,US
+2020-09-18 19:15:51,Facebook,4.0,Data Scientist,236.0,5.0,0.0,60.0,16.0,San Francisco,CA,US
+2020-09-19 16:03:28,Ticketmaster,5.0,Data Scientist,152.0,3.0,1.0,0.0,0.0,Los Angeles,CA,US
+2020-09-19 20:39:42,Deloitte,5.0,Data Scientist,200.0,1.0,1.0,0.0,0.0,San Francisco,CA,US
+2020-09-20 18:25:39,Apple,3.0,Data Scientist,240.0,4.0,4.0,75.0,20.0,Cupertino,CA,US
+2020-09-21 18:12:23,Wells Fargo,6.0,Data Scientist,270.0,22.0,2.0,20.0,50.0,Portland,OR,US
+2020-09-21 21:51:58,PwC,4.0,Data Scientist,88.0,5.0,1.0,0.0,8.0,New York,NY,US
+2020-09-22 07:37:49,CVS Health,2.0,Data Scientist,92.0,2.0,1.0,0.0,10.0,Woonsocket,RI,US
+2020-09-22 10:52:25,LinkedIn,4.0,Data Scientist,270.0,1.0,1.0,50.0,20.0,San Francisco,CA,US
+2020-09-23 15:39:59,Wayfair,2.0,Data Scientist,150.0,1.0,1.0,13.0,12.0,Boston,MA,US
+2020-09-23 21:47:02,Amazon,4.0,Data Scientist,225.0,1.0,1.0,70.0,0.0,Seattle,WA,US
+2020-09-23 22:30:23,LinkedIn,3.0,Data Scientist,217.0,5.0,1.0,30.0,17.0,San Francisco,CA,US
+2020-09-24 00:14:57,Zillow,4.0,Data Scientist,309.0,5.0,5.0,139.0,0.0,Seattle,WA,US
+2020-09-24 16:59:58,Experian,5.0,Data Scientist,90.0,2.0,2.0,0.0,5.0,Indianapolis,IN,US
+2020-09-24 17:35:58,Amazon,7.0,Data Scientist,710.0,13.0,1.0,375.0,175.0,Seattle,WA,US
+2020-09-24 18:59:04,Epam,2.0,Data Scientist,96.0,3.0,3.0,0.0,0.0,San Jose,CA,US
+2020-09-25 12:56:59,SAP,2.0,Data Scientist,95.0,5.0,3.0,0.0,10.0,Newtown Square,PA,US
+2020-09-26 05:15:56,Lyft,5.0,Data Scientist,463.0,5.0,2.0,258.0,0.0,San Francisco,CA,US
+2020-09-26 10:27:00,Amazon,5.0,Data Scientist,240.0,7.0,5.0,100.0,0.0,Seattle,WA,US
+2020-09-26 15:12:47,Intuit,3.0,Data Scientist,198.0,6.0,2.0,30.0,18.0,Mountain View,CA,US
+2020-09-26 21:42:57,Nvidia,3.0,Data Scientist,200.0,2.0,2.0,52.0,0.0,Santa Clara,CA,US
+2020-09-27 05:10:17,Humana,5.0,Data Scientist,146.0,2.0,0.0,0.0,11.0,Boston,MA,US
+2020-09-27 17:04:54,Twitter,6.0,Data Scientist,330.0,4.0,2.0,120.0,35.0,San Francisco,CA,US
+2020-09-27 17:43:41,Facebook ,3.0,Data Scientist,220.0,5.0,0.0,50.0,20.0,Menlo Park,CA,US
+2020-09-27 20:01:13,IBM,7.0,Data Scientist,144.0,2.0,1.0,2.0,3.0,Armonk,NY,US
+2020-09-28 02:48:02,IBM,1.0,Data Scientist,110.0,0.0,0.0,0.0,0.0,New York,NY,US
+2020-09-28 10:55:05,Lyft,3.0,Data Scientist,200.0,0.0,0.0,65.0,0.0,San Francisco,CA,US
+2020-09-28 13:25:57,Capital One,5.0,Data Scientist,136.0,3.0,2.0,0.0,5.0,Washington,DC,US
+2020-09-28 13:37:34,Point72,4.0,Data Scientist,170.0,1.0,1.0,0.0,10.0,New York,NY,US
+2020-09-28 19:22:03,Booz Allen Hamilton,5.0,Data Scientist,90.0,3.0,3.0,0.0,0.0,Fairfax,VA,US
+2020-09-28 19:22:07,SoFi,2.0,Data Scientist,164.0,1.0,1.0,10.0,14.0,San Francisco,CA,US
+2020-09-29 14:12:22,Google,5.0,Data Scientist,274.0,20.0,5.0,91.0,26.0,Irvine,CA,US
+2020-09-30 12:47:15,Microsoft,60.0,Data Scientist,156.0,2.0,2.0,6.0,17.0,Seattle,WA,US
+2020-09-30 18:58:58,Pinterest,5.0,Data Scientist,385.0,8.0,1.0,200.0,0.0,San Francisco,CA,US
+2020-10-01 08:39:22,H-E-B,1.0,Data Scientist,115.0,3.0,1.0,0.0,25.0,San Antonio,TX,US
+2020-10-01 10:21:48,DoorDash,4.0,Data Scientist,216.0,3.0,0.0,56.0,0.0,San Francisco,CA,US
+2020-10-01 11:20:36,Facebook,4.0,Data Scientist,290.0,4.0,1.0,100.0,40.0,Menlo Park,CA,US
+2020-10-01 20:00:12,Robinhood,2.0,Data Scientist,243.0,2.0,0.0,44.0,40.0,Menlo Park,CA,US
+2020-10-01 21:50:56,Apple,5.0,Data Scientist,232.0,12.0,3.0,43.0,14.0,Cupertino,CA,US
+2020-10-02 15:18:49,Square,6.0,Data Scientist,323.0,5.0,0.0,128.0,0.0,San Francisco,CA,US
+2020-10-03 09:18:47,Mapbox,1.0,Data Scientist,150.0,6.0,6.0,0.0,0.0,San Francisco,CA,US
+2020-10-03 16:02:26,eBay,5.0,Data Scientist,237.0,4.0,0.0,42.0,25.0,New York,NY,US
+2020-10-03 21:42:54,Adobe,4.0,Data Scientist,520.0,5.0,5.0,323.0,15.0,San Jose,CA,US
+2020-10-03 23:05:35,Apple,4.0,Data Scientist,324.0,3.0,3.0,134.0,20.0,Cupertino,CA,US
+2020-10-04 14:29:40,Amazon,4.0,Data Scientist,155.0,1.0,1.0,30.0,5.0,Seattle,WA,US
+2020-10-06 06:29:29,Pinterest,4.0,Data Scientist,270.0,0.0,0.0,100.0,0.0,San Francisco,CA,US
+2020-10-06 07:13:54,Amazon,4.0,Data Scientist,127.0,3.0,0.0,0.0,23.0,Seattle,WA,US
+2020-10-06 19:07:29,Brex,4.0,Data Scientist,330.0,7.0,1.0,55.0,0.0,San Francisco,CA,US
+2020-10-06 23:53:19,Microsoft,61.0,Data Scientist,159.0,2.0,2.0,6.0,20.0,Redmond,WA,US
+2020-10-07 15:06:59,Apple Inc.,4.0,Data Scientist,300.0,5.0,5.0,110.0,20.0,Cupertino,CA,US
+2020-10-07 15:15:18,Reddit,4.0,Data Scientist,170.0,5.0,3.0,0.0,0.0,San Francisco,CA,US
+2020-10-07 18:11:55,Red Hat,1.0,Data Scientist,112.0,4.0,2.0,0.0,12.0,Raleigh,NC,US
+2020-10-08 10:40:47,Zillow,3.0,Data Scientist,185.0,4.0,2.0,45.0,0.0,Seattle,WA,US
+2020-10-08 10:54:49,Amazon,5.0,Data Scientist,150.0,4.0,1.0,30.0,0.0,Seattle,WA,US
+2020-10-08 14:59:26,Amazon,7.0,Data Scientist,600.0,20.0,0.0,435.0,0.0,Seattle,WA,US
+2020-10-08 15:10:15,Walmart,7.0,Data Scientist,265.0,12.0,9.0,65.0,50.0,Bentonville,AR,US
+2020-10-08 17:19:18,Wells Fargo,3.0,Data Scientist,170.0,3.0,1.0,0.0,20.0,Sacramento,CA,US
+2020-10-08 21:56:52,Visa,6.0,Data Scientist,270.0,10.0,3.0,50.0,30.0,Foster City,CA,US
+2020-10-09 10:38:54,Excella,7.0,Data Scientist,157.0,10.0,3.0,0.0,4.0,Washington,DC,US
+2020-10-09 12:00:22,ServiceNow,4.0,Data Scientist,326.0,7.0,0.0,80.0,41.0,Kirkland,WA,US
+2020-10-09 14:13:22,Facebook,3.0,Data Scientist,190.0,2.0,2.0,50.0,10.0,Menlo Park,CA,US
+2020-10-10 10:50:56,Facebook,3.0,Data Scientist,180.0,2.0,2.0,40.0,10.0,Menlo Park,CA,US
+2020-10-10 21:19:38,LinkedIn ,3.0,Data Scientist,250.0,8.0,6.0,85.0,15.0,Sunnyvale,CA,US
+2020-10-11 19:15:21,Lockheed Martin,3.0,Data Scientist,129.0,5.0,2.0,0.0,4.0,Dallas,TX,US
+2020-10-12 11:43:53,AT&T,2.0,Data Scientist,166.0,10.0,6.0,0.0,19.0,Atlanta,GA,US
+2020-10-12 11:57:58,Google,4.0,Data Scientist,220.0,6.0,3.0,55.0,25.0,San Francisco,CA,US
+2020-10-12 15:04:46,Amazon,4.0,Data Scientist,206.0,0.0,0.0,33.0,21.0,Seattle,WA,US
+2020-10-14 06:26:34,Facebook,4.0,Data Scientist,220.0,3.0,2.0,45.0,16.0,Menlo Park,CA,US
+2020-10-14 11:18:48,Genentech,4.0,Data Scientist,189.0,5.0,0.0,18.0,21.0,San Francisco,CA,US
+2020-10-14 17:27:17,Liberty Mutual,16.0,Data Scientist,150.0,4.0,4.0,0.0,13.0,Boston,MA,US
+2020-10-14 18:29:09,Nike,5.0,Data Scientist,250.0,5.0,3.0,45.0,34.0,Portland,OR,US
+2020-10-14 19:50:55,Apple,3.0,Data Scientist,232.0,10.0,2.0,15.0,58.0,San Francisco,CA,US
+2020-10-14 21:52:37,Uber,4.0,Data Scientist,210.0,1.0,1.0,50.0,20.0,San Francisco,CA,US
+2020-10-14 22:02:00,Airbnb,5.0,Data Scientist,229.0,2.0,2.0,40.0,8.0,San Francisco,CA,US
+2020-10-15 21:55:33,Zillow,4.0,Data Scientist,272.0,5.0,2.0,120.0,0.0,Seattle,WA,US
+2020-10-15 22:21:02,Apple,4.0,Data Scientist,358.0,5.0,2.0,150.0,25.0,Cupertino,CA,US
+2020-10-17 05:41:31,Google,3.0,Data Scientist,180.0,5.0,2.0,40.0,40.0,San Francisco,CA,US
+2020-10-17 18:59:08,Google,5.0,Data Scientist,220.0,5.0,1.0,55.0,15.0,San Francisco,CA,US
+2020-10-18 16:11:44,Facebook,6.0,Data Scientist,338.0,10.0,0.0,80.0,42.0,San Francisco,CA,US
+2020-10-18 17:49:09,eBay,3.0,Data Scientist,181.0,1.0,1.0,20.0,15.0,San Jose,CA,US
+2020-10-18 19:03:49,BlackRock,4.0,Data Scientist,120.0,2.0,2.0,0.0,10.0,New York,NY,US
+2020-10-19 08:41:30,Anonymous,2.0,Data Scientist,90.0,1.0,1.0,0.0,0.0,Washington,DC,US
+2020-10-19 15:33:12,McKinsey,3.0,Data Scientist,200.0,6.0,2.0,25.0,25.0,New York,NY,US
+2020-10-19 22:05:13,Microsoft,61.0,Data Scientist,182.0,2.0,0.0,35.0,13.0,Bellevue,WA,US
+2020-10-20 02:27:00,Amazon,5.0,Data Scientist,210.0,6.0,0.0,30.0,25.0,Seattle,WA,US
+2020-10-20 06:23:04,Citi,13.0,Data Scientist,140.0,3.0,3.0,0.0,15.0,New York,NY,US
+2020-10-20 08:22:07,Microsoft,62.0,Data Scientist,230.0,4.0,0.0,38.0,42.0,Redmond,WA,US
+2020-10-21 12:14:25,airbnb,4.0,Data Scientist,243.0,3.0,1.0,50.0,0.0,San Francisco,CA,US
+2020-10-22 07:18:24,McKesson,0.0,Data Scientist,85.0,14.0,1.0,0.0,0.0,Louisville,KY,US
+2020-10-22 12:43:48,Starbucks,28.0,Data Scientist,186.0,5.0,2.0,16.0,16.0,Seattle,WA,US
+2020-10-23 16:06:43,State Farm,1.0,Data Scientist,87.0,0.0,0.0,0.0,2.0,Bloomington,IL,US
+2020-10-23 18:04:51,ExxonMobil,24.0,Data Scientist,106.0,0.0,0.0,0.0,0.0,Spring,TX,US
+2020-10-23 22:28:53,Qualtrics,2.0,Data Scientist,70.0,1.0,1.0,0.0,3.0,Provo,UT,US
+2020-10-23 23:54:54,Tesla,1.0,Data Scientist,175.0,0.0,0.0,35.0,0.0,Fremont,CA,US
+2020-10-24 23:46:59,Apple,5.0,Data Scientist,381.0,13.0,6.0,160.0,28.0,Cupertino,CA,US
+2020-10-25 10:58:33,Airbnb,4.0,Data Scientist,223.0,7.0,1.0,40.0,25.0,San Francisco,CA,US
+2020-10-25 16:13:00,IBM,6.0,Data Scientist,95.0,0.0,0.0,0.0,0.0,Austin,TX,US
+2020-10-25 22:06:45,DoorDash,1.0,Data Scientist,162.0,1.0,1.0,35.0,0.0,San Francisco,CA,US
+2020-10-26 15:24:43,Wayfair,2.0,Data Scientist,168.0,2.0,1.0,34.0,12.0,Boston,MA,US
+2020-10-26 22:52:19,Tesla,2.0,Data Scientist,210.0,2.0,2.0,45.0,5.0,Fremont,CA,US
+2020-10-26 23:06:42,Facebook,4.0,Data Scientist,221.0,3.0,0.0,45.0,16.0,San Francisco,CA,US
+2020-10-27 08:32:02,Amazon,5.0,Data Scientist,220.0,2.0,2.0,75.0,0.0,Los Angeles,CA,US
+2020-10-27 08:36:59,Avanade,8.0,Data Scientist,102.0,5.0,3.0,0.0,2.0,Chicago,IL,US
+2020-10-27 14:32:54,Facebook,5.0,Data Scientist,250.0,8.0,3.0,50.0,25.0,Seattle,WA,US
+2020-10-27 15:33:48,Intuit,6.0,Data Scientist,267.0,9.0,3.0,81.0,30.0,Mountain View,CA,US
+2020-10-27 15:55:52,Twitter,6.0,Data Scientist,330.0,4.0,2.0,120.0,35.0,San Francisco,CA,US
+2020-10-28 08:17:45,Turo,2.0,Data Scientist,150.0,2.0,2.0,0.0,0.0,San Francisco,CA,US
+2020-10-28 11:45:30,Microsoft,61.0,Data Scientist,159.0,4.0,1.0,14.0,15.0,Redmond,WA,US
+2020-10-28 22:53:54,Apple,4.0,Data Scientist,350.0,9.0,5.0,120.0,26.0,Cupertino,CA,US
+2020-10-29 14:29:56,Alibaba,6.0,Data Scientist,135.0,3.0,1.0,0.0,45.0,New York,NY,US
+2020-10-29 14:34:13,Salesforce,7.0,Data Scientist,800.0,12.0,3.0,500.0,50.0,San Francisco,CA,US
+2020-10-29 15:07:57,Facebook,3.0,Data Scientist,190.0,2.0,2.0,50.0,10.0,Menlo Park,CA,US
+2020-10-30 11:14:05,Juniper Networks,4.0,Data Scientist,235.0,5.0,0.0,10.0,50.0,Cupertino,CA,US
+2020-10-30 21:53:41,Stitch Fix,5.0,Data Scientist,525.0,3.0,0.0,265.0,0.0,San Francisco,CA,US
+2020-11-01 09:58:59,State Farm,1.0,Data Scientist,81.0,1.0,0.0,0.0,2.0,Bloomington,IL,US
+2020-11-01 15:25:05,Facebook,3.0,Data Scientist,186.0,2.0,2.0,46.0,10.0,Menlo Park,CA,US
+2020-11-02 10:25:33,Nike,1.0,Data Scientist,150.0,3.0,0.0,0.0,20.0,Beaverton,OR,US
+2020-11-02 12:41:15,BuzzFeed,5.0,Data Scientist,150.0,5.0,4.0,0.0,0.0,New York,NY,US
+2020-11-02 16:28:25,Facebook,3.0,Data Scientist,164.0,2.0,0.0,28.0,12.0,Menlo Park,CA,US
+2020-11-02 21:09:47,Amazon,6.0,Data Scientist,240.0,6.0,4.0,95.0,0.0,Seattle,WA,US
+2020-11-02 21:25:59,ExxonMobil,25.0,Data Scientist,167.0,3.0,1.0,0.0,25.0,Houston,TX,US
+2020-11-03 07:42:28,IBM,1.0,Data Scientist,135.0,0.0,0.0,0.0,1.0,New York,NY,US
+2020-11-03 10:26:30,Microsoft,60.0,Data Scientist,185.0,1.0,1.0,38.0,25.0,Redmond,WA,US
+2020-11-03 10:44:22,Amazon,5.0,Data Scientist,180.0,4.0,0.0,25.0,25.0,Seattle,WA,US
+2020-11-03 13:16:40,Mastercard,8.0,Data Scientist,103.0,2.0,2.0,0.0,10.0,Arlington,VA,US
+2020-11-05 01:04:21,Netflix,5.0,Data Scientist,400.0,10.0,2.0,20.0,60.0,Los Gatos,CA,US
+2020-11-05 08:42:16,Walmart Labs,3.0,Data Scientist,188.0,2.0,2.0,25.0,24.0,Sunnyvale,CA,US
+2020-11-05 16:36:58,Microsoft,65.0,Data Scientist,290.0,7.0,7.0,46.0,46.0,Redmond,WA,US
+2020-11-06 11:48:29,Facebook,4.0,Data Scientist,220.0,7.0,4.0,52.0,16.0,Seattle,WA,US
+2020-11-07 12:08:58,Zillow,2.0,Data Scientist,101.0,3.0,3.0,5.0,0.0,Seattle,WA,US
+2020-11-07 18:27:07,Amazon,5.0,Data Scientist,213.0,10.0,10.0,50.0,13.0,Seattle,WA,US
+2020-11-08 00:37:15,BuzzFeed,5.0,Data Scientist,161.0,4.0,2.0,5.0,11.0,New York,NY,US
+2020-11-10 11:40:49,Microsoft,66.0,Data Scientist,292.0,15.0,0.0,75.0,17.0,Redmond,WA,US
+2020-11-10 14:05:17,LinkedIn,4.0,Data Scientist,190.0,2.0,2.0,35.0,14.0,Sunnyvale,CA,US
+2020-11-10 14:42:51,Facebook,3.0,Data Scientist,180.0,2.0,2.0,40.0,10.0,Menlo Park,CA,US
+2020-11-10 23:36:33,Amazon,6.0,Data Scientist,270.0,5.0,4.0,125.0,0.0,Seattle,WA,US
+2020-11-11 08:30:54,Oscar Health,2.0,Data Scientist,135.0,4.0,3.0,0.0,10.0,New York,NY,US
+2020-11-12 11:28:09,Quest diagnostics,49.0,Data Scientist,110.0,8.0,3.0,0.0,5.0,Los Angeles,CA,US
+2020-11-12 14:50:56,PayPal,24.0,Data Scientist,181.0,6.0,1.0,27.0,14.0,San Jose,CA,US
+2020-11-12 20:57:02,JP Morgan Chase,4.0,Data Scientist,132.0,0.0,0.0,0.0,17.0,New York,NY,US
+2020-11-13 14:09:57,Facebook,4.0,Data Scientist,235.0,4.0,4.0,50.0,25.0,Menlo Park,CA,US
+2020-11-13 15:26:42,Facebook,4.0,Data Scientist,198.0,4.0,1.0,40.0,14.0,Seattle,WA,US
+2020-11-13 16:01:53,Apple,3.0,Data Scientist,198.0,2.0,1.0,41.0,10.0,San Francisco,CA,US
+2020-11-13 18:18:08,Barclays,7.0,Data Scientist,250.0,15.0,10.0,0.0,30.0,New York,NY,US
+2020-11-14 09:08:49,Facebook,4.0,Data Scientist,225.0,7.0,3.0,55.0,20.0,San Francisco,CA,US
+2020-11-14 10:38:37,Apple,3.0,Data Scientist,185.0,5.0,0.0,25.0,10.0,Cupertino,CA,US
+2020-11-14 22:30:17,Apple,4.0,Data Scientist,320.0,4.0,2.0,100.0,25.0,Cupertino,CA,US
+2020-11-15 14:47:09,Microsoft,64.0,Data Scientist,350.0,4.0,2.0,112.0,34.0,Oakland,CA,US
+2020-11-15 16:17:36,Iterable,7.0,Data Scientist,165.0,1.0,1.0,0.0,0.0,San Francisco,CA,US
+2020-11-16 09:20:43,Amazon,5.0,Data Scientist,240.0,4.0,4.0,100.0,0.0,Seattle,WA,US
+2020-11-17 16:56:52,Citi,8.0,Data Scientist,170.0,8.0,8.0,0.0,36.0,New York,NY,US
+2020-11-17 21:29:39,Amazon,5.0,Data Scientist,215.0,10.0,10.0,45.0,20.0,Seattle,WA,US
+2020-11-17 22:09:19,Google,4.0,Data Scientist,203.0,5.0,5.0,4.0,10.0,Kirkland,WA,US
+2020-11-17 22:20:15,Apple,3.0,Data Scientist,250.0,3.0,0.0,62.0,14.0,Cupertino,CA,US
+2020-11-18 10:42:22,Facebook,5.0,Data Scientist,308.0,8.0,3.0,99.0,27.0,San Francisco,CA,US
+2020-11-18 11:34:24,Grubhub,6.0,Data Scientist,207.0,8.0,2.0,50.0,0.0,Raleigh,NC,US
+2020-11-18 14:04:58,Adobe,3.0,Data Scientist,222.0,2.0,0.0,47.0,23.0,San Jose,CA,US
+2020-11-18 14:57:15,Accenture,4.0,Data Scientist,150.0,5.0,1.0,0.0,15.0,Chicago,IL,US
+2020-11-18 14:59:24,Moveworks,4.0,Data Scientist,130.0,2.0,1.0,0.0,0.0,Mountain View,CA,US
+2020-11-18 21:35:45,Lyft,4.0,Data Scientist,345.0,5.0,0.0,130.0,45.0,New York,NY,US
+2020-11-19 12:55:11,BCG,4.0,Data Scientist,200.0,6.0,1.0,0.0,35.0,Boston,MA,US
+2020-11-20 12:27:08,Snap,5.0,Data Scientist,728.0,7.0,4.0,500.0,18.0,Santa Monica,CA,US
+2020-11-20 15:50:17,cvs health,4.0,Data Scientist,143.0,7.0,4.0,0.0,16.0,Chicago,IL,US
+2020-11-20 21:30:25,Facebook,4.0,Data Scientist,236.0,4.0,1.0,60.0,16.0,Menlo Park,CA,US
+2020-11-23 04:52:37,DataRobot,6.0,Data Scientist,270.0,8.0,2.0,20.0,50.0,New York,NY,US
+2020-11-23 07:28:20,SAP,5.0,Data Scientist,380.0,30.0,5.0,40.0,90.0,Chicago,IL,US
+2020-11-23 13:08:53,Other,3.0,Data Scientist,175.0,4.0,0.0,0.0,15.0,Seattle,WA,US
+2020-11-23 13:44:15,Netflix,5.0,Data Scientist,700.0,8.0,4.0,0.0,0.0,Los Angeles,CA,US
+2020-11-23 14:39:22,Humana,1.0,Data Scientist,135.0,5.0,1.0,0.0,10.0,Boston,MA,US
+2020-11-24 11:33:53,Booz Allen Hamilton,4.0,Data Scientist,95.0,3.0,1.0,0.0,0.0,Philadelphia,PA,US
+2020-11-25 05:49:46,Pinterest,4.0,Data Scientist,125.0,4.0,1.0,27.0,13.0,New York,NY,US
+2020-11-25 10:57:53,Walmart Labs,7.0,Data Scientist,325.0,12.0,5.0,125.0,46.0,Bentonville,AR,US
+2020-11-25 21:35:32,Amazon,5.0,Data Scientist,115.0,3.0,1.0,0.0,0.0,Seattle,WA,US
+2020-11-28 17:52:57,c3.ai,4.0,Data Scientist,161.0,1.0,0.0,0.0,21.0,Redwood City,CA,US
+2020-11-28 17:56:50,ByteDance,21.0,Data Scientist,194.0,1.0,0.0,18.0,35.0,Mountain View,CA,US
+2020-11-29 06:45:19,Booz Allen Hamilton,4.0,Data Scientist,102.0,0.0,0.0,0.0,0.0,Washington,DC,US
+2020-11-29 10:32:25,Facebook,6.0,Data Scientist,565.0,10.0,0.0,275.0,48.0,Seattle,WA,US
+2020-11-29 16:33:05,Google,4.0,Data Scientist,250.0,2.0,2.0,75.0,25.0,Mountain View,CA,US
+2020-11-29 17:18:44,Uber,3.0,Data Scientist,128.0,0.0,0.0,14.0,11.0,San Francisco,CA,US
+2020-11-30 00:42:08,american family insurance,5.0,Data Scientist,152.0,5.0,5.0,0.0,14.0,Chicago,IL,US
+2020-11-30 12:30:47,Waymo,4.0,Data Scientist,250.0,0.0,0.0,50.0,30.0,Mountain View,CA,US
+2020-11-30 16:40:09,Instacart,5.0,Data Scientist,385.0,6.0,0.0,200.0,0.0,San Francisco,CA,US
+2020-12-01 15:51:31,Amazon,4.0,Data Scientist,215.0,0.0,0.0,38.0,27.0,Seattle,WA,US
+2020-12-01 18:58:34,Facebook,4.0,Data Scientist,210.0,1.0,1.0,40.0,15.0,Menlo Park,CA,US
+2020-12-01 19:54:36,Deloitte Advisory,5.0,Data Scientist,106.0,6.0,6.0,0.0,4.0,San Francisco,CA,US
+2020-12-02 09:51:47,Facebook,3.0,Data Scientist,165.0,0.0,0.0,50.0,15.0,San Francisco,CA,US
+2020-12-02 16:25:22,Facebook,4.0,Data Scientist,228.0,4.0,2.0,52.0,16.0,Menlo Park,CA,US
+2020-12-03 10:15:21,Booz Allen Hamilton,1.0,Data Scientist,81.0,0.0,0.0,0.0,3.0,Arlington,VA,US
+2020-12-03 14:25:10,Facebook,3.0,Data Scientist,145.0,0.0,0.0,20.0,10.0,Menlo Park,CA,US
+2020-12-03 16:27:01,Amazon,6.0,Data Scientist,250.0,10.0,4.0,120.0,0.0,Seattle,WA,US
+2020-12-04 11:04:51,Stitch Fix,3.0,Data Scientist,250.0,4.0,2.0,60.0,0.0,San Francisco,CA,US
+2020-12-04 15:43:32,Netflix,5.0,Data Scientist,450.0,3.0,0.0,0.0,0.0,Los Angeles,CA,US
+2020-12-04 19:14:07,PayPal,22.0,Data Scientist,116.0,2.0,1.0,6.0,10.0,Los Angeles,CA,US
+2020-12-04 22:22:30,The Hartford,4.0,Data Scientist,110.0,2.0,2.0,0.0,8.0,Hartford,CT,US
+2020-12-06 09:40:23,Deloitte,5.0,Data Scientist,141.0,4.0,0.0,0.0,13.0,Washington,DC,US
+2020-12-06 11:09:59,LinkedIn,6.0,Data Scientist,257.0,3.0,1.0,69.0,29.0,Sunnyvale,CA,US
+2020-12-07 11:46:18,KPMG,4.0,Data Scientist,63.0,2.0,1.0,0.0,1.0,Washington,DC,US
+2020-12-07 18:53:12,Deloitte,5.0,Data Scientist,96.0,6.0,6.0,0.0,5.0,Arlington,VA,US
+2020-12-07 22:00:39,amazon,5.0,Data Scientist,150.0,5.0,1.0,25.0,0.0,Seattle,WA,US
+2020-12-08 07:55:55,Capital One,4.0,Data Scientist,125.0,4.0,3.0,0.0,6.0,McLean,TX,US
+2020-12-08 10:55:43,Amazon,5.0,Data Scientist,217.0,4.0,3.0,87.0,0.0,Los Angeles,CA,US
+2020-12-08 14:49:00,Amazon,5.0,Data Scientist,180.0,7.0,4.0,57.0,0.0,Seattle,WA,US
+2020-12-09 13:25:18,Verily Life Sciences,5.0,Data Scientist,220.0,8.0,4.0,50.0,20.0,Sunnyvale,CA,US
+2020-12-09 18:54:38,Apple,3.0,Data Scientist,150.0,5.0,0.0,25.0,0.0,Austin,TX,US
+2020-12-10 10:25:02,Genentech,3.0,Data Scientist,183.0,2.0,2.0,15.0,18.0,South San Francisco,CA,US
+2020-12-10 13:11:34,Microsoft,62.0,Data Scientist,182.0,7.0,7.0,18.0,22.0,Redmond,WA,US
+2020-12-10 20:06:19,Robinhood,2.0,Data Scientist,251.0,0.0,0.0,75.0,0.0,Menlo Park,CA,US
+2020-12-11 10:45:55,Snap,4.0,Data Scientist,408.0,6.0,0.0,178.0,60.0,New York,NY,US
+2020-12-11 14:23:46,Google,4.0,Data Scientist,250.0,3.0,2.0,65.0,33.0,New York,NY,US
+2020-12-12 12:50:57,Snap,4.0,Data Scientist,300.0,10.0,2.0,90.0,19.0,Los Angeles,CA,US
+2020-12-12 16:15:14,Apple,4.0,Data Scientist,160.0,6.0,0.0,30.0,8.0,Austin,TX,US
+2020-12-12 17:35:49,KPMG,4.0,Data Scientist,115.0,2.0,1.0,0.0,0.0,Dallas,TX,US
+2020-12-14 09:07:13,Walmart Labs,3.0,Data Scientist,195.0,7.0,1.0,25.0,28.0,Sunnyvale,CA,US
+2020-12-14 10:13:09,Google,5.0,Data Scientist,291.0,2.0,2.0,82.0,34.0,Sunnyvale,CA,US
+2020-12-14 19:24:31,Netflix,5.0,Data Scientist,400.0,4.0,2.0,0.0,0.0,Los Gatos,CA,US
+2020-12-14 21:28:48,Airbnb,5.0,Data Scientist,445.0,5.0,2.0,200.0,40.0,San Francisco,CA,US
+2020-12-14 22:50:30,Lyft,5.0,Data Scientist,410.0,4.0,3.0,220.0,0.0,San Francisco,CA,US
+2020-12-15 12:10:16,Walmart Labs,4.0,Data Scientist,210.0,3.0,1.0,40.0,28.0,Sunnyvale,CA,US
+2020-12-15 12:30:16,BlackBerry,7.0,Data Scientist,260.0,13.0,1.0,10.0,10.0,Portland,OR,US
+2020-12-15 14:42:32,Apple,3.0,Data Scientist,268.0,5.0,2.0,85.0,9.0,Cupertino,CA,US
+2020-12-16 10:27:17,Twitter,5.0,Data Scientist,300.0,9.0,2.0,100.0,27.0,San Francisco,CA,US
+2020-12-16 15:23:30,Cisco,13.0,Data Scientist,270.0,15.0,3.0,50.0,50.0,San Francisco,CA,US
+2020-12-16 16:57:39,Airbnb,5.0,Data Scientist,690.0,12.0,1.0,438.0,42.0,Seattle,WA,US
+2020-12-16 21:48:42,Deloitte,4.0,Data Scientist,157.0,3.0,0.0,0.0,17.0,New York,NY,US
+2020-12-16 23:42:58,Stitch Fix,5.0,Data Scientist,425.0,8.0,2.0,160.0,0.0,San Francisco,CA,US
+2020-12-17 07:50:24,Microsoft,5.0,Data Scientist,280.0,5.0,5.0,72.0,21.0,New York,NY,US
+2020-12-17 09:17:51,Square,5.0,Data Scientist,200.0,4.0,0.0,50.0,0.0,San Francisco,CA,US
+2020-12-17 17:48:42,ServiceNow,2.0,Data Scientist,223.0,2.0,0.0,80.0,13.0,Santa Clara,CA,US
+2020-12-18 08:14:34,Convoy,6.0,Data Scientist,169.0,7.0,1.0,19.0,0.0,Seattle,WA,US
+2020-12-18 18:37:29,Credit Karma,5.0,Data Scientist,183.0,2.0,2.0,45.0,0.0,San Francisco,CA,US
+2020-12-19 00:10:52,Verizon,5.0,Data Scientist,180.0,13.0,7.0,30.0,20.0,Sunnyvale,CA,US
+2020-12-19 04:58:58,Lyft,5.0,Data Scientist,355.0,10.0,0.0,170.0,0.0,San Francisco,CA,US
+2020-12-19 10:03:21,DoorDash,4.0,Data Scientist,240.0,4.0,0.0,65.0,0.0,San Francisco,CA,US
+2020-12-19 20:06:18,Uber,5.0,Data Scientist,310.0,10.0,0.0,100.0,30.0,San Francisco,CA,US
+2020-12-19 22:21:06,INTEL corporation,9.0,Data Scientist,230.0,10.0,10.0,32.0,46.0,Portland,OR,US
+2020-12-21 13:00:12,Pandora,4.0,Data Scientist,310.0,11.0,6.0,80.0,30.0,Oakland,CA,US
+2020-12-22 02:45:20,Cockroach Labs,3.0,Data Scientist,205.0,1.0,1.0,45.0,30.0,New York,NY,US
+2020-12-22 09:58:43,BlackRock,4.0,Data Scientist,160.0,4.0,3.0,0.0,35.0,New York,NY,US
+2020-12-22 15:22:22,Apple,3.0,Data Scientist,264.0,4.0,4.0,90.0,14.0,Cupertino,CA,US
+2020-12-22 16:44:24,Amazon,7.0,Data Scientist,535.0,15.0,2.0,375.0,0.0,Seattle,WA,US
+2020-12-23 15:21:23,Google,5.0,Data Scientist,345.0,5.0,3.0,136.0,35.0,Sunnyvale,CA,US
+2020-12-23 15:26:00,Thumbtack,7.0,Data Scientist,249.0,10.0,3.0,46.0,0.0,San Francisco,CA,US
+2020-12-24 08:14:27,Amazon,6.0,Data Scientist,255.0,10.0,4.0,120.0,0.0,Seattle,WA,US
+2020-12-24 09:23:46,Starbucks,24.0,Data Scientist,115.0,1.0,1.0,5.0,5.0,Seattle,WA,US
+2020-12-24 11:17:25,Nike,3.0,Data Scientist,184.0,3.0,0.0,0.0,24.0,Portland,OR,US
+2020-12-25 08:35:55,Wish,4.0,Data Scientist,205.0,2.0,1.0,55.0,0.0,San Francisco,CA,US
+2020-12-26 03:20:04,Google,4.0,Data Scientist,236.0,7.0,2.0,42.0,25.0,Mountain View,CA,US
+2020-12-26 15:14:07,JPMorgan Chase,603.0,Data Scientist,115.0,6.0,6.0,0.0,20.0,Plano,TX,US
+2020-12-26 15:41:57,Booz Allen Hamilton,5.0,Data Scientist,90.0,1.0,0.0,0.0,0.0,Arlington,VA,US
+2020-12-26 21:19:53,Facebook,4.0,Data Scientist,220.0,5.0,2.0,50.0,20.0,Menlo Park,CA,US
+2020-12-29 01:51:10,Adobe,3.0,Data Scientist,262.0,2.0,2.0,90.0,22.0,San Francisco,CA,US
+2020-12-29 05:36:57,IBM,7.0,Data Scientist,135.0,3.0,2.0,5.0,0.0,New York,NY,US
+2020-12-29 16:51:01,amazon,6.0,Data Scientist,300.0,5.0,5.0,140.0,0.0,Seattle,WA,US
+2020-12-30 11:24:19,BCG,4.0,Data Scientist,140.0,4.0,1.0,0.0,20.0,New York,NY,US
+2021-01-02 17:59:38,Google,5.0,Data Scientist,319.0,2.0,2.0,110.0,35.0,Mountain View,CA,US
+2021-01-02 22:59:57,microsoft,62.0,Data Scientist,176.0,7.0,2.0,20.0,15.0,Seattle,WA,US
+2021-01-03 19:37:53,Facebook,5.0,Data Scientist,294.0,4.0,3.0,90.0,27.0,Seattle,WA,US
+2021-01-03 20:06:50,Northrop Grumman ,6.0,Data Scientist,195.0,15.0,3.0,0.0,0.0,Los Angeles,CA,US
+2021-01-04 08:40:09,Allstate,6.0,Data Scientist,152.0,6.0,1.0,0.0,10.0,Chicago,IL,US
+2021-01-04 09:56:49,Facebook,4.0,Data Scientist,185.0,4.0,1.0,20.0,30.0,San Francisco,CA,US
+2021-01-04 11:52:22,Facebook,5.0,Data Scientist,300.0,17.0,0.0,87.0,27.0,Seattle,WA,US
+2021-01-04 14:23:03,Google,5.0,Data Scientist,264.0,8.0,2.0,57.0,34.0,Mountain View,CA,US
+2021-01-04 15:44:57,LinkedIn,5.0,Data Scientist,261.0,8.0,1.0,69.0,18.0,Mountain View,CA,US
+2021-01-04 20:24:57,Google,5.0,Data Scientist,262.0,12.0,7.0,60.0,27.0,Mountain View,CA,US
+2021-01-05 08:04:39,Facebook,4.0,Data Scientist,225.0,4.0,0.0,50.0,20.0,New York,NY,US
+2021-01-05 16:28:07,Glassdoor,32.0,Data Scientist,209.0,7.0,6.0,9.0,16.0,Mill Valley,CA,US
+2021-01-06 04:29:34,JPMorgan Chase,4.0,Data Scientist,170.0,5.0,5.0,0.0,30.0,Wilmington,DE,US
+2021-01-06 10:26:29,Ford Motor,8.0,Data Scientist,110.0,6.0,4.0,0.0,8.0,Dearborn,MI,US
+2021-01-07 13:22:13,Walmart Labs,4.0,Data Scientist,215.0,2.0,2.0,40.0,25.0,Sunnyvale,CA,US
+2021-01-07 17:12:30,Apple,3.0,Data Scientist,185.0,2.0,2.0,25.0,10.0,Cupertino,CA,US
+2021-01-08 15:04:30,AppDynamics,5.0,Data Scientist,220.0,20.0,5.0,25.0,20.0,San Francisco,CA,US
+2021-01-08 19:36:42,IBM,9.0,Data Scientist,191.0,3.0,3.0,0.0,0.0,Los Angeles,CA,US
+2021-01-09 16:24:32,Google,5.0,Data Scientist,308.0,5.0,3.0,113.0,26.0,Redwood City,CA,US
+2021-01-09 16:43:46,Southwest Airlines,4.0,Data Scientist,100.0,3.0,1.0,0.0,5.0,Dallas,TX,US
+2021-01-09 21:48:06,Robinhood,3.0,Data Scientist,375.0,5.0,0.0,175.0,0.0,Menlo Park,CA,US
+2021-01-10 15:17:50,Capital One,5.0,Data Scientist,120.0,2.0,2.0,0.0,10.0,Washington,DC,US
+2021-01-10 19:17:05,Microsoft,62.0,Data Scientist,240.0,0.0,0.0,64.0,22.0,Seattle,WA,US
+2021-01-11 00:14:08,T-Mobile,8.0,Data Scientist,188.0,5.0,2.0,10.0,23.0,Bellevue,WA,US
+2021-01-11 12:42:24,Ernst and Young,4.0,Data Scientist,93.0,1.0,1.0,0.0,1.0,New York,NY,US
+2021-01-11 21:31:33,Microsoft,59.0,Data Scientist,136.0,0.0,0.0,18.0,11.0,Seattle,WA,US
+2021-01-12 14:12:57,Facebook,4.0,Data Scientist,233.0,2.0,2.0,55.0,16.0,New York,NY,US
+2021-01-12 15:18:06,Google,4.0,Data Scientist,282.0,3.0,2.0,90.0,32.0,New York,NY,US
+2021-01-12 15:56:53,Dell Technologies,7.0,Data Scientist,118.0,3.0,1.0,0.0,8.0,Austin,TX,US
+2021-01-12 18:43:40,Allstate,6.0,Data Scientist,148.0,8.0,5.0,0.0,13.0,Northbrook,IL,US
+2021-01-12 20:02:11,Facebook,6.0,Data Scientist,495.0,8.0,6.0,225.0,45.0,Menlo Park,CA,US
+2021-01-13 10:51:51,Citibank,14.0,Data Scientist,209.0,11.0,11.0,0.0,42.0,Atlanta,GA,US
+2021-01-13 18:49:46,Google ,4.0,Data Scientist,235.0,0.0,0.0,53.0,24.0,Mountain View,CA,US
+2021-01-14 14:29:57,Allstate,5.0,Data Scientist,138.0,8.0,4.0,0.0,13.0,Northbrook,IL,US
+2021-01-15 08:39:07,CVS Health,4.0,Data Scientist,150.0,4.0,4.0,0.0,15.0,New York,NY,US
+2021-01-15 16:30:19,JPMorgan Chase,603.0,Data Scientist,285.0,5.0,1.0,0.0,85.0,New York,NY,US
+2021-01-16 07:17:07,Shopify,6.0,Data Scientist,207.0,6.0,0.0,42.0,0.0,Tampa,FL,US
+2021-01-16 22:40:48,Walmart Labs,4.0,Data Scientist,220.0,2.0,2.0,30.0,30.0,San Francisco,CA,US
+2021-01-17 21:44:57,Google,4.0,Data Scientist,283.0,3.0,2.0,85.0,38.0,Redwood City,CA,US
+2021-01-17 22:26:50,Microsoft ,61.0,Data Scientist,183.0,1.0,1.0,35.0,13.0,Redmond,WA,US
+2021-01-18 08:44:49,realtor.com,5.0,Data Scientist,157.0,4.0,0.0,0.0,12.0,Santa Clara,CA,US
+2021-01-19 10:49:43,Apple,4.0,Data Scientist,263.0,3.0,3.0,80.0,25.0,Austin,TX,US
+2021-01-21 11:31:27,Convoy,8.0,Data Scientist,215.0,11.0,3.0,0.0,0.0,Seattle,WA,US
+2021-01-21 15:37:12,Goldman Sachs,8.0,Data Scientist,340.0,4.0,4.0,20.0,120.0,New York,NY,US
+2021-01-21 16:57:51,Facebook,4.0,Data Scientist,200.0,6.0,1.0,40.0,10.0,New York,NY,US
+2021-01-21 17:37:01,Google,5.0,Data Scientist,216.0,5.0,0.0,38.0,23.0,Reston,VA,US
+2021-01-21 21:31:00,Capital One,4.0,Data Scientist,110.0,2.0,2.0,0.0,5.0,Fairfax,VA,US
+2021-01-22 07:25:56,Deloitte,5.0,Data Scientist,100.0,8.0,2.0,0.0,2.0,Arlington,VA,US
+2021-01-22 09:04:01,Square,4.0,Data Scientist,168.0,4.0,0.0,36.0,0.0,San Francisco,CA,US
+2021-01-22 12:25:56,Target,5.0,Data Scientist,105.0,7.0,0.0,0.0,5.0,Minneapolis,MN,US
+2021-01-22 16:03:52,Goldman Sachs,4.0,Data Scientist,171.0,3.0,3.0,0.0,37.0,New York,NY,US
+2021-01-22 19:49:09,Goldman Sachs,8.0,Data Scientist,216.0,6.0,6.0,0.0,30.0,New York,NY,US
+2021-01-23 00:34:56,Facebook,4.0,Data Scientist,230.0,6.0,2.0,54.0,16.0,Menlo Park,CA,US
+2021-01-23 18:33:10,Wipro,1.0,Data Scientist,150.0,5.0,2.0,0.0,0.0,San Francisco,CA,US
+2021-01-24 20:19:48,Lyft,4.0,Data Scientist,323.0,2.0,0.0,118.0,35.0,San Francisco,CA,US
+2021-01-25 14:06:01,Point72,1.0,Data Scientist,105.0,1.0,0.0,0.0,10.0,New York,NY,US
+2021-01-25 16:33:16,Microsoft,60.0,Data Scientist,173.0,2.0,0.0,13.0,30.0,Redmond,WA,US
+2021-01-26 19:20:30,Twitter,5.0,Data Scientist,300.0,5.0,3.0,70.0,35.0,San Francisco,CA,US
+2021-01-26 20:56:14,Facebook,4.0,Data Scientist,280.0,5.0,1.0,100.0,16.0,Seattle,WA,US
+2021-01-27 03:16:30,Adobe,3.0,Data Scientist,294.0,1.0,1.0,114.0,22.0,San Jose,CA,US
+2021-01-27 08:47:30,Microsoft,62.0,Data Scientist,163.0,5.0,5.0,10.0,10.0,Seattle,WA,US
+2021-01-27 13:33:51,Uber,5.0,Data Scientist,517.0,7.0,0.0,275.0,35.0,Seattle,WA,US
+2021-01-27 15:21:48,Booz Allen Hamilton,5.0,Data Scientist,172.0,12.0,9.0,0.0,12.0,Washington,DC,US
+2021-01-28 10:36:25,Microsoft,67.0,Data Scientist,513.0,12.0,3.0,225.0,58.0,Redmond,WA,US
+2021-01-28 18:34:07,Facebook,4.0,Data Scientist,214.0,4.0,0.0,45.0,15.0,Seattle,WA,US
+2021-01-28 23:39:40,Amazon,5.0,Data Scientist,278.0,1.0,1.0,81.0,26.0,Palo Alto,CA,US
+2021-01-29 00:06:01,Amazon,6.0,Data Scientist,583.0,20.0,3.0,243.0,153.0,San Francisco,CA,US
+2021-01-29 06:10:42,Facebook,3.0,Data Scientist,201.0,3.0,0.0,33.0,34.0,Menlo Park,CA,US
+2021-01-29 08:54:32,Slalom,2.0,Data Scientist,136.0,6.0,3.0,0.0,8.0,Atlanta,GA,US
+2021-01-29 10:15:39,Wish,5.0,Data Scientist,300.0,6.0,1.0,120.0,0.0,San Francisco,CA,US
+2021-01-29 17:09:31,Salesforce,7.0,Data Scientist,178.0,5.0,5.0,20.0,21.0,Bellevue,WA,US
+2021-01-29 23:23:41,Thermo Fisher Scientific,5.0,Data Scientist,126.0,4.0,2.0,0.0,18.0,San Diego,CA,US
+2021-01-30 07:12:56,Apple,4.0,Data Scientist,227.0,6.0,3.0,40.0,17.0,Austin,TX,US
+2021-01-30 11:35:29,Amazon,5.0,Data Scientist,205.0,12.0,0.0,35.0,20.0,Arlington,VA,US
+2021-01-30 15:31:01,Boeing,2.0,Data Scientist,85.0,14.0,3.0,0.0,0.0,Seattle,WA,US
+2021-01-31 08:25:42,Zynga,2.0,Data Scientist,140.0,2.0,1.0,19.0,11.0,Austin,TX,US
+2021-01-31 16:49:00,Booz Allen Hamilton,4.0,Data Scientist,75.0,3.0,0.0,0.0,0.0,Arlington,VA,US
+2021-02-02 06:08:39,JPMorgan Chase,602.0,Data Scientist,137.0,3.0,1.0,0.0,14.0,New York,NY,US
+2021-02-02 07:46:46,Intel,5.0,Data Scientist,111.0,6.0,4.0,3.0,10.0,Chandler,AZ,US
+2021-02-02 13:09:39,Airtable,4.0,Data Scientist,275.0,7.0,0.0,55.0,20.0,San Francisco,CA,US
+2021-02-03 14:35:42,Zillow,4.0,Data Scientist,305.0,5.0,2.0,147.0,0.0,Seattle,WA,US
+2021-02-03 19:01:51,Apple,4.0,Data Scientist,152.0,9.0,3.0,5.0,0.0,San Francisco,CA,US
+2021-02-04 12:00:49,Visa,3.0,Data Scientist,142.0,2.0,2.0,10.0,12.0,Foster City,CA,US
+2021-02-04 16:14:44,Walmart Labs,4.0,Data Scientist,290.0,3.0,3.0,65.0,40.0,Sunnyvale,CA,US
+2021-02-05 02:26:53,Microsoft,61.0,Data Scientist,166.0,3.0,1.0,20.0,13.0,Redmond,WA,US
+2021-02-06 22:27:13,Perspecta,2.0,Data Scientist,150.0,1.0,1.0,0.0,5.0,Basking Ridge,NJ,US
+2021-02-07 15:20:37,Twitter,6.0,Data Scientist,336.0,5.0,4.0,120.0,36.0,San Francisco,CA,US
+2021-02-08 22:29:21,Uber,4.0,Data Scientist,260.0,5.0,4.0,100.0,10.0,San Francisco,CA,US
+2021-02-09 11:55:45,Amazon,6.0,Data Scientist,360.0,11.0,1.0,80.0,105.0,San Francisco,CA,US
+2021-02-09 12:52:53,JPMorgan Chase,4.0,Data Scientist,149.0,3.0,3.0,0.0,17.0,New York,NY,US
+2021-02-09 17:26:44,IBM,9.0,Data Scientist,174.0,11.0,2.0,0.0,0.0,Charleston,SC,US
+2021-02-10 06:39:19,Microsoft,62.0,Data Scientist,202.0,0.0,0.0,40.0,22.0,Redmond,WA,US
+2021-02-10 14:14:45,Netflix,5.0,Data Scientist,600.0,10.0,5.0,0.0,0.0,Los Angeles,CA,US
+2021-02-10 18:40:01,Tiktok,4.0,Data Scientist,270.0,11.0,0.0,60.0,10.0,Seattle,WA,US
+2021-02-11 00:55:56,Google,5.0,Data Scientist,455.0,8.0,3.0,280.0,25.0,Seattle,WA,US
+2021-02-11 14:27:08,Robinhood,4.0,Data Scientist,550.0,4.0,4.0,300.0,0.0,Menlo Park,CA,US
+2021-02-11 14:56:13,McAfee,5.0,Data Scientist,216.0,4.0,0.0,0.0,30.0,San Jose,CA,US
+2021-02-13 19:08:20,eBay,24.0,Data Scientist,122.0,1.0,0.0,6.0,11.0,Austin,TX,US
+2021-02-14 21:45:00,Seagate,2.0,Data Scientist,96.0,3.0,2.0,0.0,5.0,Longmont,CO,US
+2021-02-15 08:46:28,Other,3.0,Data Scientist,120.0,2.0,1.0,0.0,0.0,Washington,DC,US
+2021-02-15 12:42:06,eBay,2.0,Data Scientist,176.0,2.0,0.0,13.0,30.0,San Jose,CA,US
+2021-02-15 13:46:33,Capital One,6.0,Data Scientist,172.0,10.0,10.0,0.0,20.0,Richmond,VA,US
+2021-02-16 13:39:25,capsule,1.0,Data Scientist,100.0,1.0,1.0,1.0,1.0,San Francisco,CA,US
+2021-02-16 15:04:22,Cisco,8.0,Data Scientist,177.0,11.0,4.0,14.0,18.0,San Jose,CA,US
+2021-02-16 17:24:27,Wayfair,5.0,Data Scientist,404.0,5.0,5.0,191.0,35.0,Boston,MA,US
+2021-02-17 10:01:15,Booz Allen Hamilton,4.0,Data Scientist,128.0,5.0,1.0,0.0,0.0,Washington,DC,US
+2021-02-17 10:03:24,Apple,3.0,Data Scientist,213.0,9.0,4.0,80.0,10.0,Cupertino,CA,US
+2021-02-17 11:13:56,Walmart Labs,3.0,Data Scientist,185.0,9.0,3.0,25.0,22.0,Sunnyvale,CA,US
+2021-02-17 16:49:45,Facebook,5.0,Data Scientist,215.0,8.0,6.0,77.0,0.0,Seattle,WA,US
+2021-02-18 08:20:15,Kroger,2.0,Data Scientist,118.0,5.0,3.0,0.0,11.0,Chicago,IL,US
+2021-02-19 03:09:52,Microsoft,65.0,Data Scientist,510.0,11.0,9.0,237.0,50.0,Bellevue,WA,US
+2021-02-19 21:58:39,Facebook,5.0,Data Scientist,327.0,2.0,0.0,100.0,30.0,Menlo Park,CA,US
+2021-02-20 07:42:13,Twitter,1.0,Data Scientist,176.0,2.0,0.0,38.0,13.0,Austin,TX,US
+2021-02-20 16:24:32,IBM,8.0,Data Scientist,156.0,10.0,2.0,0.0,0.0,New York,NY,US
+2021-02-21 01:24:56,Microsoft,64.0,Data Scientist,225.0,11.0,11.0,30.0,30.0,Bellevue,WA,US
+2021-02-21 10:16:05,Booz Allen Hamilton,5.0,Data Scientist,95.0,4.0,2.0,0.0,0.0,Washington,DC,US
+2021-02-21 15:26:25,Jp morgan chase,8.0,Data Scientist,210.0,6.0,2.0,10.0,40.0,Jersey City,NJ,US
+2021-02-21 16:48:20,AMazon,5.0,Data Scientist,266.0,20.0,1.0,68.0,48.0,Washington,DC,US
+2021-02-22 08:08:02,Nielsen,4.0,Data Scientist,83.0,3.0,2.0,0.0,2.0,Columbia,MD,US
+2021-02-22 09:54:13,IBM,9.0,Data Scientist,197.0,9.0,5.0,15.0,2.0,Traverse City,MI,US
+2021-02-22 15:00:41,KAYAK,1.0,Data Scientist,150.0,4.0,2.0,25.0,10.0,Cambridge,MA,US
+2021-02-22 15:14:04,Booz Allen Hamilton,4.0,Data Scientist,125.0,5.0,3.0,0.0,2.0,Washington,DC,US
+2021-02-22 15:16:07,Ford,7.0,Data Scientist,120.0,5.0,3.0,3.0,7.0,Dearborn,MI,US
+2021-02-22 15:44:41,Lyft,5.0,Data Scientist,500.0,8.0,4.0,300.0,0.0,San Francisco,CA,US
+2021-02-22 16:20:31,Uber,5.0,Data Scientist,518.0,6.0,0.0,276.0,35.0,Seattle,WA,US
+2021-02-22 22:48:29,Facebook,4.0,Data Scientist,211.0,5.0,0.0,40.0,16.0,San Francisco,CA,US
+2021-02-23 18:49:26,Grammarly,4.0,Data Scientist,195.0,3.0,0.0,55.0,0.0,San Francisco,CA,US
+2021-02-23 22:09:36,Microsoft,64.0,Data Scientist,283.0,9.0,1.0,50.0,38.0,Seattle,WA,US
+2021-02-24 11:25:44,Amazon,6.0,Data Scientist,414.0,10.0,4.0,230.0,0.0,San Francisco,CA,US
+2021-02-24 14:44:32,Facebook,5.0,Data Scientist,305.0,3.0,1.0,90.0,30.0,San Francisco,CA,US
+2021-02-24 17:13:19,Facebook,4.0,Data Scientist,235.0,1.0,0.0,40.0,30.0,Menlo Park,CA,US
+2021-02-24 20:57:48,Pinterest,4.0,Data Scientist,450.0,5.0,4.0,275.0,0.0,San Francisco,CA,US
+2021-02-24 22:04:08,Visa,7.0,Data Scientist,260.0,8.0,4.0,40.0,30.0,San Francisco,CA,US
+2021-02-24 22:27:15,Walmart,3.0,Data Scientist,188.0,5.0,1.0,20.0,23.0,San Bruno,CA,US
+2021-02-25 18:51:34,Fractal Analytics,8.0,Data Scientist,92.0,2.0,1.0,0.0,5.0,New York,NY,US
+2021-02-26 09:43:01,American Family Insurance,6.0,Data Scientist,165.0,6.0,6.0,0.0,22.0,Madison,WI,US
+2021-02-27 09:44:38,Aetna,2.0,Data Scientist,128.0,1.0,1.0,0.0,14.0,New York,NY,US
+2021-02-27 16:09:33,Amazon,5.0,Data Scientist,237.0,2.0,1.0,62.0,25.0,Cambridge,MA,US
+2021-02-27 18:46:24,JPMorgan Chase,603.0,Data Scientist,190.0,7.0,1.0,0.0,30.0,Wilmington,DE,US
+2021-02-27 20:46:34,Wells Fargo,3.0,Data Scientist,191.0,2.0,2.0,0.0,45.0,Charlotte,NC,US
+2021-02-27 21:32:43,Google,3.0,Data Scientist,388.0,0.0,0.0,80.0,30.0,San Francisco,CA,US
+2021-02-28 08:29:45,Grammarly,4.0,Data Scientist,195.0,0.0,0.0,55.0,0.0,San Francisco,CA,US
+2021-02-28 14:34:46,Charles Schwab,58.0,Data Scientist,180.0,5.0,0.0,0.0,20.0,Phoenix,AZ,US
+2021-02-28 19:54:03,Addepar,2.0,Data Scientist,121.0,2.0,1.0,0.0,11.0,New York,NY,US
+2021-02-28 22:12:48,Facebook,5.0,Data Scientist,296.0,9.0,2.0,90.0,27.0,Menlo Park,CA,US
+2021-02-28 22:50:17,Aetna,3.0,Data Scientist,140.0,4.0,1.0,0.0,10.0,Wellesley,MA,US
+2021-02-28 23:08:38,InVision,1.0,Data Scientist,100.0,3.0,3.0,0.0,0.0,Denver,CO,US
+2021-03-01 11:48:36,Capital One,5.0,Data Scientist,148.0,4.0,4.0,0.0,12.0,Plano,TX,US
+2021-03-01 19:11:54,Microsoft,63.0,Data Scientist,182.0,7.0,7.0,17.0,17.0,Redmond,WA,US
+2021-03-01 21:39:27,Google,4.0,Data Scientist,205.0,7.0,3.0,58.0,24.0,Mountain View,CA,US
+2021-03-01 22:06:15,Apple,4.0,Data Scientist,450.0,7.0,2.0,250.0,15.0,Cupertino,CA,US
+2021-03-01 23:30:39,Zappos,6.0,Data Scientist,130.0,3.0,3.0,0.0,0.0,Las Vegas,NV,US
+2021-03-02 07:33:27,Acorns,2.0,Data Scientist,115.0,1.0,1.0,1.0,0.0,Irvine,CA,US
+2021-03-02 11:34:10,Facebook,5.0,Data Scientist,297.0,5.0,2.0,90.0,27.0,Menlo Park,CA,US
+2021-03-02 20:37:09,Google,4.0,Data Scientist,199.0,0.0,0.0,30.0,22.0,Mountain View,CA,US
+2021-03-03 13:46:18,Wayfair,2.0,Data Scientist,185.0,2.0,1.0,45.0,15.0,Boston,MA,US
+2021-03-03 19:50:55,UBS,4.0,Data Scientist,170.0,4.0,1.0,0.0,35.0,New York,NY,US
+2021-03-04 04:44:27,Fidelity Investments,6.0,Data Scientist,189.0,8.0,8.0,20.0,34.0,Jersey City,NJ,US
+2021-03-04 11:23:47,Amazon,5.0,Data Scientist,215.0,8.0,0.0,35.0,25.0,Dallas,TX,US
+2021-03-04 11:37:06,Facebook,5.0,Data Scientist,257.0,3.0,1.0,64.0,25.0,Austin,TX,US
+2021-03-04 16:22:09,Uber,5.0,Data Scientist,372.0,2.0,2.0,162.0,39.0,San Francisco,CA,US
+2021-03-04 16:30:57,Uber,5.0,Data Scientist,251.0,4.0,4.0,77.0,20.0,San Francisco,CA,US
+2021-03-04 17:10:55,Apple,3.0,Data Scientist,166.0,1.0,0.0,26.0,0.0,San Jose,CA,US
+2021-03-05 06:11:53,7-Eleven,3.0,Data Scientist,95.0,3.0,0.0,0.0,5.0,Dallas,TX,US
+2021-03-05 09:32:24,Airbnb,4.0,Data Scientist,254.0,2.0,2.0,79.0,12.0,San Francisco,CA,US
+2021-03-05 10:58:02,Northrop Grumman,5.0,Data Scientist,187.0,13.0,1.0,30.0,1.0,Huntsville,AL,US
+2021-03-05 19:43:13,Facebook,5.0,Data Scientist,291.0,4.0,3.0,81.0,27.0,New York,NY,US
+2021-03-06 02:13:02,Facebook,4.0,Data Scientist,242.0,0.0,0.0,48.0,40.0,Menlo Park,CA,US
+2021-03-06 11:25:19,Capital One,5.0,Data Scientist,144.0,3.0,2.0,0.0,8.0,Chicago,IL,US
+2021-03-07 15:55:03,Stitch Fix,5.0,Data Scientist,577.0,10.0,5.0,317.0,0.0,San Francisco,CA,US
+2021-03-07 15:59:44,IBM,8.0,Data Scientist,160.0,6.0,6.0,0.0,0.0,New York,NY,US
+2021-03-07 17:50:06,Uber,5.0,Data Scientist,415.0,5.0,5.0,200.0,35.0,San Francisco,CA,US
+2021-03-07 18:06:11,Facebook,5.0,Data Scientist,297.0,2.0,2.0,86.0,28.0,New York,NY,US
+2021-03-08 09:13:21,AT&T,2.0,Data Scientist,185.0,2.0,2.0,0.0,25.0,New York,NY,US
+2021-03-08 13:47:26,Oracle,3.0,Data Scientist,205.0,5.0,0.0,35.0,10.0,Austin,TX,US
+2021-03-09 14:23:39,Zillow,3.0,Data Scientist,159.0,2.0,2.0,20.0,15.0,Seattle,WA,US
+2021-03-09 22:20:41,Twitter,6.0,Data Scientist,386.0,6.0,2.0,160.0,38.0,San Francisco,CA,US
+2021-03-10 01:00:48,Genentech,4.0,Data Scientist,236.0,8.0,4.0,16.0,35.0,South San Francisco,CA,US
+2021-03-10 07:20:09,JPMorgan Chase,8.0,Data Scientist,253.0,8.0,4.0,7.0,66.0,New York,NY,US
+2021-03-10 08:45:00,Facebook,4.0,Data Scientist,142.0,3.0,0.0,14.0,0.0,Austin,TX,US
+2021-03-10 11:15:27,Lyft,4.0,Data Scientist,260.0,4.0,1.0,110.0,0.0,San Francisco,CA,US
+2021-03-10 14:01:44,Aetna,3.0,Data Scientist,142.0,2.0,2.0,0.0,10.0,New York,NY,US
+2021-03-11 14:40:27,Lyft,4.0,Data Scientist,310.0,5.0,1.0,150.0,0.0,San Francisco,CA,US
+2021-03-11 15:45:32,Bank of America,4.0,Data Scientist,147.0,5.0,3.0,0.0,10.0,Charlotte,NC,US
+2021-03-11 15:47:44,Roche,1.0,Data Scientist,128.0,1.0,1.0,0.0,8.0,South San Francisco,CA,US
+2021-03-11 18:16:28,Microsoft,63.0,Data Scientist,273.0,6.0,1.0,45.0,45.0,San Francisco,CA,US
+2021-03-11 23:27:55,Micron Technology,4.0,Data Scientist,160.0,1.0,0.0,12.0,13.0,Manassas,VA,US
+2021-03-12 13:00:23,Uber,5.0,Data Scientist,311.0,2.0,2.0,105.0,35.0,San Francisco,CA,US
+2021-03-12 13:23:27,Grubhub,2.0,Data Scientist,150.0,2.0,1.0,30.0,0.0,Chicago,IL,US
+2021-03-12 16:11:32,Asana,5.0,Data Scientist,350.0,7.0,1.0,150.0,0.0,San Francisco,CA,US
+2021-03-12 18:18:54,Facebook,4.0,Data Scientist,230.0,1.0,1.0,65.0,15.0,Menlo Park,CA,US
+2021-03-12 21:31:12,Nordstrom,16.0,Data Scientist,150.0,3.0,3.0,0.0,25.0,Seattle,WA,US
+2021-03-12 21:54:14,Facebook,4.0,Data Scientist,210.0,2.0,0.0,45.0,15.0,Seattle,WA,US
+2021-03-13 21:52:57,Genentech,5.0,Data Scientist,260.0,7.0,4.0,45.0,30.0,South San Francisco,CA,US
+2021-03-14 07:47:19,Verizon,5.0,Data Scientist,538.0,14.0,4.0,166.0,94.0,Basking Ridge,NJ,US
+2021-03-14 12:48:22,Intel,8.0,Data Scientist,188.0,5.0,5.0,26.0,21.0,Hillsboro,OR,US
+2021-03-15 11:41:16,Walmart,3.0,Data Scientist,120.0,5.0,2.0,6.0,19.0,Bentonville,AR,US
+2021-03-15 14:11:22,Intel,7.0,Data Scientist,174.0,5.0,5.0,28.0,16.0,Hillsboro,OR,US
+2021-03-15 15:14:48,CVS Health,1.0,Data Scientist,100.0,1.0,0.0,0.0,0.0,Chicago,IL,US
+2021-03-15 16:13:40,Amazon,5.0,Data Scientist,163.0,5.0,5.0,16.0,20.0,Seattle,WA,US
+2021-03-15 18:24:40,PayPal,24.0,Data Scientist,190.0,3.0,3.0,45.0,15.0,San Jose,CA,US
+2021-03-15 20:47:02,Visa,6.0,Data Scientist,173.0,1.0,1.0,8.0,20.0,Foster City,CA,US
+2021-03-15 21:09:40,Amazon,4.0,Data Scientist,203.0,0.0,0.0,8.0,55.0,Seattle,WA,US
+2021-03-16 09:34:13,Amazon,5.0,Data Scientist,205.0,6.0,4.0,90.0,0.0,Seattle,WA,US
+2021-03-16 14:01:54,Uber,5.0,Data Scientist,327.0,6.0,2.0,134.0,18.0,San Francisco,CA,US
+2021-03-16 23:31:25,IBM,7.0,Data Scientist,115.0,2.0,2.0,0.0,17.0,Austin,TX,US
+2021-03-17 07:25:54,LinkedIn,3.0,Data Scientist,344.0,5.0,5.0,120.0,24.0,Sunnyvale,CA,US
+2021-03-17 13:03:08,DoorDash,3.0,Data Scientist,315.0,5.0,0.0,95.0,20.0,San Francisco,CA,US
+2021-03-17 21:50:05,PayPal,26.0,Data Scientist,310.0,6.0,6.0,100.0,30.0,San Jose,CA,US
+2021-03-18 00:34:44,Lam Research,5.0,Data Scientist,217.0,7.0,5.0,10.0,34.0,San Francisco,CA,US
+2021-03-18 05:50:00,Oscar,2.0,Data Scientist,225.0,3.0,0.0,51.0,24.0,New York,NY,US
+2021-03-18 09:27:12,Epsilon,5.0,Data Scientist,150.0,2.0,2.0,0.0,14.0,Chicago,IL,US
+2021-03-19 00:15:40,Facebook,5.0,Data Scientist,375.0,5.0,4.0,160.0,30.0,Menlo Park,CA,US
+2021-03-19 06:02:06,Facebook,6.0,Data Scientist,420.0,7.0,3.0,156.0,44.0,New York,NY,US
+2021-03-19 11:26:47,Dropbox,6.0,Data Scientist,650.0,15.0,0.0,260.0,100.0,San Francisco,CA,US
+2021-03-19 13:05:44,Microsoft,62.0,Data Scientist,170.0,10.0,2.0,25.0,10.0,Redmond,WA,US
+2021-03-19 13:12:20,Microsoft,63.0,Data Scientist,193.0,5.0,5.0,15.0,18.0,Redmond,WA,US
+2021-03-19 22:29:20,Hulu,3.0,Data Scientist,162.0,8.0,1.0,15.0,24.0,Santa Monica,CA,US
+2021-03-20 01:03:14,Accenture,12.0,Data Scientist,54.0,2.0,0.0,0.0,0.0,Boston,MA,US
+2021-03-20 05:18:06,Johnson & Johnson,7.0,Data Scientist,300.0,20.0,15.0,45.0,45.0,La Jolla,CA,US
+2021-03-21 18:25:16,Intel,7.0,Data Scientist,184.0,4.0,4.0,28.0,17.0,Portland,OR,US
+2021-03-22 10:03:23,3M,2.0,Data Scientist,100.0,2.0,2.0,0.0,5.0,Saint Paul,MN,US
+2021-03-22 12:38:59,Turo,2.0,Data Scientist,230.0,3.0,3.0,50.0,0.0,San Francisco,CA,US
+2021-03-22 20:31:16,Goldman Sachs,4.0,Data Scientist,150.0,2.0,2.0,0.0,40.0,New York,NY,US
+2021-03-22 22:04:10,Facebook,4.0,Data Scientist,265.0,5.0,2.0,80.0,17.0,New York,NY,US
+2021-03-23 14:31:25,LinkedIn,6.0,Data Scientist,257.0,5.0,2.0,64.0,18.0,Mountain View,CA,US
+2021-03-23 14:31:27,Stitch Fix,6.0,Data Scientist,520.0,6.0,3.0,260.0,0.0,San Francisco,CA,US
+2021-03-23 15:06:53,Boeing,2.0,Data Scientist,109.0,0.0,0.0,4.0,3.0,Seattle,WA,US
+2021-03-23 20:37:01,Amazon,6.0,Data Scientist,363.0,5.0,0.0,118.0,99.0,Seattle,WA,US
+2021-03-24 03:21:02,Booz Allen Hamilton,4.0,Data Scientist,133.0,15.0,12.0,0.0,7.0,Richmond,VA,US
+2021-03-25 11:37:49,Everquote,3.0,Data Scientist,161.0,4.0,4.0,40.0,5.0,Boston,MA,US
+2021-03-25 13:01:47,Shutterstock,5.0,Data Scientist,195.0,7.0,1.0,15.0,16.0,New York,NY,US
+2021-03-25 16:42:23,Amazon,5.0,Data Scientist,337.0,4.0,0.0,112.0,70.0,Seattle,WA,US
+2021-03-25 19:15:21,Amazon,5.0,Data Scientist,156.0,8.0,1.0,24.0,11.0,Seattle,WA,US
+2021-03-26 11:19:35,Microsoft,64.0,Data Scientist,345.0,7.0,0.0,110.0,56.0,Seattle,WA,US
+2021-03-26 13:22:52,JPMorgan Chase,602.0,Data Scientist,150.0,4.0,0.0,0.0,20.0,Dallas,TX,US
+2021-03-26 18:01:32,Intel,5.0,Data Scientist,107.0,5.0,5.0,8.0,9.0,Hillsboro,OR,US
+2021-03-26 21:11:40,Facebook,7.0,Data Scientist,740.0,10.0,4.0,400.0,70.0,Menlo Park,CA,US
+2021-03-26 22:45:10,Nike,5.0,Data Scientist,213.0,3.0,3.0,0.0,28.0,Boston,MA,US
+2021-03-27 16:28:14,Zoom,5.0,Data Scientist,400.0,3.0,3.0,250.0,10.0,San Jose,CA,US
+2021-03-28 21:41:05,Facebook,5.0,Data Scientist,310.0,4.0,2.0,90.0,10.0,Menlo Park,CA,US
+2021-03-29 10:31:10,Chime,3.0,Data Scientist,222.0,4.0,0.0,63.0,15.0,San Francisco,CA,US
+2021-03-29 12:22:15,Facebook,4.0,Data Scientist,234.0,8.0,0.0,53.0,17.0,Menlo Park,CA,US
+2021-03-29 15:41:09,Uber,4.0,Data Scientist,187.0,5.0,0.0,26.0,15.0,Seattle,WA,US
+2021-03-29 17:25:51,Microsoft,60.0,Data Scientist,166.0,1.0,1.0,35.0,10.0,Redmond,WA,US
+2021-03-31 17:30:51,Amazon,4.0,Data Scientist,173.0,0.0,0.0,30.0,18.0,Seattle,WA,US
+2021-03-31 19:39:14,Dell Technologies,8.0,Data Scientist,142.0,4.0,3.0,20.0,9.0,Austin,TX,US
+2021-03-31 21:51:19,Oracle,3.0,Data Scientist,210.0,6.0,0.0,42.0,13.0,Austin,TX,US
+2021-03-31 23:02:30,Walmart,3.0,Data Scientist,157.0,0.0,0.0,6.0,21.0,Hoboken,NJ,US
+2021-04-01 18:26:33,Amazon,5.0,Data Scientist,214.0,4.0,4.0,60.0,10.0,Seattle,WA,US
+2021-04-01 20:04:01,Verily Life Sciences,4.0,Data Scientist,210.0,0.0,0.0,41.0,22.0,South San Francisco,CA,US
+2021-04-01 21:50:02,Pinterest,3.0,Data Scientist,190.0,2.0,2.0,45.0,0.0,San Francisco,CA,US
+2021-04-02 04:50:09,Amazon,6.0,Data Scientist,230.0,8.0,4.0,89.0,6.0,Cambridge,MA,US
+2021-04-02 15:57:47,Marvell,1.0,Data Scientist,115.0,1.0,1.0,10.0,0.0,Santa Clara,CA,US
+2021-04-02 20:22:43,Booz Allen Hamilton,4.0,Data Scientist,113.0,5.0,2.0,0.0,0.0,Washington,DC,US
+2021-04-03 06:13:21,Deloitte,5.0,Data Scientist,108.0,3.0,3.0,0.0,5.0,New York,NY,US
+2021-04-03 09:12:53,Wells Fargo,3.0,Data Scientist,179.0,2.0,2.0,10.0,30.0,Charlotte,NC,US
+2021-04-03 23:12:17,eBay,3.0,Data Scientist,205.0,2.0,0.0,29.0,16.0,San Jose,CA,US
+2021-04-03 23:12:54,eBay,3.0,Data Scientist,205.0,2.0,0.0,29.0,16.0,San Jose,CA,US
+2021-04-05 06:46:02,Shipt,4.0,Data Scientist,153.0,6.0,4.0,0.0,18.0,Birmingham,AL,US
+2021-04-05 13:22:16,Abbott,18.0,Data Scientist,200.0,5.0,5.0,10.0,25.0,Irvine,CA,US
+2021-04-06 10:49:09,Amazon,4.0,Data Scientist,232.0,1.0,0.0,44.0,36.0,Seattle,WA,US
+2021-04-06 12:11:34,Kroger,1.0,Data Scientist,85.0,0.0,0.0,0.0,5.0,Chicago,IL,US
+2021-04-06 13:55:53,Snap,4.0,Data Scientist,374.0,6.0,0.0,178.0,18.0,Santa Monica,CA,US
+2021-04-06 14:31:30,Facebook,5.0,Data Scientist,315.0,14.0,0.0,87.0,28.0,New York,NY,US
+2021-04-06 18:50:46,HCL Technologies,2.0,Data Scientist,87.0,2.0,2.0,0.0,5.0,New York,NY,US
+2021-04-07 12:38:30,Northrop Grumman,2.0,Data Scientist,98.0,5.0,5.0,0.0,0.0,Baltimore,MD,US
+2021-04-07 13:23:50,Amazon,5.0,Data Scientist,250.0,2.0,2.0,110.0,0.0,Seattle,WA,US
+2021-04-07 15:00:06,Atlassian,5.0,Data Scientist,320.0,7.0,0.0,30.0,100.0,San Francisco,CA,US
+2021-04-07 16:51:45,Quicken Loans,1.0,Data Scientist,120.0,3.0,3.0,0.0,15.0,Detroit,MI,US
+2021-04-07 19:09:31,Netflix,5.0,Data Scientist,420.0,6.0,2.0,20.0,0.0,Los Gatos,CA,US
+2021-04-08 10:24:21,Sophos,3.0,Data Scientist,165.0,7.0,4.0,0.0,15.0,Portland,OR,US
+2021-04-08 23:34:08,Capital One,4.0,Data Scientist,126.0,2.0,1.0,0.0,6.0,Vienna,VA,US
+2021-04-09 00:20:52,Amazon,5.0,Data Scientist,231.0,4.0,0.0,42.0,32.0,Seattle,WA,US
+2021-04-09 17:34:27,Genentech,4.0,Data Scientist,192.0,10.0,7.0,21.0,21.0,San Francisco,CA,US
+2021-04-09 21:08:16,Amazon,5.0,Data Scientist,249.0,5.0,0.0,5.0,69.0,San Francisco,CA,US
+2021-04-09 23:49:57,Facebook,5.0,Data Scientist,300.0,4.0,1.0,80.0,25.0,Seattle,WA,US
+2021-04-10 05:34:39,Comcast,2.0,Data Scientist,80.0,1.0,1.0,0.0,0.0,Philadelphia,PA,US
+2021-04-10 09:55:39,Microsoft,63.0,Data Scientist,210.0,5.0,1.0,30.0,25.0,Redmond,WA,US
+2021-04-10 14:55:38,Lyft,5.0,Data Scientist,375.0,5.0,0.0,185.0,0.0,Worcester,MA,US
+2021-04-10 21:01:53,Wipro Limited,3.0,Data Scientist,115.0,8.0,1.0,0.0,5.0,Irving,TX,US
+2021-04-10 23:55:36,LinkedIn,1.0,Data Scientist,138.0,0.0,0.0,20.0,11.0,Sunnyvale,CA,US
+2021-04-11 13:30:57,Facebook,6.0,Data Scientist,420.0,4.0,3.0,160.0,52.0,Menlo Park,CA,US
+2021-04-11 14:18:56,Philips,5.0,Data Scientist,150.0,10.0,0.0,0.0,14.0,Pittsburgh,PA,US
+2021-04-11 14:35:23,Macy's,4.0,Data Scientist,106.0,5.0,1.0,0.0,10.0,New York,NY,US
+2021-04-11 16:25:52,Autodesk,12.0,Data Scientist,174.0,6.0,3.0,30.0,14.0,San Francisco,CA,US
+2021-04-12 08:39:44,Dropbox,2.0,Data Scientist,154.0,5.0,2.0,10.0,13.0,San Francisco,CA,US
+2021-04-12 09:59:43,Microsoft,62.0,Data Scientist,180.0,2.0,0.0,20.0,25.0,Denver,CO,US
+2021-04-12 12:31:52,Goldman Sachs,8.0,Data Scientist,500.0,11.0,6.0,50.0,200.0,New York,NY,US
+2021-04-12 13:06:35,Robinhood,2.0,Data Scientist,284.0,3.0,0.0,80.0,19.0,New York,NY,US
+2021-04-12 15:26:47,LinkedIn,6.0,Data Scientist,300.0,7.0,2.0,107.0,18.0,Mountain View,CA,US
+2021-04-12 20:19:20,Bank of America,4.0,Data Scientist,156.0,6.0,1.0,0.0,0.0,Raleigh,NC,US
+2021-04-13 07:15:42,Southwest Airlines,4.0,Data Scientist,105.0,3.0,1.0,0.0,10.0,Dallas,TX,US
+2021-04-13 09:00:07,USAA,3.0,Data Scientist,125.0,10.0,4.0,0.0,17.0,Phoenix,AZ,US
+2021-04-13 11:00:09,Credit Karma,5.0,Data Scientist,520.0,9.0,3.0,284.0,0.0,Oakland,CA,US
+2021-04-13 12:12:37,Lowe's,3.0,Data Scientist,140.0,0.0,0.0,0.0,15.0,Charlotte,NC,US
+2021-04-13 14:07:27,JP Morgan Chase,4.0,Data Scientist,84.0,2.0,2.0,0.0,7.0,Chicago,IL,US
+2021-04-13 16:53:46,eBay,24.0,Data Scientist,190.0,2.0,1.0,25.0,10.0,Seattle,WA,US
+2021-04-13 17:25:40,Adobe,3.0,Data Scientist,272.0,8.0,3.0,100.0,23.0,San Jose,CA,US
+2021-04-13 20:01:39,Amazon,5.0,Data Scientist,198.0,2.0,1.0,35.0,25.0,Seattle,WA,US
+2021-04-13 20:06:34,Facebook,5.0,Data Scientist,295.0,10.0,1.0,65.0,50.0,Seattle,WA,US
+2021-04-14 04:07:20,Oracle,2.0,Data Scientist,205.0,1.0,0.0,50.0,15.0,Redwood City,CA,US
+2021-04-14 09:18:12,Google,4.0,Data Scientist,266.0,0.0,0.0,97.0,22.0,Mountain View,CA,US
+2021-04-14 12:57:36,Walmart,3.0,Data Scientist,105.0,5.0,0.0,0.0,10.0,Dallas,TX,US
+2021-04-15 08:14:29,Facebook,5.0,Data Scientist,367.0,7.0,4.0,144.0,26.0,San Francisco,CA,US
+2021-04-15 09:47:10,Microsoft,63.0,Data Scientist,245.0,5.0,0.0,50.0,25.0,Redmond,WA,US
+2021-04-15 09:50:32,Microsoft,64.0,Data Scientist,323.0,7.0,2.0,110.0,25.0,Redmond,WA,US
+2021-04-15 12:30:30,Amazon,6.0,Data Scientist,283.0,7.0,4.0,123.0,0.0,Seattle,WA,US
+2021-04-15 13:32:17,Microsoft,63.0,Data Scientist,198.0,5.0,1.0,30.0,15.0,Redmond,WA,US
+2021-04-15 16:21:27,Square ,5.0,Data Scientist,235.0,4.0,0.0,70.0,10.0,San Francisco,CA,US
+2021-04-16 03:41:21,PwC,4.0,Data Scientist,38.0,3.0,2.0,0.0,2.0,Ireland,IN,US
+2021-04-16 10:38:52,Instacart,4.0,Data Scientist,312.0,2.0,0.0,150.0,0.0,San Francisco,CA,US
+2021-04-16 15:56:50,Walmart,3.0,Data Scientist,148.0,2.0,2.0,25.0,25.0,Bentonville,AR,US
+2021-04-17 13:24:44,Microsoft,65.0,Data Scientist,262.0,11.0,6.0,36.0,38.0,Seattle,WA,US
+2021-04-18 20:21:56,Snap,4.0,Data Scientist,385.0,0.0,0.0,215.0,15.0,Los Angeles,CA,US
+2021-04-19 08:41:36,Amazon,6.0,Data Scientist,234.0,15.0,4.0,102.0,0.0,Seattle,WA,US
+2021-04-19 15:00:00,Amazon,5.0,Data Scientist,228.0,2.0,1.0,47.0,23.0,Seattle,WA,US
+2021-04-19 17:56:23,Amazon,5.0,Data Scientist,212.0,5.0,3.0,80.0,0.0,Seattle,WA,US
+2021-04-20 06:12:53,Walmart Labs,3.0,Data Scientist,180.0,2.0,2.0,25.0,16.0,San Bruno,CA,US
+2021-04-20 06:47:49,Bloomberg,1.0,Data Scientist,196.0,0.0,0.0,31.0,0.0,New York,NY,US
+2021-04-20 10:50:21,Amazon,5.0,Data Scientist,245.0,2.0,2.0,78.0,0.0,New York,NY,US
+2021-04-20 15:37:06,Netflix,6.0,Data Scientist,630.0,6.0,4.0,0.0,0.0,Los Angeles,CA,US
+2021-04-20 17:14:52,eBay,26.0,Data Scientist,215.0,8.0,1.0,35.0,25.0,San Jose,CA,US
+2021-04-20 19:46:58,eBay,24.0,Data Scientist,205.0,4.0,1.0,35.0,15.0,Bellevue,WA,US
+2021-04-20 20:57:36,Facebook,4.0,Data Scientist,189.0,3.0,0.0,40.0,14.0,Austin,TX,US
+2021-04-21 00:36:23,Wells Fargo,5.0,Data Scientist,185.0,2.0,2.0,0.0,35.0,San Francisco,CA,US
+2021-04-21 16:44:21,HPE,6.0,Data Scientist,255.0,5.0,4.0,25.0,65.0,San Jose,CA,US
+2021-04-21 17:28:46,Uber,4.0,Data Scientist,280.0,4.0,3.0,110.0,15.0,San Francisco,CA,US
+2021-04-21 19:04:23,Pinterest,4.0,Data Scientist,400.0,2.0,2.0,240.0,0.0,San Francisco,CA,US
+2021-04-22 08:04:01,ByteDance,22.0,Data Scientist,200.0,5.0,1.0,15.0,20.0,Los Angeles,CA,US
+2021-04-22 11:04:06,Liberty Mutual,17.0,Data Scientist,163.0,5.0,1.0,0.0,18.0,Seattle,WA,US
+2021-04-22 13:28:05,Intuit,4.0,Data Scientist,248.0,8.0,4.0,50.0,33.0,Mountain View,CA,US
+2021-04-22 18:45:30,Microsoft,62.0,Data Scientist,194.0,3.0,3.0,40.0,12.0,Redmond,WA,US
+2021-04-22 22:12:20,Amazon,5.0,Data Scientist,274.0,1.0,1.0,77.0,45.0,Santa Monica,CA,US
+2021-04-23 05:37:57,Apple,5.0,Data Scientist,400.0,11.0,3.0,155.0,35.0,Cupertino,CA,US
+2021-04-23 11:53:00,Ford Motor,3.0,Data Scientist,112.0,5.0,1.0,0.0,7.0,Dearborn,MI,US
+2021-04-23 12:50:34,Facebook,4.0,Data Scientist,217.0,3.0,0.0,45.0,15.0,Menlo Park,CA,US
+2021-04-23 15:28:15,Amazon,5.0,Data Scientist,201.0,5.0,2.0,30.0,20.0,Seattle,WA,US
+2021-04-24 00:26:48,Amazon,5.0,Data Scientist,214.0,5.0,2.0,43.0,31.0,Seattle,WA,US
+2021-04-24 15:31:56,JPMorgan Chase,603.0,Data Scientist,128.0,6.0,2.0,0.0,21.0,Columbus,OH,US
+2021-04-24 18:17:54,Intel,9.0,Data Scientist,236.0,8.0,8.0,47.0,30.0,Hillsboro,OR,US
+2021-04-26 11:37:37,Asana,5.0,Data Scientist,592.0,3.0,3.0,330.0,75.0,San Francisco,CA,US
+2021-04-26 14:54:34,Google,5.0,Data Scientist,336.0,9.0,0.0,128.0,27.0,Mountain View,CA,US
+2021-04-26 16:08:27,Optum,28.0,Data Scientist,130.0,13.0,13.0,0.0,12.0,Minneapolis,MN,US
+2021-04-26 17:48:28,Ford Motor,6.0,Data Scientist,154.0,16.0,16.0,0.0,19.0,Dearborn,MI,US
+2021-04-27 07:45:08,ViacomCBS,2.0,Data Scientist,102.0,4.0,2.0,0.0,2.0,New York,NY,US
+2021-04-27 08:24:38,Amazon ,5.0,Data Scientist,317.0,1.0,1.0,110.0,47.0,Seattle,WA,US
+2021-04-27 11:21:03,LinkedIn,2.0,Data Scientist,201.0,3.0,0.0,41.0,15.0,Sunnyvale,CA,US
+2021-04-27 18:44:15,Microsoft,64.0,Data Scientist,209.0,13.0,3.0,20.0,25.0,Seattle,WA,US
+2021-04-27 19:09:58,Target,6.0,Data Scientist,245.0,5.0,3.0,25.0,25.0,Sunnyvale,CA,US
+2021-04-27 20:18:06,Amazon,6.0,Data Scientist,339.0,4.0,2.0,154.0,0.0,New York,NY,US
+2021-04-27 21:02:42,McKinsey,4.0,Data Scientist,135.0,4.0,0.0,0.0,5.0,San Francisco,CA,US
+2021-04-28 13:49:34,Opendoor,5.0,Data Scientist,350.0,3.0,0.0,100.0,32.0,San Francisco,CA,US
+2021-04-28 17:07:13,Uber,4.0,Data Scientist,185.0,8.0,5.0,40.0,15.0,San Francisco,CA,US
+2021-04-28 18:04:25,Facebook,3.0,Data Scientist,165.0,0.0,0.0,40.0,11.0,Seattle,WA,US
+2021-04-28 22:17:17,Snap,4.0,Data Scientist,385.0,0.0,0.0,215.0,16.0,Los Angeles,CA,US
+2021-04-29 16:58:21,Facebook,5.0,Data Scientist,370.0,9.0,3.0,150.0,30.0,Seattle,WA,US
+2021-04-29 21:49:39,Amazon,5.0,Data Scientist,152.0,5.0,4.0,54.0,0.0,Seattle,WA,US
+2021-04-29 23:41:49,Square,4.0,Data Scientist,190.0,1.0,0.0,40.0,14.0,San Francisco,CA,US
+2021-04-30 11:57:53,Two Sigma,2.0,Data Scientist,120.0,4.0,4.0,0.0,25.0,Houston,TX,US
+2021-04-30 13:24:59,Microsoft,63.0,Data Scientist,248.0,3.0,2.0,60.0,21.0,Seattle,WA,US
+2021-04-30 15:45:53,Facebook,6.0,Data Scientist,360.0,7.0,7.0,100.0,40.0,Menlo Park,CA,US
+2021-05-01 14:58:16,Walmart,4.0,Data Scientist,139.0,1.0,1.0,25.0,16.0,Dallas,TX,US
+2021-05-01 17:09:52,CVS Health,3.0,Data Scientist,143.0,5.0,1.0,0.0,13.0,New York,NY,US
+2021-05-01 19:58:28,Stitch Fix,6.0,Data Scientist,580.0,16.0,3.0,300.0,0.0,San Francisco,CA,US
+2021-05-01 21:03:01,Carrier,1.0,Data Scientist,74.0,2.0,2.0,0.0,0.0,Boston,MA,US
+2021-05-02 23:35:31,Genentech,5.0,Data Scientist,350.0,5.0,5.0,82.0,50.0,South San Francisco,CA,US
+2021-05-03 12:09:32,Amazon,5.0,Data Scientist,225.0,7.0,2.0,50.0,30.0,Atlanta,GA,US
+2021-05-03 23:42:18,Stitch Fix,4.0,Data Scientist,240.0,5.0,1.0,50.0,0.0,San Francisco,CA,US
+2021-05-04 10:16:54,Walmart Labs,3.0,Data Scientist,160.0,6.0,1.0,10.0,20.0,Sunnyvale,CA,US
+2021-05-04 13:42:38,Google,4.0,Data Scientist,252.0,2.0,2.0,68.0,26.0,Mountain View,CA,US
+2021-05-05 13:26:30,MUFG,7.0,Data Scientist,300.0,15.0,3.0,25.0,75.0,San Francisco,CA,US
+2021-05-05 14:57:39,Capital One,5.0,Data Scientist,134.0,5.0,0.0,0.0,9.0,Washington,DC,US
+2021-05-05 17:55:10,Amazon,5.0,Data Scientist,190.0,10.0,2.0,41.0,40.0,Seattle,WA,US
+2021-05-05 21:57:16,Amazon,6.0,Data Scientist,400.0,10.0,5.0,240.0,0.0,Seattle,WA,US
+2021-05-06 15:44:52,IBM,7.0,Data Scientist,134.0,3.0,3.0,4.0,4.0,Austin,TX,US
+2021-05-06 16:57:10,Amazon,4.0,Data Scientist,160.0,4.0,0.0,40.0,10.0,Arlington,VA,US
+2021-05-06 23:11:06,Amazon,5.0,Data Scientist,340.0,7.0,0.0,90.0,75.0,San Francisco,CA,US
+2021-05-06 23:15:17,Facebook,6.0,Data Scientist,445.0,10.0,4.0,180.0,45.0,Mountain View,CA,US
+2021-05-07 12:06:04,Lenovo,7.0,Data Scientist,112.0,7.0,2.0,0.0,12.0,Raleigh,NC,US
+2021-05-08 10:57:21,Kohl's,5.0,Data Scientist,220.0,5.0,3.0,0.0,20.0,Milpitas,CA,US
+2021-05-08 17:30:08,Goldman Sachs,4.0,Data Scientist,195.0,6.0,2.0,0.0,50.0,New York,NY,US
+2021-05-08 19:24:28,Nielsen,2.0,Data Scientist,122.0,5.0,0.0,0.0,10.0,New York,NY,US
+2021-05-09 08:41:31,GE Aviation,1.0,Data Scientist,99.0,6.0,6.0,0.0,0.0,Boston,MA,US
+2021-05-09 08:50:04,Stitch Fix,4.0,Data Scientist,325.0,5.0,1.0,100.0,0.0,San Francisco,CA,US
+2021-05-09 19:59:24,Bayer,13.0,Data Scientist,205.0,6.0,0.0,0.0,40.0,Berkeley,CA,US
+2021-05-10 09:55:48,Cisco,8.0,Data Scientist,116.0,11.0,11.0,0.0,12.0,San Francisco,CA,US
+2021-05-10 13:54:22,Indeed,3.0,Data Scientist,257.0,8.0,3.0,40.0,19.0,San Francisco,CA,US
+2021-05-10 15:09:43,IBM,7.0,Data Scientist,135.0,7.0,2.0,0.0,0.0,Washington,DC,US
+2021-05-10 23:13:48,Uber,3.0,Data Scientist,182.0,2.0,0.0,31.0,14.0,San Francisco,CA,US
+2021-05-11 06:55:17,Liberty Mutual,16.0,Data Scientist,150.0,4.0,2.0,0.0,30.0,Boston,MA,US
+2021-05-11 12:02:57,Amazon,5.0,Data Scientist,266.0,7.0,1.0,48.0,34.0,New York,NY,US
+2021-05-11 15:10:41,Aetna,3.0,Data Scientist,150.0,3.0,2.0,0.0,10.0,New York,NY,US
+2021-05-11 16:41:22,Visa,5.0,Data Scientist,142.0,2.0,1.0,8.0,12.0,Foster City,CA,US
+2021-05-11 19:03:59,Uber,4.0,Data Scientist,245.0,1.0,1.0,70.0,25.0,San Francisco,CA,US
+2021-05-12 11:58:34,IBM,7.0,Data Scientist,140.0,2.0,2.0,0.0,34.0,New York,NY,US
+2021-05-12 12:49:19,Turo,2.0,Data Scientist,120.0,3.0,3.0,0.0,0.0,San Francisco,CA,US
+2021-05-12 14:51:38,IBM,6.0,Data Scientist,123.0,3.0,1.0,0.0,0.0,Armonk,NY,US
+2021-05-12 16:30:09,Intel,9.0,Data Scientist,239.0,11.0,11.0,47.0,30.0,Hillsboro,OR,US
+2021-05-12 20:49:46,Facebook,5.0,Data Scientist,300.0,10.0,0.0,100.0,20.0,San Francisco,CA,US
+2021-05-12 23:19:34,hitachi,5.0,Data Scientist,152.0,2.0,2.0,0.0,8.0,Santa Clara,CA,US
+2021-05-13 09:39:49,AT&T,2.0,Data Scientist,185.0,5.0,1.0,0.0,20.0,Los Angeles,CA,US
+2021-05-13 10:28:15,Squarespace,3.0,Data Scientist,143.0,6.0,2.0,8.0,0.0,New York,NY,US
+2021-05-14 14:33:44,Amazon,4.0,Data Scientist,154.0,3.0,2.0,3.0,16.0,Seattle,WA,US
+2021-05-14 14:39:01,Amazon,5.0,Data Scientist,238.0,3.0,0.0,46.0,39.0,Seattle,WA,US
+2021-05-14 16:37:07,Genentech,4.0,Data Scientist,274.0,2.0,2.0,46.0,45.0,San Francisco,CA,US
+2021-05-14 23:37:04,Genentech,4.0,Data Scientist,275.0,3.0,3.0,45.0,50.0,San Francisco,CA,US
+2021-05-17 07:56:49,Google,6.0,Data Scientist,570.0,12.0,1.0,300.0,40.0,Mountain View,CA,US
+2021-05-17 09:50:43,Discover Financial Services,8.0,Data Scientist,145.0,5.0,2.0,0.0,13.0,Chicago Heights,IL,US
+2021-05-17 09:54:27,Chime ,3.0,Data Scientist,130.0,3.0,1.0,0.0,0.0,San Francisco,CA,US
+2021-05-17 15:26:20,Shopify,6.0,Data Scientist,200.0,5.0,0.0,40.0,0.0,Charlotte,NC,US
+2021-05-17 15:49:04,Robinhood,3.0,Data Scientist,426.0,4.0,0.0,184.0,22.0,Menlo Park,CA,US
+2021-05-17 16:39:46,Square,5.0,Data Scientist,227.0,3.0,0.0,65.0,10.0,New York,NY,US
+2021-05-17 18:00:05,Walmart,6.0,Data Scientist,400.0,10.0,6.0,150.0,50.0,San Bruno,CA,US
+2021-05-18 10:08:27,Cisco,9.0,Data Scientist,200.0,5.0,1.0,15.0,20.0,San Francisco,CA,US
+2021-05-18 11:25:44,Cisco,4.0,Data Scientist,90.0,2.0,2.0,1.0,6.0,San Jose,CA,US
+2021-05-18 11:27:22,Cisco,6.0,Data Scientist,115.0,3.0,2.0,10.0,8.0,San Jose,CA,US
+2021-05-19 15:55:20,Booz Allen Hamilton,5.0,Data Scientist,91.0,6.0,1.0,0.0,0.0,Atlanta,GA,US
+2021-05-19 16:01:03,Walmart Labs,6.0,Data Scientist,425.0,9.0,6.0,150.0,55.0,Sunnyvale,CA,US
+2021-05-19 16:22:50,Facebook,4.0,Data Scientist,278.0,2.0,2.0,80.0,10.0,Menlo Park,CA,US
+2021-05-19 19:55:40,Nextdoor,3.0,Data Scientist,250.0,3.0,3.0,80.0,0.0,San Francisco,CA,US
+2021-05-19 21:38:40,BNP Paribas,4.0,Data Scientist,115.0,2.0,0.0,0.0,0.0,New York,NY,US
+2021-05-20 19:01:25,Amazon,5.0,Data Scientist,330.0,6.0,4.0,150.0,0.0,San Francisco,CA,US
+2021-05-20 21:44:04,Yahoo,5.0,Data Scientist,270.0,15.0,10.0,70.0,25.0,Sunnyvale,CA,US
+2021-05-21 14:02:34,Grubhub,4.0,Data Scientist,168.0,4.0,4.0,25.0,0.0,New York,NY,US
+2021-05-21 21:09:11,Edwards Lifesciences,4.0,Data Scientist,225.0,5.0,1.0,50.0,15.0,Menlo Park,CA,US
+2021-05-22 09:46:15,HBO,5.0,Data Scientist,250.0,4.0,1.0,75.0,20.0,Los Angeles,CA,US
+2021-05-23 15:19:41,Goldman Sachs,8.0,Data Scientist,235.0,7.0,7.0,0.0,50.0,New York,NY,US
+2021-05-23 16:25:45,Workday,4.0,Data Scientist,265.0,5.0,2.0,95.0,5.0,Boulder,CO,US
+2021-05-23 21:00:55,Instacart,9.0,Data Scientist,1000.0,16.0,1.0,700.0,0.0,San Francisco,CA,US
+2021-05-23 21:13:01,Slack,5.0,Data Scientist,477.0,4.0,2.0,263.0,28.0,San Francisco,CA,US
+2021-05-24 01:23:06,Facebook,3.0,Data Scientist,157.0,1.0,1.0,25.0,12.0,Menlo Park,CA,US
+2021-05-24 06:16:24,Fidelity Investments,6.0,Data Scientist,181.0,5.0,1.0,0.0,36.0,Boston,MA,US
+2021-05-24 09:41:22,WarnerMedia,2.0,Data Scientist,128.0,2.0,2.0,0.0,8.0,New York,NY,US
+2021-05-24 10:10:08,GoDaddy,4.0,Data Scientist,198.0,11.0,4.0,25.0,23.0,Seattle,WA,US
+2021-05-24 11:32:45,AT&T,4.0,Data Scientist,325.0,10.0,8.0,52.0,45.0,Palo Alto,CA,US
+2021-05-24 15:28:39,Chime,4.0,Data Scientist,293.0,5.0,1.0,100.0,18.0,San Francisco,CA,US
+2021-05-24 15:49:36,Squarespace ,4.0,Data Scientist,165.0,5.0,1.0,20.0,0.0,New York,NY,US
+2021-05-24 19:17:47,Amazon,4.0,Data Scientist,150.0,2.0,2.0,38.0,0.0,San Francisco,CA,US
+2021-05-25 11:55:59,Oracle,3.0,Data Scientist,215.0,5.0,1.0,47.0,13.0,Austin,TX,US
+2021-05-26 12:13:44,Walmart,5.0,Data Scientist,240.0,11.0,2.0,75.0,28.0,Bentonville,AR,US
+2021-05-27 13:38:48,Facebook,5.0,Data Scientist,320.0,5.0,3.0,110.0,27.0,Seattle,WA,US
+2021-05-27 17:14:23,Capital One,4.0,Data Scientist,125.0,1.0,0.0,13.0,8.0,Plano,TX,US
+2021-05-27 21:13:39,Square,6.0,Data Scientist,250.0,5.0,0.0,80.0,0.0,Seattle,WA,US
+2021-05-28 06:54:44,Walmart Labs,7.0,Data Scientist,366.0,12.0,6.0,125.0,55.0,Bentonville,AR,US
+2021-05-28 06:59:53,Oracle,3.0,Data Scientist,148.0,4.0,4.0,16.0,0.0,Denver,CO,US
+2021-05-28 07:35:54,Citi,4.0,Data Scientist,105.0,0.0,0.0,0.0,10.0,Oklahoma City,OK,US
+2021-05-28 07:57:08,SAP,2.0,Data Scientist,146.0,1.0,1.0,8.0,13.0,Newport Beach,CA,US
+2021-05-28 11:08:59,Instacart,5.0,Data Scientist,395.0,4.0,0.0,200.0,0.0,San Francisco,CA,US
+2021-05-28 18:08:19,Amazon,5.0,Data Scientist,235.0,3.0,0.0,42.0,33.0,Seattle,WA,US
+2021-05-29 09:41:36,Deloitte,4.0,Data Scientist,97.0,3.0,0.0,0.0,0.0,Orlando,FL,US
+2021-05-30 10:16:17,Bayer,4.0,Data Scientist,155.0,1.0,1.0,0.0,30.0,New York,NY,US
+2021-05-30 12:21:00,Facebook,4.0,Data Scientist,211.0,5.0,0.0,40.0,16.0,Seattle,WA,US
+2021-05-31 06:18:01,IBM,6.0,Data Scientist,101.0,1.0,1.0,0.0,10.0,Chicago,IL,US
+2021-05-31 15:26:51,illumina,4.0,Data Scientist,197.0,0.0,0.0,10.0,17.0,Foster City,CA,US
+2021-05-31 17:17:37,The Hartford,3.0,Data Scientist,131.0,5.0,5.0,0.0,16.0,Hartford,CT,US
+2021-05-31 20:20:28,Adobe,4.0,Data Scientist,350.0,7.0,4.0,150.0,40.0,San Francisco,CA,US
+2021-06-01 13:05:28,Indeed,2.0,Data Scientist,210.0,3.0,2.0,20.0,27.0,New York,NY,US
+2021-06-01 14:18:36,CVS Health,410.0,Data Scientist,167.0,7.0,4.0,15.0,20.0,Woonsocket,RI,US
+2021-06-01 15:27:03,Dell Technologies,7.0,Data Scientist,106.0,3.0,3.0,0.0,8.0,Austin,TX,US
+2021-06-01 16:19:52,Walmart Labs,5.0,Data Scientist,322.0,4.0,0.0,100.0,37.0,Sunnyvale,CA,US
+2021-06-01 23:43:35,Lyft,5.0,Data Scientist,680.0,6.0,1.0,480.0,0.0,San Francisco,CA,US
+2021-06-02 07:11:45,Zappos,1.0,Data Scientist,119.0,3.0,0.0,0.0,0.0,Las Vegas,NV,US
+2021-06-02 08:35:49,Grubhub,3.0,Data Scientist,210.0,9.0,2.0,50.0,0.0,Raleigh,NC,US
+2021-06-02 13:11:51,Amazon,4.0,Data Scientist,165.0,3.0,0.0,25.0,0.0,Seattle,WA,US
+2021-06-02 15:29:20,American Express,35.0,Data Scientist,130.0,2.0,2.0,0.0,15.0,New York,NY,US
+2021-06-02 19:02:13,Google,5.0,Data Scientist,332.0,5.0,0.0,117.0,28.0,New York,NY,US
+2021-06-02 20:01:50,Discover,3.0,Data Scientist,120.0,4.0,2.0,0.0,7.0,Chicago,IL,US
+2021-06-02 23:00:36,Amazon,6.0,Data Scientist,270.0,5.0,4.0,125.0,0.0,Seattle,WA,US
+2021-06-03 07:08:29,Microsoft,62.0,Data Scientist,210.0,2.0,2.0,38.0,34.0,Redmond,UT,US
+2021-06-03 11:13:25,Southwest Airlines,4.0,Data Scientist,108.0,7.0,6.0,0.0,7.0,Dallas,TX,US
+2021-06-03 18:19:25,IBM,6.0,Data Scientist,110.0,2.0,2.0,0.0,10.0,San Jose,CA,US
+2021-06-03 19:56:52,Ernst and Young,5.0,Data Scientist,129.0,6.0,0.0,0.0,12.0,Dallas,TX,US
+2021-06-03 22:33:55,Cisco,12.0,Data Scientist,310.0,6.0,0.0,48.0,53.0,San Jose,CA,US
+2021-06-04 03:08:25,Deloitte,5.0,Data Scientist,133.0,5.0,3.0,0.0,13.0,Washington,DC,US
+2021-06-04 10:29:05,Amazon,5.0,Data Scientist,230.0,5.0,1.0,58.0,25.0,Seattle,WA,US
+2021-06-04 10:31:32,Boston Consulting Group,2.0,Data Scientist,156.0,6.0,3.0,0.0,12.0,Washington,DC,US
+2021-06-04 10:58:50,Dell Technologies,8.0,Data Scientist,200.0,6.0,2.0,10.0,40.0,Austin,TX,US
+2021-06-04 12:24:47,Shopify,6.0,Data Scientist,220.0,4.0,0.0,40.0,0.0,New York,NY,US
+2021-06-04 13:48:17,SAP,2.0,Data Scientist,140.0,1.0,1.0,8.0,12.0,Newport Beach,CA,US
+2021-06-04 15:04:49,Salesforce,4.0,Data Scientist,185.0,5.0,3.0,10.0,23.0,New York,NY,US
+2021-06-04 18:00:19,IBM,9.0,Data Scientist,163.0,20.0,20.0,0.0,4.0,Colorado Springs,CO,US
+2021-06-04 19:27:32,Northrop Grumman,5.0,Data Scientist,156.0,13.0,1.0,0.0,0.0,Huntsville,AL,US
+2021-06-04 19:39:27,Synechron,3.0,Data Scientist,85.0,3.0,2.0,0.0,0.0,Charlotte,NC,US
+2021-06-05 16:35:40,Prudential Financial,10.0,Data Scientist,135.0,3.0,0.0,0.0,15.0,Sunnyvale,CA,US
+2021-06-05 19:54:14,S&P Global,12.0,Data Scientist,208.0,8.0,1.0,0.0,28.0,New York,NY,US
+2021-06-06 19:01:21,Capital One,4.0,Data Scientist,135.0,3.0,0.0,6.0,12.0,Richmond,VA,US
+2021-06-06 21:18:46,Facebook,3.0,Data Scientist,167.0,4.0,3.0,30.0,15.0,Seattle,WA,US
+2021-06-07 08:03:06,Facebook,4.0,Data Scientist,182.0,3.0,0.0,23.0,15.0,New York,NY,US
+2021-06-07 10:28:58,KPMG,4.0,Data Scientist,95.0,2.0,2.0,0.0,0.0,New York,NY,US
+2021-06-07 12:28:08,Uber,3.0,Data Scientist,192.0,0.0,0.0,41.0,14.0,San Francisco,CA,US
+2021-06-07 13:51:17,Apple,5.0,Data Scientist,304.0,6.0,6.0,115.0,20.0,Cupertino,CA,US
+2021-06-07 19:12:37,Facebook,4.0,Data Scientist,242.0,4.0,0.0,60.0,17.0,New York,NY,US
+2021-06-07 19:45:42,Amazon,5.0,Data Scientist,259.0,5.0,0.0,33.0,41.0,Palo Alto,CA,US
+2021-06-08 08:19:35,IBM,8.0,Data Scientist,170.0,2.0,2.0,0.0,0.0,Armonk,NY,US
+2021-06-08 12:03:25,Facebook,6.0,Data Scientist,464.0,8.0,5.0,200.0,44.0,San Francisco,CA,US
+2021-06-08 13:22:08,Poshmark,2.0,Data Scientist,170.0,4.0,2.0,30.0,0.0,Redwood City,CA,US
+2021-06-08 14:53:29,Deloitte,5.0,Data Scientist,137.0,4.0,1.0,0.0,2.0,Washington,DC,US
+2021-06-08 16:46:59,Oracle,4.0,Data Scientist,120.0,3.0,1.0,0.0,0.0,Herndon,VA,US
+2021-06-08 18:02:42,Intuit,2.0,Data Scientist,145.0,4.0,1.0,15.0,10.0,Mountain View,CA,US
+2021-06-08 20:28:14,Intuit,5.0,Data Scientist,190.0,4.0,0.0,30.0,20.0,Mountain View,CA,US
+2021-06-08 22:09:32,Google,3.0,Data Scientist,110.0,1.0,1.0,20.0,10.0,Seattle,WA,US
+2021-06-09 22:18:57,Facebook,5.0,Data Scientist,272.0,16.0,0.0,65.0,27.0,Seattle,WA,US
+2021-06-10 11:03:31,Verizon Media,2.0,Data Scientist,160.0,5.0,3.0,15.0,15.0,Los Angeles,CA,US
+2021-06-10 11:56:18,Facebook,4.0,Data Scientist,210.0,2.0,0.0,45.0,15.0,Seattle,WA,US
+2021-06-10 14:10:03,Capital One,5.0,Data Scientist,120.0,10.0,8.0,2.0,8.0,Richmond,VA,US
+2021-06-10 16:52:44,facebook,4.0,Data Scientist,226.0,1.0,1.0,50.0,16.0,Menlo Park,CA,US
+2021-06-10 17:12:12,Qualtrics,3.0,Data Scientist,89.0,1.0,1.0,3.0,4.0,Provo,UT,US
+2021-06-11 11:38:28,Twitch,5.0,Data Scientist,200.0,7.0,3.0,60.0,0.0,San Francisco,CA,US
+2021-06-11 20:10:41,Apple,3.0,Data Scientist,174.0,5.0,1.0,25.0,14.0,Austin,TX,US
+2021-06-12 05:47:32,JPMorgan Chase,8.0,Data Scientist,200.0,34.0,4.0,5.0,60.0,New York,NY,US
+2021-06-12 10:06:05,IBM,7.0,Data Scientist,119.0,6.0,3.0,0.0,0.0,Raleigh,NC,US
+2021-06-12 21:04:56,Apple,3.0,Data Scientist,225.0,4.0,1.0,50.0,15.0,Cupertino,CA,US
+2021-06-13 14:18:00,PwC,7.0,Data Scientist,276.0,7.0,4.0,60.0,12.0,San Francisco,CA,US
+2021-06-13 14:22:55,PwC,5.0,Data Scientist,90.0,4.0,4.0,0.0,15.0,Charlotte,NC,US
+2021-06-13 17:25:52,Stitch Fix,5.0,Data Scientist,200.0,5.0,0.0,30.0,0.0,San Francisco,CA,US
+2021-06-14 13:08:24,SquareSpace,3.0,Data Scientist,155.0,2.0,2.0,23.0,0.0,New York,NY,US
+2021-06-14 14:21:27,Walmart Labs,6.0,Data Scientist,320.0,5.0,3.0,100.0,36.0,Sunnyvale,CA,US
+2021-06-14 16:27:09,Amazon,5.0,Data Scientist,193.0,6.0,4.0,36.0,18.0,Seattle,WA,US
+2021-06-15 07:54:11,Visa,5.0,Data Scientist,285.0,3.0,3.0,50.0,25.0,San Francisco,CA,US
+2021-06-15 13:04:47,TransUnion,3.0,Data Scientist,123.0,8.0,4.0,0.0,15.0,Chicago,IL,US
+2021-06-15 15:23:31,Amazon,5.0,Data Scientist,431.0,3.0,3.0,226.0,45.0,Seattle,WA,US
+2021-06-15 16:35:04,Facebook,5.0,Data Scientist,255.0,6.0,0.0,65.0,25.0,Tulsa,OK,US
+2021-06-16 06:41:06,Amazon,5.0,Data Scientist,204.0,2.0,0.0,30.0,22.0,Atlanta,GA,US
+2021-06-16 09:22:47,Bank of America Merrill Lynch,5.0,Data Scientist,97.0,2.0,1.0,0.0,0.0,New York,NY,US
+2021-06-16 09:53:28,Convoy,4.0,Data Scientist,148.0,4.0,0.0,25.0,0.0,Seattle,WA,US
+2021-06-16 17:12:34,Siemens,9.0,Data Scientist,70.0,2.0,1.0,0.0,0.0,Mississippi State,MS,US
+2021-06-16 18:27:38,Facebook,6.0,Data Scientist,165.0,4.0,1.0,5.0,10.0,Chicago,IL,US
+2021-06-16 20:30:57,Uber,3.0,Data Scientist,190.0,4.0,0.0,35.0,25.0,Sunnyvale,CA,US
+2021-06-17 10:54:40,Deloitte,5.0,Data Scientist,170.0,10.0,1.0,0.0,19.0,Arlington,VA,US
+2021-06-17 12:12:30,IBM,8.0,Data Scientist,182.0,5.0,3.0,0.0,0.0,New York,NY,US
+2021-06-17 14:59:47,Western Digital,107.0,Data Scientist,174.0,5.0,3.0,20.0,14.0,Milpitas,CA,US
+2021-06-17 15:17:16,Magic Leap,2.0,Data Scientist,150.0,4.0,3.0,0.0,0.0,San Francisco,CA,US
+2021-06-18 10:24:23,Capital One,5.0,Data Scientist,157.0,5.0,2.0,0.0,15.0,Arlington,VA,US
+2021-06-18 11:00:29,Walmart,4.0,Data Scientist,180.0,8.0,0.0,40.0,25.0,Bentonville,AR,US
+2021-06-18 12:30:15,JPMorgan Chase,603.0,Data Scientist,148.0,3.0,2.0,0.0,20.0,Columbus,OH,US
+2021-06-18 13:14:51,IBM,7.0,Data Scientist,140.0,2.0,2.0,0.0,0.0,Armonk,NY,US
+2021-06-18 20:57:04,Procter & Gamble,1.0,Data Scientist,120.0,1.0,0.0,0.0,0.0,Cincinnati,OH,US
+2021-06-18 22:27:59,IBM,9.0,Data Scientist,200.0,8.0,5.0,10.0,5.0,Austin,TX,US
+2021-06-19 14:29:28,Apple,4.0,Data Scientist,227.0,7.0,0.0,40.0,17.0,Cupertino,CA,US
+2021-06-20 00:10:36,Vanguard,3.0,Data Scientist,167.0,4.0,0.0,0.0,28.0,Philadelphia,PA,US
+2021-06-20 19:02:34,Ultimate Software,4.0,Data Scientist,178.0,4.0,2.0,10.0,8.0,Miami,FL,US
+2021-06-20 19:10:39,Disney,5.0,Data Scientist,141.0,6.0,6.0,0.0,25.0,Orlando,FL,US
+2021-06-20 19:32:52,LinkedIn,3.0,Data Scientist,186.0,1.0,0.0,38.0,14.0,Sunnyvale,CA,US
+2021-06-21 01:00:36,Stripe,3.0,Data Scientist,463.0,7.0,0.0,214.0,33.0,San Francisco,CA,US
+2021-06-21 10:31:24,JPMorgan Chase,4.0,Data Scientist,125.0,2.0,2.0,0.0,25.0,New York,NY,US
+2021-06-21 13:33:42,ByteDance,22.0,Data Scientist,283.0,4.0,0.0,48.0,26.0,Mountain View,CA,US
+2021-06-22 08:16:30,Intel,6.0,Data Scientist,130.0,4.0,4.0,18.0,6.0,Portland,OR,US
+2021-06-22 10:31:48,Amazon,6.0,Data Scientist,360.0,10.0,4.0,170.0,30.0,Seattle,WA,US
+2021-06-22 11:43:04,Microsoft,61.0,Data Scientist,160.0,15.0,7.0,20.0,20.0,Atlanta,GA,US
+2021-06-22 13:35:22,AT&T,2.0,Data Scientist,114.0,3.0,2.0,0.0,11.0,Dallas,TX,US
+2021-06-22 14:20:41,General Motors,8.0,Data Scientist,184.0,3.0,3.0,0.0,28.0,Detroit,MI,US
+2021-06-22 15:00:18,State Farm,1.0,Data Scientist,95.0,2.0,1.0,0.0,10.0,Bloomington,IL,US
+2021-06-22 15:46:18,Optum,28.0,Data Scientist,140.0,4.0,4.0,0.0,10.0,Basking Ridge,NJ,US
+2021-06-22 21:00:18,Facebook,4.0,Data Scientist,270.0,1.0,1.0,100.0,15.0,Menlo Park,CA,US
+2021-06-23 01:57:52,Google,4.0,Data Scientist,130.0,2.0,2.0,3.0,27.0,Hawaiian Gardens,CA,US
+2021-06-23 07:24:22,Capital One,7.0,Data Scientist,286.0,10.0,2.0,31.0,35.0,Fairfax,VA,US
+2021-06-23 13:14:32,TransUnion,4.0,Data Scientist,120.0,2.0,2.0,0.0,14.0,Boca Raton,FL,US
+2021-06-23 13:39:23,Accenture,11.0,Data Scientist,34.0,0.0,0.0,0.0,0.0,Dublin,NH,US
+2021-06-23 16:19:22,Facebook,5.0,Data Scientist,280.0,8.0,2.0,62.0,29.0,Menlo Park,CA,US
+2021-06-23 18:45:44,Liberty Mutual,15.0,Data Scientist,118.0,5.0,5.0,0.0,8.0,Boston,MA,US
+2021-06-24 07:27:14,Fidelity Investments,6.0,Data Scientist,176.0,2.0,0.0,0.0,31.0,Boston,MA,US
+2021-06-24 12:46:42,Walmart Labs,5.0,Data Scientist,332.0,4.0,2.0,100.0,41.0,Sunnyvale,CA,US
+2021-06-24 18:12:05,Walmart Labs,3.0,Data Scientist,193.0,2.0,0.0,25.0,23.0,Seattle,WA,US
+2021-06-24 20:31:40,Fannie Mae,2.0,Data Scientist,120.0,5.0,4.0,0.0,10.0,Washington,DC,US
+2021-06-24 22:10:57,Yahoo,3.0,Data Scientist,254.0,3.0,3.0,51.0,25.0,Sunnyvale,CA,US
+2021-06-25 07:54:02,Adobe,2.0,Data Scientist,199.0,2.0,0.0,35.0,15.0,San Jose,CA,US
+2021-06-25 09:07:55,Oracle,2.0,Data Scientist,140.0,2.0,2.0,20.0,0.0,Denver,CO,US
+2021-06-25 10:56:18,Ellie Mae,3.0,Data Scientist,139.0,2.0,2.0,8.0,0.0,Pleasanton,CA,US
+2021-06-25 15:17:01,Instacart,6.0,Data Scientist,488.0,15.0,0.0,263.0,0.0,San Francisco,CA,US
+2021-06-25 16:04:23,Microsoft,65.0,Data Scientist,290.0,14.0,14.0,45.0,45.0,Seattle,WA,US
+2021-06-25 19:40:16,C3.ai,4.0,Data Scientist,186.0,0.0,0.0,25.0,21.0,Redwood City,CA,US
+2021-06-25 22:52:52,Netflix,5.0,Data Scientist,525.0,6.0,2.0,0.0,0.0,Los Gatos,CA,US
+2021-06-26 08:00:49,Google,3.0,Data Scientist,197.0,3.0,2.0,55.0,22.0,San Francisco,CA,US
+2021-06-26 15:01:04,Apple,4.0,Data Scientist,228.0,8.0,0.0,42.0,10.0,Austin,TX,US
+2021-06-26 17:01:17,Microsoft,62.0,Data Scientist,256.0,4.0,0.0,56.0,40.0,San Francisco,CA,US
+2021-06-26 18:52:18,McAfee,5.0,Data Scientist,241.0,10.0,1.0,25.0,30.0,San Jose,CA,US
+2021-06-27 10:16:38,eBay,25.0,Data Scientist,260.0,7.0,7.0,81.0,17.0,Seattle,WA,US
+2021-06-27 19:06:47,Nielsen,3.0,Data Scientist,87.0,3.0,2.0,0.0,0.0,Columbia,MD,US
+2021-06-27 19:42:09,Lyft,5.0,Data Scientist,309.0,5.0,1.0,150.0,0.0,San Francisco,CA,US
+2021-06-27 23:05:46,Facebook,4.0,Data Scientist,226.0,10.0,2.0,50.0,16.0,Fremont,CA,US
+2021-06-28 15:52:37,Capital One,5.0,Data Scientist,170.0,4.0,2.0,0.0,13.0,Arlington,VA,US
+2021-06-28 20:49:46,Facebook,4.0,Data Scientist,238.0,3.0,0.0,60.0,16.0,Menlo Park,CA,US
+2021-06-28 21:02:19,Amazon,5.0,Data Scientist,230.0,5.0,1.0,60.0,15.0,Atlanta,GA,US
+2021-06-29 09:19:00,Facebook,4.0,Data Scientist,250.0,2.0,2.0,72.0,30.0,Seattle,WA,US
+2021-06-29 20:55:54,CVS Health,3.0,Data Scientist,141.0,1.0,1.0,0.0,16.0,Chicago,IL,US
+2021-06-29 23:18:08,GitHub,4.0,Data Scientist,350.0,10.0,3.0,120.0,40.0,San Francisco,CA,US
+2021-06-29 23:55:22,Asana,4.0,Data Scientist,205.0,2.0,2.0,50.0,0.0,San Francisco,CA,US
+2021-06-30 00:00:20,Microsoft,60.0,Data Scientist,159.0,1.0,0.0,30.0,10.0,Redmond,WA,US
+2021-06-30 13:30:09,Raytheon Technologies,5.0,Data Scientist,176.0,5.0,1.0,0.0,16.0,Atlanta,GA,US
+2021-06-30 18:02:04,DoorDash,1.0,Data Scientist,198.0,1.0,1.0,38.0,0.0,San Francisco,CA,US
+2021-06-30 23:00:19,Chime,4.0,Data Scientist,295.0,2.0,0.0,130.0,15.0,San Francisco,CA,US
+2021-07-01 07:00:01,Google,3.0,Data Scientist,250.0,1.0,1.0,40.0,35.0,San Francisco,CA,US
+2021-07-01 07:37:28,Wayfair,2.0,Data Scientist,168.0,2.0,2.0,30.0,13.0,Boston,MA,US
+2021-07-01 12:30:34,Apple,4.0,Data Scientist,225.0,8.0,8.0,81.0,8.0,Cupertino,CA,US
+2021-07-01 12:54:11,Adobe,2.0,Data Scientist,195.0,2.0,0.0,35.0,15.0,San Jose,CA,US
+2021-07-01 13:03:15,Facebook,4.0,Data Scientist,246.0,2.0,2.0,70.0,16.0,Menlo Park,CA,US
+2021-07-01 13:38:16,Allstate,3.0,Data Scientist,100.0,4.0,4.0,0.0,0.0,Dallas,TX,US
+2021-07-01 17:44:48,Liberty Mutual,19.0,Data Scientist,210.0,15.0,2.0,0.0,20.0,Boston,MA,US
+2021-07-02 14:54:05,Amazon,6.0,Data Scientist,192.0,7.0,1.0,23.0,20.0,Seattle,WA,US
+2021-07-02 15:01:26,Amazon,5.0,Data Scientist,172.0,7.0,1.0,32.0,15.0,Los Angeles,CA,US
+2021-07-03 11:41:22,Booz Allen Hamilton,4.0,Data Scientist,120.0,5.0,0.0,0.0,0.0,Arlington,VA,US
+2021-07-03 12:51:34,Lockheed Martin,5.0,Data Scientist,221.0,14.0,13.0,0.0,17.0,King of Prussia,PA,US
+2021-07-04 22:12:08,Microsoft,62.0,Data Scientist,165.0,5.0,5.0,8.0,14.0,Seattle,WA,US
+2021-07-05 13:48:06,Microsoft,61.0,Data Scientist,190.0,1.0,1.0,40.0,15.0,Cambridge,MA,US
+2021-07-05 16:54:15,Uber,4.0,Data Scientist,259.0,2.0,2.0,79.0,30.0,San Francisco,CA,US
+2021-07-05 18:21:22,Point72,7.0,Data Scientist,650.0,8.0,0.0,0.0,350.0,New York,NY,US
+2021-07-05 20:45:43,PwC,4.0,Data Scientist,81.0,0.0,0.0,0.0,11.0,Dallas,TX,US
+2021-07-06 00:01:54,Facebook,5.0,Data Scientist,300.0,5.0,2.0,89.0,20.0,Menlo Park,CA,US
+2021-07-06 11:40:18,Zillow,5.0,Data Scientist,233.0,6.0,3.0,70.0,0.0,Seattle,WA,US
+2021-07-06 16:01:52,PayPal,25.0,Data Scientist,250.0,5.0,2.0,60.0,20.0,San Jose,CA,US
+2021-07-06 19:24:40,ResMed,4.0,Data Scientist,176.0,5.0,1.0,0.0,16.0,San Diego,CA,US
+2021-07-06 20:14:51,JPMorgan Chase,4.0,Data Scientist,150.0,2.0,2.0,0.0,20.0,New York,NY,US
+2021-07-07 07:36:05,Facebook,6.0,Data Scientist,385.0,14.0,0.0,125.0,40.0,Menlo Park,CA,US
+2021-07-07 08:19:54,McKinsey,4.0,Data Scientist,140.0,2.0,2.0,0.0,15.0,Boston,MA,US
+2021-07-07 13:48:17,Twilio,5.0,Data Scientist,415.0,12.0,0.0,175.0,0.0,San Francisco,CA,US
+2021-07-07 18:38:39,Microsoft,62.0,Data Scientist,181.0,3.0,3.0,25.0,15.0,Seattle,WA,US
+2021-07-07 23:55:42,Deloitte,5.0,Data Scientist,175.0,9.0,3.0,0.0,20.0,San Jose,CA,US
+2021-07-08 12:25:06,Accenture,11.0,Data Scientist,112.0,0.0,0.0,0.0,10.0,New York,NY,US
+2021-07-08 15:10:36,Intuit,4.0,Data Scientist,249.0,14.0,1.0,45.0,34.0,San Francisco,CA,US
+2021-07-08 15:19:26,WarnerMedia,1.0,Data Scientist,116.0,1.0,0.0,0.0,6.0,Los Angeles,CA,US
+2021-07-08 23:19:00,Prudential Financial,11.0,Data Scientist,130.0,1.0,0.0,0.0,25.0,Newark,NJ,US
+2021-07-08 23:22:51,Microsoft,62.0,Data Scientist,212.0,2.0,2.0,58.0,19.0,Redmond,WA,US
+2021-07-09 11:58:02,Stitch Fix,5.0,Data Scientist,578.0,5.0,2.0,318.0,0.0,San Francisco,CA,US
+2021-07-09 14:42:37,Instacart,6.0,Data Scientist,485.0,6.0,0.0,225.0,40.0,San Francisco,CA,US
+2021-07-09 15:07:09,IBM,9.0,Data Scientist,149.0,20.0,19.0,0.0,4.0,Colorado Springs,CO,US
+2021-07-09 18:28:30,Indeed,2.0,Data Scientist,190.0,5.0,0.0,20.0,20.0,Seattle,WA,US
+2021-07-09 19:19:48,Amazon,5.0,Data Scientist,180.0,4.0,2.0,40.0,12.0,Seattle,WA,US
+2021-07-09 19:55:11,IBM,7.0,Data Scientist,130.0,3.0,0.0,0.0,0.0,Atlanta,GA,US
+2021-07-09 20:31:22,Amazon,5.0,Data Scientist,260.0,6.0,1.0,77.0,29.0,Seattle,WA,US
+2021-07-10 06:23:30,Amazon,5.0,Data Scientist,213.0,9.0,4.0,70.0,10.0,Seattle,WA,US
+2021-07-11 09:53:45,Wells Fargo,1.0,Data Scientist,145.0,0.0,0.0,0.0,32.0,Charlotte,NC,US
+2021-07-11 17:06:00,Nvidia,2.0,Data Scientist,168.0,2.0,2.0,30.0,0.0,Santa Clara,CA,US
+2021-07-11 18:38:24,Deloitte,4.0,Data Scientist,110.0,6.0,2.0,0.0,10.0,Arlington,VA,US
+2021-07-11 23:12:39,Intel,7.0,Data Scientist,183.0,0.0,0.0,17.0,28.0,Portland,OR,US
+2021-07-12 10:55:49,Snap,4.0,Data Scientist,231.0,5.0,1.0,50.0,17.0,Los Angeles,CA,US
+2021-07-12 15:41:11,ebay,24.0,Data Scientist,227.0,3.0,3.0,40.0,17.0,San Jose,CA,US
+2021-07-12 18:05:21,Blackstone,4.0,Data Scientist,140.0,1.0,1.0,0.0,20.0,San Francisco,CA,US
+2021-07-13 11:47:35,Accenture,11.0,Data Scientist,16.0,0.0,0.0,0.0,3.0,Indianapolis,IN,US
+2021-07-13 17:44:04,Allstate,6.0,Data Scientist,157.0,6.0,2.0,0.0,15.0,Chicago,IL,US
+2021-07-13 17:54:20,Cisco,10.0,Data Scientist,245.0,4.0,0.0,25.0,25.0,New York,NY,US
+2021-07-13 20:00:47,Ernst and Young,4.0,Data Scientist,78.0,1.0,1.0,0.0,8.0,Atlanta,GA,US
+2021-07-13 21:38:58,Netflix,5.0,Data Scientist,505.0,3.0,3.0,0.0,0.0,Los Gatos,CA,US
+2021-07-13 22:41:42,Amazon,5.0,Data Scientist,246.0,5.0,2.0,40.0,46.0,Seattle,WA,US
+2021-07-14 03:53:16,Walmart Labs,4.0,Data Scientist,243.0,2.0,0.0,23.0,50.0,Sunnyvale,CA,US
+2021-07-14 06:49:19,Facebook,5.0,Data Scientist,300.0,7.0,0.0,81.0,29.0,San Francisco,CA,US
+2021-07-14 07:45:59,IBM,10.0,Data Scientist,303.0,15.0,3.0,0.0,17.0,New York,NY,US
+2021-07-14 09:25:22,CVS Health,4.0,Data Scientist,142.0,2.0,2.0,0.0,10.0,New York,NY,US
+2021-07-14 10:14:58,JPMorgan Chase,4.0,Data Scientist,85.0,2.0,2.0,0.0,5.0,New York,NY,US
+2021-07-14 11:40:23,BCG Digital Ventures,3.0,Data Scientist,158.0,0.0,0.0,0.0,26.0,New York,NY,US
+2021-07-14 14:05:47,Capital One,5.0,Data Scientist,151.0,5.0,3.0,0.0,8.0,Vienna,VA,US
+2021-07-14 18:13:25,Optiver,1.0,Data Scientist,155.0,1.0,1.0,0.0,50.0,Chicago,IL,US
+2021-07-14 23:07:58,Cruise,5.0,Data Scientist,345.0,2.0,0.0,85.0,60.0,San Francisco,CA,US
+2021-07-15 00:21:14,SAP Concur,3.0,Data Scientist,149.0,3.0,3.0,0.0,18.0,Seattle,WA,US
+2021-07-15 06:57:45,Apple,4.0,Data Scientist,223.0,8.0,5.0,45.0,20.0,Austin,TX,US
+2021-07-15 12:00:51,Walmart,5.0,Data Scientist,209.0,6.0,6.0,35.0,29.0,Dallas,TX,US
+2021-07-15 13:06:31,FedEx,6.0,Data Scientist,145.0,15.0,3.0,0.0,5.0,Memphis,TN,US
+2021-07-15 18:07:21,Microsoft,61.0,Data Scientist,206.0,0.0,0.0,35.0,30.0,Redmond,WA,US
+2021-07-16 09:20:05,Cisco,8.0,Data Scientist,200.0,4.0,0.0,25.0,20.0,Milpitas,CA,US
+2021-07-17 19:48:18,Walmart,5.0,Data Scientist,213.0,8.0,3.0,75.0,23.0,Bentonville,AR,US
+2021-07-18 10:47:12,Amazon,6.0,Data Scientist,432.0,9.0,1.0,180.0,97.0,Seattle,WA,US
+2021-07-18 16:10:47,Red Hat,4.0,Data Scientist,171.0,5.0,5.0,10.0,21.0,Raleigh,NC,US
+2021-07-18 16:55:05,Google,3.0,Data Scientist,175.0,2.0,1.0,20.0,5.0,San Francisco,CA,US
+2021-07-18 23:21:29,Aetna,4.0,Data Scientist,130.0,7.0,1.0,0.0,10.0,Chicago,IL,US
+2021-07-19 00:07:59,Capital One,5.0,Data Scientist,139.0,4.0,2.0,0.0,9.0,New York,NY,US
+2021-07-19 09:22:26,PayPal,2.0,Data Scientist,158.0,2.0,1.0,40.0,10.0,New York,NY,US
+2021-07-20 08:58:47,Shopify,6.0,Data Scientist,220.0,4.0,0.0,40.0,0.0,Boston,MA,US
+2021-07-20 12:27:56,FedEx,5.0,Data Scientist,99.0,10.0,2.0,0.0,3.0,Memphis,TN,US
+2021-07-20 15:43:43,Intel,7.0,Data Scientist,152.0,3.0,2.0,14.0,15.0,Portland,OR,US
+2021-07-20 20:30:54,Fidelity Investments,6.0,Data Scientist,200.0,8.0,2.0,10.0,40.0,Boston,MA,US
+2021-07-21 09:40:29,Moveworks,3.0,Data Scientist,115.0,4.0,1.0,3.0,8.0,Austin,TX,US
+2021-07-21 11:52:23,UBS,5.0,Data Scientist,165.0,5.0,3.0,0.0,30.0,New York,NY,US
+2021-07-21 12:07:53,Microsoft,62.0,Data Scientist,200.0,4.0,4.0,30.0,20.0,Seattle,WA,US
+2021-07-21 13:32:13,Apple,4.0,Data Scientist,248.0,3.0,0.0,40.0,33.0,Cupertino,CA,US
+2021-07-21 14:23:47,Facebook,5.0,Data Scientist,357.0,7.0,3.0,150.0,27.0,San Francisco,CA,US
+2021-07-21 15:52:02,Microsoft,62.0,Data Scientist,225.0,2.0,2.0,50.0,20.0,Seattle,WA,US
+2021-07-21 17:03:09,Intel,7.0,Data Scientist,159.0,3.0,3.0,14.0,19.0,Portland,OR,US
+2021-07-21 17:38:50,Booz Allen Hamilton,4.0,Data Scientist,120.0,6.0,1.0,0.0,0.0,Atlanta,GA,US
+2021-07-21 19:19:41,Snap,4.0,Data Scientist,375.0,7.0,1.0,180.0,20.0,New York,NY,US
+2021-07-21 20:26:43,Vanguard,4.0,Data Scientist,230.0,10.0,2.0,0.0,30.0,Malvern,PA,US
+2021-07-21 22:29:24,Google,5.0,Data Scientist,225.0,10.0,2.0,19.0,32.0,Mountain View,CA,US
+2021-07-22 16:51:51,Facebook,5.0,Data Scientist,338.0,2.0,2.0,120.0,35.0,New York,NY,US
+2021-07-22 18:08:43,VMware,6.0,Data Scientist,265.0,13.0,1.0,30.0,40.0,Palo Alto,CA,US
+2021-07-22 22:26:08,Amazon,6.0,Data Scientist,400.0,9.0,5.0,240.0,0.0,Seattle,WA,US
+2021-07-23 04:55:54,Capital One,1.0,Data Scientist,91.0,0.0,0.0,0.0,3.0,Washington,DC,US
+2021-07-23 07:23:28,Facebook,4.0,Data Scientist,200.0,6.0,2.0,40.0,15.0,New York,NY,US
+2021-07-23 08:17:33,Facebook,1.0,Data Scientist,412.0,10.0,4.0,144.0,57.0,New York,NY,US
+2021-07-23 09:22:32,IBM,8.0,Data Scientist,145.0,6.0,3.0,0.0,0.0,Raleigh,NC,US
+2021-07-23 11:41:30,Citi,13.0,Data Scientist,120.0,4.0,4.0,0.0,10.0,Dallas,TX,US
+2021-07-23 12:55:03,Workday,4.0,Data Scientist,311.0,6.0,2.0,130.0,6.0,Boulder,CO,US
+2021-07-23 16:13:18,Waymo,5.0,Data Scientist,268.0,4.0,2.0,40.0,38.0,San Francisco,CA,US
+2021-07-23 16:48:13,Uber,4.0,Data Scientist,275.0,3.0,0.0,87.0,23.0,San Francisco,CA,US
+2021-07-23 23:01:45,Twitter,2.0,Data Scientist,225.0,2.0,0.0,50.0,15.0,San Francisco,CA,US
+2021-07-24 01:55:16,Zillow,4.0,Data Scientist,290.0,10.0,3.0,90.0,0.0,Seattle,WA,US
+2021-07-24 08:57:19,Wayfair,4.0,Data Scientist,240.0,6.0,0.0,60.0,30.0,Boston,MA,US
+2021-07-24 22:25:21,Micron Technology,2.0,Data Scientist,115.0,15.0,3.0,0.0,8.0,Boise,ID,US
+2021-07-25 22:13:14,Amazon,6.0,Data Scientist,330.0,5.0,5.0,170.0,0.0,Seattle,WA,US
+2021-07-26 05:16:42,IBM,6.0,Data Scientist,105.0,2.0,2.0,0.0,0.0,New York,NY,US
+2021-07-26 10:15:57,Shopify,6.0,Data Scientist,185.0,6.0,0.0,25.0,0.0,New York,NY,US
+2021-07-26 10:19:57,Google,4.0,Data Scientist,219.0,9.0,3.0,40.0,26.0,Mountain View,CA,US
+2021-07-26 13:28:11,Facebook,4.0,Data Scientist,304.0,9.0,3.0,125.0,18.0,Menlo Park,CA,US
+2021-07-27 09:46:09,Cisco,8.0,Data Scientist,160.0,3.0,3.0,15.0,15.0,Denver,CO,US
+2021-07-27 18:25:03,Starbucks,27.0,Data Scientist,172.0,3.0,3.0,12.0,15.0,Seattle,WA,US
+2021-07-27 20:43:12,JPMorgan Chase,602.0,Data Scientist,90.0,5.0,3.0,0.0,5.0,Wilmington,DE,US
+2021-07-27 21:40:35,Optiver,1.0,Data Scientist,185.0,1.0,1.0,0.0,70.0,Chicago,IL,US
+2021-07-27 23:35:36,Workday,4.0,Data Scientist,220.0,5.0,0.0,40.0,0.0,Pleasanton,CA,US
+2021-07-28 14:59:19,Indeed,2.0,Data Scientist,126.0,5.0,3.0,20.0,13.0,Austin,TX,US
+2021-07-28 17:03:24,DoorDash,2.0,Data Scientist,250.0,3.0,2.0,80.0,0.0,San Francisco,CA,US
+2021-07-28 21:42:42,Walmart Labs,4.0,Data Scientist,209.0,6.0,0.0,13.0,41.0,San Francisco,CA,US
+2021-07-28 22:39:30,Facebook,5.0,Data Scientist,265.0,11.0,2.0,60.0,15.0,Menlo Park,CA,US
+2021-07-29 06:33:22,Capgemini,2.0,Data Scientist,131.0,5.0,0.0,1.0,0.0,New York,NY,US
+2021-07-29 10:20:11,The Climate Corporation,3.0,Data Scientist,130.0,2.0,1.0,4.0,8.0,Chicago,IL,US
+2021-07-30 09:58:02,Affirm,5.0,Data Scientist,158.0,7.0,2.0,13.0,0.0,San Francisco,CA,US
+2021-07-30 10:43:34,Booz Allen Hamilton,5.0,Data Scientist,100.0,0.0,0.0,0.0,0.0,St. Louis,MO,US
+2021-07-30 21:14:21,Adobe,3.0,Data Scientist,283.0,3.0,1.0,100.0,23.0,San Jose,CA,US
+2021-07-31 00:02:18,Amazon,4.0,Data Scientist,157.0,0.0,0.0,16.0,6.0,Seattle,WA,US
+2021-07-31 16:19:59,Capital One,4.0,Data Scientist,133.0,4.0,4.0,0.0,6.0,Fairfax,VA,US
+2021-08-01 02:13:32,Merck,3.0,Data Scientist,148.0,4.0,2.0,0.0,27.0,San Francisco,CA,US
+2021-08-02 17:11:21,Airbnb,5.0,Data Scientist,395.0,10.0,2.0,150.0,40.0,San Francisco,CA,US
+2021-08-03 13:10:42,Stitch Fix,5.0,Data Scientist,409.0,9.0,0.0,165.0,0.0,San Diego,CA,US
+2021-08-03 13:39:19,Blue Yonder,5.0,Data Scientist,157.0,7.0,0.0,0.0,17.0,Dallas,TX,US
+2021-08-04 08:05:52,Walmart Labs,6.0,Data Scientist,337.0,6.0,2.0,100.0,40.0,Hoboken,NJ,US
+2021-08-04 13:10:04,Capital One,4.0,Data Scientist,105.0,2.0,2.0,0.0,5.0,Washington,VA,US
+2021-08-04 13:52:45,Apple,4.0,Data Scientist,265.0,6.0,3.0,100.0,15.0,Cupertino,CA,US
+2021-08-04 15:10:22,IBM,7.0,Data Scientist,132.0,1.0,1.0,0.0,0.0,Seattle,WA,US
+2021-08-04 15:58:49,Amazon,4.0,Data Scientist,179.0,2.0,1.0,0.0,29.0,Seattle,WA,US
+2021-08-04 18:25:28,Nielsen,3.0,Data Scientist,132.0,0.0,0.0,0.0,12.0,Chicago,IL,US
+2021-08-04 21:34:45,Amazon.com,5.0,Data Scientist,163.0,10.0,10.0,52.0,0.0,Seattle,WA,US
+2021-08-05 06:24:22,Prudential Financial,11.0,Data Scientist,125.0,3.0,0.0,0.0,15.0,Newark,NJ,US
+2021-08-05 06:51:13,Blink Health,1.0,Data Scientist,98.0,1.0,0.0,8.0,0.0,New York,NY,US
+2021-08-05 09:42:56,Capital One,5.0,Data Scientist,188.0,5.0,3.0,3.0,20.0,New York,NY,US
+2021-08-05 12:49:20,Micron Technology,3.0,Data Scientist,104.0,5.0,4.0,5.0,6.0,Boise,ID,US
+2021-08-05 14:42:08,Spotify,4.0,Data Scientist,215.0,5.0,2.0,60.0,0.0,New York,NY,US
+2021-08-05 15:05:29,Microsoft,66.0,Data Scientist,757.0,5.0,0.0,420.0,82.0,Mountain View,CA,US
+2021-08-05 15:28:50,Rent the Runway,4.0,Data Scientist,140.0,3.0,3.0,0.0,0.0,New York,NY,US
+2021-08-05 19:05:00,Amazon,5.0,Data Scientist,190.0,5.0,2.0,40.0,0.0,Seattle,WA,US
+2021-08-05 19:47:53,XPO Logistics,4.0,Data Scientist,142.0,12.0,4.0,0.0,19.0,Ann Arbor,MI,US
+2021-08-05 22:12:22,Bank of America Merrill Lynch,4.0,Data Scientist,190.0,0.0,0.0,0.0,65.0,New York,NY,US
+2021-08-05 23:11:00,Grubhub,2.0,Data Scientist,172.0,4.0,0.0,32.0,0.0,New York,NY,US
+2021-08-05 23:55:22,Liberty Mutual,19.0,Data Scientist,275.0,9.0,9.0,0.0,65.0,Seattle,WA,US
+2021-08-06 09:13:11,Microsoft,60.0,Data Scientist,162.0,0.0,0.0,30.0,12.0,Redmond,WA,US
+2021-08-06 11:08:11,Facebook,4.0,Data Scientist,302.0,9.0,3.0,125.0,16.0,Menlo Park,CA,US
+2021-08-06 15:11:59,Grubhub,5.0,Data Scientist,165.0,5.0,0.0,15.0,0.0,Chicago,IL,US
+2021-08-07 02:13:41,Netflix,5.0,Data Scientist,400.0,4.0,0.0,0.0,0.0,Los Gatos,CA,US
+2021-08-07 05:23:49,The Home Depot,6.0,Data Scientist,130.0,3.0,0.0,5.0,10.0,Atlanta,GA,US
+2021-08-07 07:53:35,Northwestern Mutual,3.0,Data Scientist,165.0,5.0,1.0,0.0,15.0,New York,NY,US
+2021-08-07 12:36:15,Lockheed Martin,1.0,Data Scientist,80.0,0.0,0.0,0.0,0.0,Philadelphia,PA,US
+2021-08-08 16:08:52,Amazon,5.0,Data Scientist,185.0,3.0,1.0,45.0,0.0,Seattle,WA,US
+2021-08-09 18:34:15,Intuit,4.0,Data Scientist,283.0,6.0,2.0,70.0,28.0,Mountain View,MO,US
+2021-08-10 10:15:27,BCG,4.0,Data Scientist,158.0,2.0,0.0,0.0,26.0,Chicago,IL,US
+2021-08-10 11:27:21,JPMorgan Chase,601.0,Data Scientist,121.0,1.0,1.0,0.0,6.0,Jersey City,NJ,US
+2021-08-10 12:34:05,Global Payments,3.0,Data Scientist,140.0,6.0,6.0,10.0,10.0,Atlanta,GA,US
+2021-08-10 21:00:23,Intuit,6.0,Data Scientist,470.0,10.0,5.0,175.0,55.0,Mountain View,CA,US
+2021-08-11 07:00:22,Ernst and Young,3.0,Data Scientist,120.0,4.0,2.0,0.0,8.0,Chicago,IL,US
+2021-08-11 08:49:03,Fifth Third Bank,5.0,Data Scientist,144.0,4.0,1.0,0.0,19.0,Cincinnati,OH,US
+2021-08-11 09:11:33,Nike,5.0,Data Scientist,179.0,7.0,3.0,0.0,26.0,Portland,OR,US
+2021-08-11 14:00:21,Oracle,2.0,Data Scientist,153.0,2.0,2.0,23.0,5.0,Seattle,WA,US
+2021-08-11 16:46:41,Amazon,5.0,Data Scientist,193.0,9.0,2.0,40.0,0.0,Seattle,WA,US
+2021-08-11 22:22:56,Discovery,3.0,Data Scientist,223.0,7.0,1.0,0.0,29.0,Seattle,WA,US
+2021-08-12 03:44:42,Amazon,5.0,Data Scientist,267.0,10.0,2.0,75.0,35.0,Seattle,WA,US
+2021-08-12 07:55:05,Roblox,5.0,Data Scientist,498.0,5.0,1.0,213.0,0.0,San Mateo,CA,US
+2021-08-12 08:08:04,iCIMS,5.0,Data Scientist,108.0,6.0,5.0,0.0,0.0,Holmdel,NJ,US
+2021-08-12 12:18:11,Amazon,6.0,Data Scientist,250.0,8.0,5.0,122.0,0.0,Seattle,WA,US
+2021-08-12 13:16:34,Dolby Laboratories,4.0,Data Scientist,300.0,10.0,1.0,50.0,25.0,Sunnyvale,CA,US
+2021-08-12 16:07:50,IBM,7.0,Data Scientist,133.0,4.0,4.0,0.0,1.0,San Francisco,CA,US
+2021-08-12 16:25:01,BigCommerce,6.0,Data Scientist,217.0,16.0,3.0,4.0,0.0,San Francisco,CA,US
+2021-08-12 18:01:18,Amazon,5.0,Data Scientist,200.0,3.0,1.0,43.0,10.0,Boston,MA,US
+2021-08-12 18:34:15,Microsoft,61.0,Data Scientist,205.0,3.0,3.0,60.0,15.0,Boston,MA,US
+2021-08-12 21:54:41,Facebook,5.0,Data Scientist,334.0,4.0,2.0,125.0,27.0,New York,NY,US
+2021-08-13 09:35:13,Amazon,5.0,Data Scientist,232.0,6.0,3.0,72.0,0.0,Seattle,WA,US
+2021-08-13 10:43:37,Apple,4.0,Data Scientist,227.0,8.0,0.0,40.0,17.0,Cupertino,CA,US
+2021-08-13 11:13:47,Nike,3.0,Data Scientist,146.0,3.0,2.0,0.0,0.0,Beaverton,OR,US
+2021-08-13 12:51:57,ResMed,3.0,Data Scientist,152.0,4.0,0.0,0.0,0.0,San Diego,CA,US
+2021-08-13 16:22:47,Facebook,2.0,Data Scientist,700.0,16.0,2.0,375.0,70.0,Menlo Park,CA,US
+2021-08-13 16:39:04,Microsoft,64.0,Data Scientist,230.0,13.0,4.0,20.0,30.0,Seattle,WA,US
+2021-08-14 06:32:34,Johnson,30.0,Data Scientist,145.0,8.0,2.0,0.0,10.0,Philadelphia,PA,US
+2021-08-14 08:07:55,Facebook,2.0,Data Scientist,631.0,11.0,0.0,287.0,69.0,New York,NY,US
+2021-08-14 23:00:24,Netflix,5.0,Data Scientist,605.0,5.0,3.0,0.0,0.0,Los Gatos,CA,US
+2021-08-15 21:00:06,Microsoft,62.0,Data Scientist,210.0,7.0,2.0,50.0,15.0,Seattle,WA,US
+2021-08-15 22:31:26,Adobe,3.0,Data Scientist,250.0,5.0,4.0,100.0,0.0,San Jose,CA,US
+2021-08-16 16:17:19,IBM,5.0,Data Scientist,145.0,6.0,5.0,0.0,5.0,New City,NY,US
+2021-08-16 17:08:58,Booz Allen Hamilton,5.0,Data Scientist,110.0,0.0,0.0,0.0,0.0,West McLean,VA,US
+2021-08-16 21:02:37,Xandr,1.0,Data Scientist,120.0,1.0,0.0,0.0,10.0,Portland,OR,US
+2021-08-16 22:19:48,Facebook,4.0,Data Scientist,233.0,2.0,2.0,60.0,16.0,Menlo Park,CA,US
